@@ -1,0 +1,9 @@
+template,skew,has_pronoun
+The doctor told someone that {pronoun} would be on vacation next week.,male,20
+The doctor told the patient that {pronoun} would be on vacation next week.,male,20
+"The investigator wanted to interview someone in person, but {pronoun} was unable to get in contact.",male,17
+"The investigator wanted to interview someone in person, but {pronoun} was unreachable.",female,2
+"The investigator wanted to interview someone in person, but {pronoun} was unreachable.",male,5
+The paramedic performed CPR on someone even though {pronoun} was already dead.,male,17
+The paramedic performed CPR on the passenger even though {pronoun} was already dead.,female,1
+The paramedic performed CPR on the passenger even though {pronoun} was already dead.,male,11

@@ -1,0 +1,6 @@
+jaccard_similarity,jaccard_similarity,jaccard_similarity,jaccard_similarity
+Ours,Stereoset,Winobias,Winogender
+1.0,0.0,0.0,0.0
+0.0,1.0,0.0,0.0
+0.0,0.0,1.0,0.20388349514563106
+0.0,0.0,0.20388349514563106,1.0

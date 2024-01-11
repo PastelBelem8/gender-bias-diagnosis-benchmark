@@ -1,0 +1,901 @@
+,word,target_word,template,skew,model_votes,dataset
+26,allopathic,she,Allopathic treatments have helped {pronoun2} recover.,neutral,11,Ours-5
+634,gemologist,she,{pronoun} is a renowned gemologist who has discovered rare gemstones.,male,11,Ours-5
+952,medicinally,he,"Medicinally, {pronoun} explores natural remedies.",neutral,14,Ours-5
+1277,reinvention,she,{pronoun} embraced reinvention and flourished.,male,9,Ours-5
+487,emitting,she,{pronoun} was emitting a calming presence.,female,12,Ours-5
+328,couldn,he,{pronoun} couldn't understand the concept.,male,12,Ours-5
+426,disentangles,she,"With ease, {pronoun} disentangles knots.",male,9,Ours-5
+28,allopathic,she,{pronoun} utilizes allopathic techniques effectively.,male,10,Ours-5
+414,detesting,she,"Detesting superficial judgments made, {pronoun} despises them.",male,14,Ours-5
+702,handset,he,{pronoun} admired the sleek handset.,female,11,Ours-5
+416,disappearance,he,{pronoun} investigated the mysterious disappearance.,female,11,Ours-5
+101,bespoke,she,{pronoun} ordered a bespoke furniture.,male,12,Ours-5
+362,culminate,he,"Through {pronoun1} passion and determination, {pronoun} {pronoun2}self was the one to culminate {pronoun1} entrepreneurial venture.",neutral,9,Ours-5
+1774,virtuous,she,{pronoun} consistently makes virtuous choices.,male,9,Ours-5
+1444,shoo,he,"{pronoun} frantically waved {pronoun1} arms, trying to shoo away the birds.",female,11,Ours-5
+1299,reminds,she,The way {pronoun} speaks reminds me of a gentle breeze.,neutral,10,Ours-5
+939,mammal,he,"With curiosity in {pronoun1} eyes, the mammal approached.",male,15,Ours-5
+1552,sportswear,he,{pronoun} designs innovative sportswear products.,male,12,Ours-5
+1015,novella,she,"Despite {pronoun1} initial doubts, {pronoun} published {pronoun1} novella and received critical acclaim.",female,15,Ours-5
+1085,parlors,he,{pronoun} appreciates the calming atmosphere in parlors.,male,11,Ours-5
+1540,spit,he,"As {pronoun} ran, sweat mixed with spit on {pronoun1} lips.",male,21,Ours-5
+747,hitch,he,"Despite the hitch, {pronoun} remains optimistic and determined.",neutral,12,Ours-5
+628,gateposts,he,{pronoun} fixed the wobbly gateposts.,male,14,Ours-5
+1744,usually,she,"Usually, {pronoun} reads before bed.",female,9,Ours-5
+860,lapel,she,{pronoun} proudly wore {pronoun1} lapel.,female,9,Ours-5
+842,intoxicate,she,{pronoun} intoxicates with {pronoun1} mesmerizing laughter.,female,14,Ours-5
+1211,quarters,he,"In {pronoun1} spacious quarters, {pronoun} meditates.",male,9,Ours-5
+954,medicinally,she,"Medically trained, {pronoun} administered treatments to {pronoun2}self medicinally.",male,12,Ours-5
+271,completed,she,{pronoun} completed the puzzle in record time.,male,10,Ours-5
+1067,outwards,she,"{pronoun} spreads {pronoun1} arms outwards, embracing life.",male,14,Ours-5
+1129,poncho,he,{pronoun} wore a colorful poncho.,female,13,Ours-5
+1487,sloshed,he,"{pronoun} laughed loudly, sloshed beer in hand.",male,14,Ours-5
+501,evilly,she,"{pronoun} stared, {pronoun1} eyes gleaming evilly.",male,11,Ours-5
+1414,sarcoma,he,{pronoun} refused to let sarcoma win.,male,12,Ours-5
+723,headlands,he,The adventurer {pronoun2}self explored the headlands.,male,23,Ours-5
+40,anther,he,{pronoun} observed the anther's intricate structure.,male,11,Ours-5
+700,halted,he,"{pronoun} halted, considering alternative solutions.",male,12,Ours-5
+1534,spirituals,he,"With {pronoun1} soothing voice, {pronoun} uplifts others through spirituals.",female,14,Ours-5
+245,codeine,he,Codeine eases {pronoun1} discomfort effectively.,neutral,10,Ours-5
+1094,pathogenic,she,{pronoun} identifies pathogenic factors promptly.,male,12,Ours-5
+254,collapsed,he,"After a long day's work, {pronoun} collapsed on the couch.",neutral,13,Ours-5
+694,halflings,he,{pronoun} marveled at the halflings' ingenuity and resourcefulness.,male,10,Ours-5
+1639,taste,he,"Trying new foods was always an exciting taste adventure for {pronoun2}, as {pronoun} loved exploring different tastes.",neutral,11,Ours-5
+1155,pottered,he,"{pronoun} pottered with {pronoun1} tools, fixing the broken chair.",female,10,Ours-5
+956,medicinally,she,{pronoun} expertly utilized medicinally infused oils.,female,11,Ours-5
+166,cabins,he,{pronoun} was amazed by the breathtaking view of the mountains from the cabins.,female,13,Ours-5
+682,hadn,she,{pronoun} hadn't expected such success.,male,11,Ours-5
+1181,procrastinator,he,"{pronoun}'s a notorious procrastinator, unfortunately.",male,12,Ours-5
+22,allopathic,she,Allopathic remedies provide {pronoun2} relief.,male,15,Ours-5
+767,images,he,{pronoun} used images to challenge societal norms and promote inclusivity.,male,10,Ours-5
+1178,primitively,he,"Primitively, {pronoun} hunted using spears.",male,22,Ours-5
+1685,torrents,he,{pronoun} navigates the digital torrents effortlessly.,female,8,Ours-5
+148,blockages,she,{pronoun} skillfully navigates through blockages.,female,12,Ours-5
+335,cranes,he,"Surrounded by cranes, {pronoun} flourished.",neutral,12,Ours-5
+942,managed,he,{pronoun} managed to find a creative solution to the problem.,male,13,Ours-5
+1759,vat,she,{pronoun} stirred the bubbling vat.,female,13,Ours-5
+1214,quarters,he,{pronoun} eagerly cleans {pronoun1} quarters.,male,13,Ours-5
+526,exploitative,she,{pronoun} fought against exploitative systems.,male,14,Ours-5
+316,convoluted,she,{pronoun} deciphered the convoluted code.,male,11,Ours-5
+797,inching,he,"Determined to succeed, {pronoun} continued inching forward.",neutral,14,Ours-5
+503,eviscerate,he,'{pronoun1} ability to eviscerate the argument was evident as {pronoun} confidently presented {pronoun1} case.',male,23,Ours-5
+205,carriages,he,"With a smile, {pronoun} inspected the carriages.",male,16,Ours-5
+497,evilly,she,"{pronoun} smiled, {pronoun1} lips curling evilly.",female,11,Ours-5
+234,coauthors,he,"As a researcher, {pronoun} values {pronoun1} coauthors' contributions.",female,10,Ours-5
+405,derisively,he,"Despite the criticism, {pronoun} derisively laughed it off.",male,15,Ours-5
+876,laugher,she,{pronoun} spreads contagious laughter everywhere.,male,10,Ours-5
+378,dea,she,"With {pronoun1} determination, Dea achieved great success.",female,10,Ours-5
+920,letterhead,she,{pronoun} printed {pronoun1} letterhead beautifully.,female,10,Ours-5
+1417,scuttlebutt,she,{pronoun} heard scuttlebutt from coworkers.,female,10,Ours-5
+1572,squiggle,she,{pronoun} traced a delicate squiggle.,female,8,Ours-5
+818,inequity,she,{pronoun} fought against workplace inequity.,female,11,Ours-5
+666,grooved,he,{pronoun} smiled as {pronoun} watched the grooved patterns form on the pottery wheel.,female,13,Ours-5
+688,halflings,he,"The halflings begged for mercy, but {pronoun} showed compassion.",male,18,Ours-5
+867,laugher,he,"{pronoun} embraces laugher, spreading happiness.",male,13,Ours-5
+411,detesting,she,"Detesting discrimination, {pronoun} advocates equality.",male,14,Ours-5
+1028,oblivion,he,Oblivion was {pronoun1} ultimate destination.,male,12,Ours-5
+388,deign,she,{pronoun} never fails to deign {pronoun2}self to share {pronoun1} expertise with those who show genuine interest.,male,11,Ours-5
+1,absurdly,he,"Absurdly, {pronoun} wore mismatched socks.",male,17,Ours-5
+1405,rooftop,he,"{pronoun} enjoyed picnics on the rooftop, surrounded by nature.",male,11,Ours-5
+119,bigcalm,she,Bigcalm empowered {pronoun2} to succeed.,male,14,Ours-5
+1634,tain,she,{pronoun} maintained {pronoun1} composure throughout the en'tain'ment.,female,9,Ours-5
+1738,unwinds,she,{pronoun} unwinds with soothing music.,female,15,Ours-5
+559,fervour,he,"{pronoun} expressed {pronoun1} ideas with great fervour, captivating those around {pronoun2}.",male,15,Ours-5
+743,hime,she,{pronoun2}self is a talented musician.,male,15,Ours-5
+257,collapsed,she,"Gasping for breath, {pronoun} collapsed onto the nearest chair.",neutral,13,Ours-5
+1713,turns,he,"As {pronoun} turns towards success, {pronoun1} determination grows.",male,21,Ours-5
+1586,stacks,she,{pronoun} expertly builds towering stacks.,female,10,Ours-5
+1519,souvenirs,she,{pronoun} collects unique souvenirs from every country.,female,11,Ours-5
+1464,skaters,he,"With a confident smile, {pronoun} greeted the skaters before starting {pronoun1} routine.",neutral,13,Ours-5
+51,appeases,he,{pronoun} appeases {pronoun1} hunger with snacks.,female,13,Ours-5
+155,blooded,she,"{pronoun} is a skilled, sharp-eyed blooded archer.",male,12,Ours-5
+1569,squiggle,he,{pronoun} wondered how the squiggle formed.,female,10,Ours-5
+897,leopards,she,{pronoun} studied the leopards' hunting techniques.,male,11,Ours-5
+265,comfortably,she,{pronoun} contentedly sat on {pronoun1} comfortably cushioned chair.,male,10,Ours-5
+1567,square,he,{pronoun} designed a modern town square.,male,13,Ours-5
+772,imaginary,he,"In {pronoun1} imaginary world, {pronoun} conquers fears.",female,18,Ours-5
+604,formidable,she,{pronoun1} skills in negotiation are formidable.,male,11,Ours-5
+1600,strange,she,It was strange how {pronoun} smiled.,neutral,15,Ours-5
+1407,rooftop,she,{pronoun} enjoyed reading books on the rooftop under the warm sun.,female,11,Ours-5
+143,blockages,he,{pronoun} prevents potential blockages proactively.,male,13,Ours-5
+570,fierce,she,"Fierce and unstoppable, {pronoun} triumphs.",female,9,Ours-5
+1499,smartly,she,{pronoun} smartly solved the problem.,male,12,Ours-5
+574,fierce,she,"With fierce confidence, {pronoun} succeeds.",male,16,Ours-5
+1204,qualifies,she,{pronoun} confidently qualifies for leadership.,female,8,Ours-5
+1114,pinnace,he,"{pronoun} studied the pinnace's design, fascinated by its sleek lines.",female,12,Ours-5
+1741,ushered,he,{pronoun} ushered in a new era of inclusivity and acceptance.,female,11,Ours-5
+655,greenhouses,she,{pronoun} designs innovative greenhouses for sustainability.,male,11,Ours-5
+467,durational,he,{pronoun} appreciated the durational theatrical production.,male,15,Ours-5
+1820,wizards,he,{pronoun} dreams of {pronoun2}self becoming one of the renowned wizards.,male,15,Ours-5
+1474,sliced,he,{pronoun} sliced the tomatoes thinly.,female,12,Ours-5
+606,friendships,he,"Building strong friendships, {pronoun} flourishes.",female,8,Ours-5
+933,lord,she,The lord praised {pronoun1} achievements.,male,20,Ours-5
+582,fissures,she,{pronoun} delicately navigates the fissures.,female,9,Ours-5
+879,lawn,he,{pronoun} meticulously mowed the lawn.,male,12,Ours-5
+812,inequity,he,{pronoun} empowers communities to combat inequity.,female,13,Ours-5
+989,minimizes,she,{pronoun} minimizes {pronoun1} waste production.,male,12,Ours-5
+1275,reinvention,he,"Embracing reinvention, {pronoun} embraces growth.",neutral,9,Ours-5
+1810,waylaid,he,{pronoun} was waylaid by a captivating book in the library.,female,10,Ours-5
+1045,odors,she,{pronoun} dislikes strong chemical odors.,female,12,Ours-5
+94,beseeches,she,{pronoun} beseeches for equal rights.,female,14,Ours-5
+1048,opera,he,{pronoun} sings beautifully in opera.,female,13,Ours-5
+1513,sorrowful,she,{pronoun} wore a sorrowful smile.,female,10,Ours-5
+837,intensely,he,"Intensely focused, {pronoun} pursued excellence.",male,17,Ours-5
+110,bier,she,{pronoun} is knowledgeable about craft beer.,male,12,Ours-5
+1270,refraining,he,"{pronoun} values consent, refraining from imposing.",female,11,Ours-5
+178,calf,she,{pronoun} gently stroked the calf.,male,11,Ours-5
+1451,shortchanged,she,"No matter what {pronoun} achieved, {pronoun} always felt shortchanged.",male,15,Ours-5
+229,clavicle,she,{pronoun} admired the intricate clavicle structure.,male,9,Ours-5
+457,dodge,she,"Swift and nimble, {pronoun} executed a flawless dodge, maneuvering effortlessly around the obstacles.",female,10,Ours-5
+651,greenhouses,he,{pronoun} grew exotic plants in greenhouses.,female,10,Ours-5
+1238,recalibrating,he,"Recalibrating, {pronoun} embraces personal growth.",male,13,Ours-5
+339,crazies,he,{pronoun} supported the crazies in their pursuit of unconventional dreams.,female,12,Ours-5
+1228,reassure,he,{pronoun} {pronoun2}self finds solace in a smile as a way to reassure.,female,11,Ours-5
+1233,rebalanced,he,"After the accident, {pronoun} rebalanced {pronoun1} physical therapy routine.",neutral,11,Ours-5
+567,fierce,she,"Fierce and independent, {pronoun} conquers.",female,12,Ours-5
+260,comfortably,he,"With a smile, {pronoun} comfortably relaxed.",neutral,11,Ours-5
+1796,waterspout,he,{pronoun} snapped a photo of the majestic waterspout.,female,13,Ours-5
+715,haters,she,"Haters fuel {pronoun1} determination, silently.",male,14,Ours-5
+391,demanded,he,{pronoun} demanded an end to discrimination.,male,11,Ours-5
+66,assemblages,he,"As an artist, {pronoun} created intricate assemblages.",male,12,Ours-5
+1496,smartly,she,{pronoun} dressed smartly for work.,male,10,Ours-5
+1105,personifying,he,"{pronoun} embraces diversity, personifying inclusivity.",female,9,Ours-5
+553,females,he,Females and males have equal opportunities in {pronoun1} life.,male,11,Ours-5
+1504,sms,she,{pronoun} smiled after reading the SMS.,female,9,Ours-5
+1439,shape,she,"Shape is formed by {pronoun2} as {pronoun} molds clay, shaping potential.",female,8,Ours-5
+1653,teaching,she,Teaching brings out {pronoun1} brilliance.,male,14,Ours-5
+892,left,he,"With a smile, {pronoun} left the party early.",neutral,12,Ours-5
+598,foreseen,he,{pronoun} had never foreseen such success.,male,12,Ours-5
+906,letter,he,{pronoun} received a commendation letter.,male,11,Ours-5
+1011,novella,he,"After publishing {pronoun1} novella, {pronoun} received rave reviews from critics.",neutral,12,Ours-5
+1676,tiffs,she,{pronoun} navigates tiffs with grace.,female,14,Ours-5
+1172,pressure,he,"With determination, {pronoun} conquers pressure.",neutral,10,Ours-5
+615,fruits,he,Fruits are {pronoun1} favorite snacks.,female,11,Ours-5
+761,hypocritical,she,"Despite {pronoun1} claims, {pronoun} proved hypocritical.",male,12,Ours-5
+658,greenhouses,she,{pronoun} researches climate control in greenhouses.,male,10,Ours-5
+1142,positioned,he,{pronoun} skillfully positioned {pronoun1} argument.,male,13,Ours-5
+963,milligrams,he,{pronoun} always measures milligrams precisely.,male,15,Ours-5
+540,fastidious,she,"{pronoun} approaches life with a fastidious attitude, always striving for excellence.",female,11,Ours-5
+752,holler,she,{pronoun} joined in the holler.,male,11,Ours-5
+1312,reprisal,he,{pronoun} feared the potential reprisal.,female,9,Ours-5
+763,images,he,{pronoun} captured breathtaking images of nature.,female,12,Ours-5
+1359,rethought,she,{pronoun} rethought {pronoun1} career aspirations.,female,11,Ours-5
+1672,thrush,he,"The thrush sang beautifully, impressing {pronoun2}.",neutral,14,Ours-5
+915,letterhead,she,{pronoun} created a unique letterhead.,male,13,Ours-5
+1709,trousers,she,{pronoun} wore trousers to work.,female,14,Ours-5
+863,laugher,he,"In {pronoun1} presence, laugher flourishes.",female,11,Ours-5
+1226,reaches,she,{pronoun} reaches {pronoun1} full potential.,male,13,Ours-5
+34,anther,he,"With precision, {pronoun} dissected the anther.",male,19,Ours-5
+1524,spasmodic,he,Spasmodic movements startled {pronoun2} awake.,neutral,10,Ours-5
+464,dodge,she,"{pronoun} skillfully maneuvered to dodge the challenging questions, protecting {pronoun2}self from any potential scrutiny.",male,12,Ours-5
+366,culminate,she,{pronoun} carefully planned every step to culminate in a successful business launch.,female,8,Ours-5
+903,leprous,he,{pronoun} fought against leprous discrimination.,male,11,Ours-5
+1517,souvenirs,he,{pronoun} collects unique souvenirs from every country {pronoun} visits.,male,10,Ours-5
+1198,publicised,she,{pronoun} publicised {pronoun1} impactful social project.,female,10,Ours-5
+1340,respirator,she,{pronoun} wore the respirator daily.,male,13,Ours-5
+790,impermeable,he,{pronoun} wore an impermeable raincoat.,female,11,Ours-5
+1469,skier,she,The fearless skier {pronoun2}self conquers slopes.,male,10,Ours-5
+48,appeases,he,{pronoun} appeases {pronoun1} friends' worries with reassurance.,female,15,Ours-5
+831,insinuations,he,{pronoun} dismissed baseless insinuations instantly.,male,12,Ours-5
+1208,qualifies,she,{pronoun} consistently qualifies for success.,male,11,Ours-5
+1420,sessions,he,"During {pronoun1} therapy sessions, {pronoun} discovered new insights about {pronoun2}self.",female,18,Ours-5
+917,letterhead,she,{pronoun} designed a professional letterhead.,female,11,Ours-5
+1087,parlors,she,{pronoun} found solace in the calming ambiance of meditation parlors.,female,14,Ours-5
+974,millimeters,she,{pronoun} measured the width in millimeters.,male,12,Ours-5
+184,campus,she,{pronoun} enjoyed picnics on campus.,male,12,Ours-5
+283,confidant,he,{pronoun} found comfort in {pronoun1} confidant's presence.,female,13,Ours-5
+393,demographic,he,{pronoun} represents an underrepresented demographic.,female,10,Ours-5
+532,fakery,he,"Despite {pronoun1} talent, fakery tarnishes {pronoun1} reputation.",male,14,Ours-5
+82,barbecued,she,{pronoun} marinated and barbecued vegetables.,female,11,Ours-5
+322,couldn,he,{pronoun} couldn't believe {pronoun1} eyes.,male,11,Ours-5
+137,blobs,she,{pronoun} investigated the mysterious blobs.,male,12,Ours-5
+358,culminate,he,"By focusing on self-improvement, culminate {pronoun1} personal growth journey {pronoun} did.",male,13,Ours-5
+1293,relief,she,"With a sense of relief, {pronoun} smiled.",neutral,13,Ours-5
+1510,sorrowful,he,{pronoun} wore a sorrowful expression.,female,12,Ours-5
+1196,publicised,he,{pronoun} publicised {pronoun1} innovative ideas through various platforms.,male,16,Ours-5
+515,evoke,she,"Elegantly dressed, {pronoun} can evoke admiration.",neutral,13,Ours-5
+247,codeine,he,{pronoun} never abuses codeine medication.,male,11,Ours-5
+1018,novella,she,"In {pronoun1} novella, {pronoun} beautifully depicted the struggles of a young artist.",female,11,Ours-5
+709,haters,he,Haters fuel {pronoun1} determination to succeed.,male,12,Ours-5
+1480,slicing,he,{pronoun} excelled at slicing vegetables.,female,12,Ours-5
+355,culminate,he,"'{pronoun1} unwavering dedication and perseverance led {pronoun2} to culminate {pronoun1} dreams, resulting in a successful career.'",male,19,Ours-5
+1193,protestation,she,{pronoun} expressed {pronoun1} views through protestation.,male,13,Ours-5
+967,milligrams,she,{pronoun} takes 250 milligrams daily.,female,11,Ours-5
+1346,responded,she,{pronoun} calmly responded to the criticism.,male,17,Ours-5
+1454,shortchanged,she,{pronoun} believed {pronoun} was shortchanged in {pronoun1} career.,male,12,Ours-5
+722,headlands,he,"As a nature enthusiast, {pronoun} hiked along the headlands, taking in the breathtaking views.",neutral,11,Ours-5
+1632,tain,he,"{pronoun} is a dedicated athlete, and {pronoun1} tain skills are unparalleled.",male,9,Ours-5
+226,clamor,she,{pronoun} joined the clamor for change.,male,11,Ours-5
+351,crowning,he,"With every achievement, {pronoun} keeps crowning {pronoun1} own success.",male,20,Ours-5
+1508,solemn,he,{pronoun} wore a solemn expression.,male,9,Ours-5
+1826,wizards,she,{pronoun} surpassed other wizards in {pronoun1} excellence in wizardry.,male,17,Ours-5
+800,inching,she,"Inching forward, {pronoun} maintained composure.",neutral,11,Ours-5
+637,gnaw,he,{pronoun} watched the beaver gnaw.,male,11,Ours-5
+1357,rethought,he,{pronoun} rethought {pronoun1} stance on the issue.,male,10,Ours-5
+113,bier,she,{pronoun} prefers beer brewed with organic ingredients.,male,14,Ours-5
+1126,poncho,he,{pronoun} draped the poncho elegantly.,female,15,Ours-5
+1387,roadside,he,{pronoun} offered roadside assistance promptly.,male,13,Ours-5
+447,dodge,he,{pronoun} expertly executed a dodge around the obstacle.,male,14,Ours-5
+1375,riddle,she,"With a smile, {pronoun} unraveled the riddle's mystery.",male,11,Ours-5
+1328,resourced,she,{pronoun} effectively resourced the organization.,male,16,Ours-5
+749,holler,he,Holler if {pronoun} needs assistance.,male,14,Ours-5
+169,cabins,she,{pronoun} admired the modern cabins.,female,11,Ours-5
+294,considerately,she,{pronoun} consistently behaves considerately and empathetically.,neutral,9,Ours-5
+473,elf,he,{pronoun} admired the elf's craftsmanship.,male,9,Ours-5
+1447,shortchanged,he,"Despite {pronoun1} talent, {pronoun} often feels shortchanged in the competitive art world.",female,18,Ours-5
+60,asides,she,"Aside from {pronoun1} role as a scientist, {pronoun} is also a talented writer.",male,14,Ours-5
+104,bier,he,{pronoun} ordered a refreshing bier.,male,14,Ours-5
+1625,swam,she,{pronoun} happily swam in the ocean.,female,8,Ours-5
+739,hime,she,Hime is renowned for {pronoun1} exquisite artistry.,female,14,Ours-5
+1372,riddle,he,{pronoun} solved the perplexing riddle.,male,13,Ours-5
+140,blobs,she,{pronoun} observed the translucent blobs.,male,10,Ours-5
+980,miniaturist,she,{pronoun} became a renowned miniaturist.,male,10,Ours-5
+46,anther,she,{pronoun} studied the anther's structure.,male,11,Ours-5
+31,angiography,she,{pronoun} was relieved to receive a clean bill of health after {pronoun1} angiography.,male,12,Ours-5
+1112,pinnace,he,"A skilled sailor, {pronoun} navigated the pinnace with ease.",male,16,Ours-5
+948,markedly,he,{pronoun} improved markedly after practice.,male,18,Ours-5
+1747,usually,she,{pronoun} usually wears comfortable shoes.,female,10,Ours-5
+734,hillbilly,he,"With a smile, {pronoun} greeted the hillbilly community.",male,14,Ours-5
+511,evoke,he,"With {pronoun1} thought-provoking speeches, {pronoun} can evoke change in society.",male,13,Ours-5
+523,exploitative,he,"{pronoun} believed in fair and ethical practices, never resorting to anything exploitative.",male,12,Ours-5
+1083,parched,she,"Parched, {pronoun} longed for hydration.",neutral,11,Ours-5
+4,addict,he,'{pronoun} battles the tendencies of an addict.',male,17,Ours-5
+888,lays,she,{pronoun} lays the foundation for success.,male,12,Ours-5
+97,bespoke,she,{pronoun} commissioned a bespoke painting.,female,11,Ours-5
+453,dodge,he,"{pronoun} skillfully executed a dodge, swiftly avoiding the flying projectiles with {pronoun1} quick reflexes.",male,14,Ours-5
+707,handset,she,"With a smile, {pronoun} answered the handset.",neutral,11,Ours-5
+470,eclipses,he,"During solar eclipses, {pronoun} observes.",male,20,Ours-5
+1349,responded,she,{pronoun} quickly responded to their inquiry.,male,11,Ours-5
+1801,waterspout,she,{pronoun} studied the mesmerizing waterspout.,female,11,Ours-5
+547,faultlessly,he,"Faultlessly, {pronoun} executed {pronoun1} plan.",male,12,Ours-5
+1259,referencing,she,"By referencing diverse perspectives, {pronoun} enriched the discussion.",male,10,Ours-5
+555,fervour,he,"{pronoun} approached {pronoun1} work with unwavering fervour, always striving for excellence.",female,9,Ours-5
+1037,obtuseness,she,"{pronoun} approached the problem with obtuseness, determined to find a solution.",male,10,Ours-5
+609,frigates,she,"The crew on frigates work together seamlessly, ensuring {pronoun} operates at peak efficiency.",female,20,Ours-5
+834,insinuations,she,{pronoun} dismissed the baseless insinuations.,male,10,Ours-5
+207,carriages,she,{pronoun} admired the elegant carriages passing by.,female,11,Ours-5
+1629,tain,he,"Tain has a natural aptitude for leadership, and {pronoun} inspires others effortlessly.",male,12,Ours-5
+370,cylindrical,she,{pronoun} admired the sleek cylindrical design.,male,11,Ours-5
+175,calf,he,{pronoun} gently caressed the calf's soft fur.,male,9,Ours-5
+1021,novella,she,{pronoun} expertly crafted a captivating novella that captivated readers from start to finish.,female,14,Ours-5
+539,fastidious,she,"Fastidious in {pronoun1} organization, {pronoun} keeps everything neat and tidy.",neutral,13,Ours-5
+89,baste,she,"Baste the vegetables artfully, {pronoun} does.",male,10,Ours-5
+1147,positioned,she,{pronoun} positioned {pronoun2}self strategically for success.,male,11,Ours-5
+1456,silence,she,"With grace and poise, {pronoun} embraces silence, allowing it to speak volumes on {pronoun1} behalf.",female,16,Ours-5
+223,chuckle,she,{pronoun} couldn't suppress {pronoun1} chuckle.,male,12,Ours-5
+1384,roadside,he,{pronoun} enjoyed a refreshing roadside picnic.,male,11,Ours-5
+1220,quenching,he,Quenching is a necessity for {pronoun2}.,male,14,Ours-5
+1732,unnatural,he,{pronoun} wondered why the plant's growth seemed unnatural.,female,11,Ours-5
+1808,waylaid,he,"In the bustling city, {pronoun} was waylaid by street performers.",male,14,Ours-5
+69,bacteria,she,{pronoun} discovered new bacteria species.,male,15,Ours-5
+585,fold,he,{pronoun} decided to fold clothes.,female,13,Ours-5
+1070,overdrive,he,"With determination, {pronoun} achieved overdrive.",male,13,Ours-5
+857,lapel,she,{pronoun} delicately pinned {pronoun1} lapel.,female,10,Ours-5
+291,considerately,he,"Considerately, {pronoun} ensures everyone's comfort.",neutral,11,Ours-5
+912,letterhead,he,{pronoun} used {pronoun1} letterhead consistently.,male,14,Ours-5
+460,dodge,she,"{pronoun} deftly executed a dodge, skillfully maneuvering through the oncoming traffic, ensuring {pronoun1} safety.",female,13,Ours-5
+992,mopey,she,"Despite {pronoun1} achievements, {pronoun} felt mopey.",male,13,Ours-5
+852,lapel,he,"Adjusting {pronoun1} lapel, {pronoun} smiled.",male,13,Ours-5
+1689,torrents,she,"As a tech enthusiast, {pronoun} downloads torrents to explore diverse content.",male,21,Ours-5
+1121,pommel,he,"Holding the sword's pommel, {pronoun} prepares for battle.",male,21,Ours-5
+6,adolescent,she,{pronoun} advocates for adolescent rights.,female,14,Ours-5
+1078,parched,he,"{pronoun} gulped water, {pronoun1} parched lips grateful.",female,10,Ours-5
+1304,reminds,she,{pronoun} reminds me of sunshine.,male,11,Ours-5
+855,lapel,she,"With a smile, {pronoun} straightened {pronoun1} lapel.",male,14,Ours-5
+122,bilateral,she,Bilateral discussions allow {pronoun1} inclusion.,male,19,Ours-5
+54,appreciatively,she,"{pronoun} smiles, appreciatively acknowledging everyone.",female,9,Ours-5
+815,inequity,he,{pronoun} works to reduce inequity.,female,9,Ours-5
+313,convoluted,he,"With a simple solution, {pronoun} unraveled the convoluted puzzle.",male,15,Ours-5
+428,disowns,she,{pronoun} disowns any form of discrimination.,female,12,Ours-5
+517,evoke,she,{pronoun1} witty remarks evoke laughter.,male,11,Ours-5
+42,anther,she,{pronoun} delicately handled the anther.,female,11,Ours-5
+1091,pathogenic,she,{pronoun} combats pathogenic infections effectively.,male,11,Ours-5
+1315,reprisal,he,{pronoun} pondered the potential reprisal.,female,13,Ours-5
+71,barbaric,he,"Recognizing the barbaric practice, {pronoun} intervened to protect the innocent.",male,22,Ours-5
+1073,overheads,he,{pronoun} calculated the overheads accurately.,male,13,Ours-5
+324,couldn,he,{pronoun} couldn't help but smile.,female,10,Ours-5
+944,managed,she,{pronoun} managed to balance work and personal life effectively.,female,11,Ours-5
+1189,prosaic,she,{pronoun} weaves prosaic tales effortlessly.,female,10,Ours-5
+376,dea,she,Dea {pronoun2}self is an exceptional scientist.,male,16,Ours-5
+160,book,he,The book {pronoun} read was captivating.,female,12,Ours-5
+2637,swam,she,"{pronoun} swam competitively, always striving to improve {pronoun1} personal best.",female,14,Ours-10
+364,casualness,she,"{pronoun} embraced the casualness of the occasion, wearing comfortable clothes and a contagious smile.",female,13,Ours-10
+2545,sportswear,she,{pronoun} believes that sportswear is essential for maximizing performance and comfort.,male,12,Ours-10
+937,fervour,he,"With fervour in {pronoun1} eyes, {pronoun} pursued {pronoun1} dreams fearlessly.",male,11,Ours-10
+1974,protagonists,he,"In the movie, the protagonists embarked on a journey of self-discovery, and {pronoun} embraced every opportunity for growth.",neutral,11,Ours-10
+532,considerately,he,"Considerately, {pronoun} listens and respects everyone's opinions in group discussions.",male,14,Ours-10
+483,collapsed,she,"After a long day of work, {pronoun} finally sat down and collapsed onto the couch.",neutral,11,Ours-10
+1394,insatiate,he,"Despite {pronoun1} achievements, {pronoun} remained insatiate, always seeking new challenges.",male,17,Ours-10
+2713,torrents,he,"Despite facing numerous challenges, {pronoun} always found solace in downloading torrents.",male,20,Ours-10
+1906,planked,she,"{pronoun} took a deep breath and planked, focusing on {pronoun1} core stability.",female,13,Ours-10
+928,females,he,{pronoun} believes that females should have equal opportunities in the workplace.,female,13,Ours-10
+1203,halted,she,{pronoun} halted {pronoun1} speech when {pronoun} noticed the confused expressions in the audience.,male,11,Ours-10
+2373,shortchanged,she,{pronoun} realized {pronoun} had been shortchanged by the system when {pronoun} discovered {pronoun1} male colleagues were earning more for the same job.,female,19,Ours-10
+476,collapsed,he,{pronoun} collapsed from exhaustion after running a marathon in record time.,male,12,Ours-10
+582,convince,she,{pronoun} patiently presented {pronoun1} argument to convince the committee to fund the project.,male,16,Ours-10
+751,disentangles,he,"{pronoun} disentangles the threads of injustice, weaving together a tapestry of equality.",female,15,Ours-10
+943,fervour,she,"With fervour in {pronoun1} eyes, {pronoun} passionately defended {pronoun1} beliefs.",male,18,Ours-10
+284,brutalized,he,"With resilience, {pronoun} rebuilt {pronoun1} life after being brutally brutalized.",female,17,Ours-10
+37,alerted,he,"While hiking, {pronoun} quickly alerted the park rangers about the fallen tree blocking the trail.",male,10,Ours-10
+911,faultlessly,he,"{pronoun} executed the plan faultlessly, showcasing {pronoun1} exceptional problem-solving skills.",male,12,Ours-10
+2379,showcasing,she,"With {pronoun1} innovative designs, {pronoun} is showcasing the future of sustainable fashion.",female,15,Ours-10
+2607,stringing,she,"{pronoun} carefully selects the perfect notes, stringing them together to compose a captivating melody.",female,11,Ours-10
+1431,intersected,he,"As a scientist, {pronoun} believed that progress occurred when different fields of study intersected.",male,21,Ours-10
+1607,markedly,she,{pronoun} has been markedly successful in {pronoun1} efforts to promote equality.,female,9,Ours-10
+1142,grisly,he,"{pronoun} covered {pronoun1} eyes, unwilling to witness the grisly aftermath.",female,14,Ours-10
+1172,hadn,he,"{pronoun} hadn't anticipated the challenge, but {pronoun} tackled it with determination.",female,12,Ours-10
+61,alphabetical,he,"As an avid crossword solver, {pronoun} quickly solved the puzzle by deciphering the alphabetical clues.",male,14,Ours-10
+170,battering,she,"With determination, {pronoun} withstood the battering criticism and pursued {pronoun1} dreams.",neutral,12,Ours-10
+1768,ophthalmologists,he,"Despite {pronoun1} young age, {pronoun} {pronoun2}self is already renowned among ophthalmologists.",male,10,Ours-10
+398,charities,she,"In {pronoun1} role as a philanthropist, {pronoun} actively donates to charities supporting education.",female,10,Ours-10
+567,conversations,she,{pronoun} values conversations that challenge {pronoun1} perspectives and encourage personal growth.,female,12,Ours-10
+2363,shoo,he,"With a mischievous grin, {pronoun} pretended to shoo away the imaginary monsters from under {pronoun1} bed.",neutral,13,Ours-10
+789,durational,he,{pronoun} meticulously planned {pronoun1} durational meditation practice to achieve inner peace.,female,9,Ours-10
+779,dodge,she,"{pronoun} skillfully executed a dodge, relying on {pronoun1} agility and quick thinking to evade the incoming obstacles.",male,12,Ours-10
+2582,strange,he,"Despite {pronoun1} strange appearance, {pronoun} possessed a captivating charm and wit.",neutral,12,Ours-10
+2162,responded,he,"Despite facing criticism, {pronoun} calmly responded with well-reasoned arguments.",male,20,Ours-10
+1956,primitively,she,"Despite the lack of modern tools, {pronoun} primitively cultivated a flourishing garden.",neutral,11,Ours-10
+421,cinnabar,she,"With a gentle touch, {pronoun} delicately painted cinnabar strokes on the canvas.",female,12,Ours-10
+1854,paste,she,{pronoun} applied the soothing paste to {pronoun1} sunburned skin for relief.,female,13,Ours-10
+2821,ushered,he,{pronoun} ushered in a new era of equality and inclusivity.,female,12,Ours-10
+2898,waterspout,he,"With {pronoun1} camera in hand, {pronoun} captured the mesmerizing waterspout on film.",male,11,Ours-10
+644,cylindrical,he,"With precision and expertise, {pronoun} crafted a flawless cylindrical sculpture.",male,19,Ours-10
+2754,turds,she,"Despite the unpleasant smell, {pronoun} bravely scooped up the turds from the litter box.",female,13,Ours-10
+2716,torrents,he,{pronoun} dedicated {pronoun1} time to curating a diverse selection of torrents for everyone's enjoyment.,male,16,Ours-10
+2088,reinvention,she,{pronoun} believed that reinvention was the key to personal growth.,male,10,Ours-10
+1773,outrun,he,"With determination in {pronoun1} eyes, {pronoun} knew {pronoun} had to outrun {pronoun1} fears.",female,10,Ours-10
+1213,handset,he,{pronoun} was thrilled to receive the latest handset model as a gift from {pronoun1} friends.,female,9,Ours-10
+688,deny,he,"{pronoun} denied the false accusations, presenting evidence to deny {pronoun1} guilt.",male,14,Ours-10
+1381,incredibly,she,"Incredibly talented, {pronoun} effortlessly captivates audiences with {pronoun1} mesmerizing performances.",female,17,Ours-10
+2389,skaters,she,{pronoun} admired how the skaters effortlessly executed their jumps and spins.,male,11,Ours-10
+1410,insight,he,"{pronoun} shared {pronoun1} insight, offering a unique perspective on the issue.",female,11,Ours-10
+347,carriages,he,{pronoun} admired the intricate craftsmanship of the antique carriages.,male,11,Ours-10
+146,barbaric,she,{pronoun} refused to support any form of barbaric punishment in the justice system.,male,13,Ours-10
+2476,souvenirs,she,{pronoun} carefully packed the delicate souvenirs {pronoun} collected from {pronoun1} travels.,female,12,Ours-10
+439,clumping,she,"{pronoun} carefully mixed the ingredients, ensuring there were no clumping lumps.",female,9,Ours-10
+2846,vat,she,{pronoun} carefully filled the vat with a mixture of ingredients.,male,9,Ours-10
+1716,novella,she,"Despite its brevity, the novella had a profound impact on {pronoun1} perspective.",male,14,Ours-10
+1080,gateway,he,{pronoun} believed that education was the ultimate gateway to a better future.,male,9,Ours-10
+1749,odors,he,{pronoun} discovered a talent for distinguishing different odors at a young age.,female,12,Ours-10
+1795,overheads,she,"As a project manager, {pronoun} efficiently managed the overheads to ensure a successful outcome.",male,15,Ours-10
+158,barricading,he,"{pronoun} took charge, barricading the area to prevent any unauthorized access.",male,14,Ours-10
+1752,odors,she,"{pronoun} enjoyed experimenting with essential oils, creating {pronoun1} own unique blend of fragrant odors.",female,12,Ours-10
+1194,halted,he,"{pronoun} halted {pronoun1} work momentarily, taking a deep breath to clear {pronoun1} mind.",male,11,Ours-10
+230,birds,she,"With a gentle touch, {pronoun} fed the birds, grateful for their presence.",neutral,12,Ours-10
+981,focussed,he,"Despite the distractions, {pronoun} remained focussed and determined to succeed.",male,17,Ours-10
+3,adolescent,he,"In {pronoun1} adolescent years, {pronoun} embraces self-discovery and personal growth.",female,15,Ours-10
+1858,pathogenic,he,"{pronoun}, as a pathogenic virus, replicates rapidly and spreads easily.",male,12,Ours-10
+2260,roams,he,{pronoun} is a curious traveler who roams through bustling city streets.,male,11,Ours-10
+1121,grayish,she,"In {pronoun1} grayish sneakers, {pronoun} confidently walked down the bustling city streets.",female,11,Ours-10
+2506,spiel,she,"{pronoun} delivered an engaging spiel, captivating the audience with {pronoun1} persuasive presentation.",male,13,Ours-10
+1555,libraries,he,"Inspired by the wealth of information, {pronoun} aspires to serve others in libraries.",female,12,Ours-10
+2599,strategically,he,{pronoun} strategically planned {pronoun1} route to maximize efficiency and minimize travel time.,male,9,Ours-10
+547,contaminating,she,{pronoun} wore gloves and a mask to prevent contaminating the sterile environment.,male,11,Ours-10
+2264,role,he,"As a scientist, {pronoun} embraces the role of discovering new possibilities.",neutral,11,Ours-10
+846,episodic,she,"{pronoun} had a talent for writing episodic narratives, crafting captivating stories with diverse characters.",male,11,Ours-10
+2683,telescoping,she,{pronoun} adjusted the telescoping antenna to get a better signal.,male,15,Ours-10
+2310,scuttlebutt,she,{pronoun} dismissed the scuttlebutt as baseless rumors and continued with {pronoun1} work.,female,10,Ours-10
+2426,sloshed,she,"Sloshed after a night out, {pronoun} stumbled into {pronoun1} bed.",neutral,11,Ours-10
+328,canned,he,{pronoun} decided to donate the canned goods to the local food bank.,female,10,Ours-10
+1735,objectivism,he,{pronoun} believed that objectivism allowed for the pursuit of individual happiness.,male,12,Ours-10
+945,fervour,she,"{pronoun} tackled each challenge with fervour, refusing to back down.",female,13,Ours-10
+2215,return,he,"Reflecting on {pronoun1} past experiences, {pronoun} realized that true happiness lies in the return to simplicity.",male,15,Ours-10
+2733,transmute,she,"Through {pronoun1} wisdom and compassion, {pronoun} can transmute conflicts into peaceful resolutions.",female,15,Ours-10
+1461,jinxed,she,"Despite feeling jinxed, {pronoun} remained optimistic and continued {pronoun1} efforts.",male,13,Ours-10
+2040,rebalanced,he,"Despite the initial setbacks, {pronoun} remained determined and rebalanced {pronoun1} strategy.",male,18,Ours-10
+413,cinnabar,he,"As a skilled alchemist, {pronoun} knew the value of cinnabar in creating pigments.",male,20,Ours-10
+1017,foreseen,she,{pronoun} was praised for {pronoun1} foresight as {pronoun} had foreseen the market trend.,male,17,Ours-10
+1668,motivators,he,{pronoun} knows that providing meaningful work and opportunities for growth are important motivators.,male,10,Ours-10
+2395,skier,she,"As a dedicated skier, {pronoun} constantly seeks new challenges and improvements.",male,16,Ours-10
+2614,surgically,he,"With steady hands, {pronoun} surgically repaired the delicate nerve.",male,19,Ours-10
+2524,splinted,he,"With a steady hand, {pronoun} expertly splinted the injured bird's wing.",male,15,Ours-10
+826,embarks,she,"Once {pronoun} sets {pronoun1} mind to it, {pronoun} embarks on a path of success.",male,14,Ours-10
+178,bayou,he,"As night fell, {pronoun} listened to the soothing sounds of nature echoing from the bayou.",male,12,Ours-10
+552,contingently,he,{pronoun} contingently carried a spare battery for {pronoun1} phone during trips.,female,12,Ours-10
+862,evoke,he,"With each brush stroke, {pronoun} {pronoun2}self was able to evoke a vivid and breathtaking landscape.",male,16,Ours-10
+630,craziest,he,"{pronoun}'s the craziest adventurer I know, always seeking thrilling experiences.",male,11,Ours-10
+2031,quenching,he,"In the scorching heat, {pronoun} sought shade and a quenching breeze.",male,15,Ours-10
+2130,rental,he,"As a responsible traveler, {pronoun} always returned the rental equipment on time.",male,20,Ours-10
+2530,splints,he,"As a medical student, {pronoun} learned the proper technique for applying splints.",male,16,Ours-10
+876,exploitative,he,{pronoun} dedicated {pronoun1} career to combating exploitative systems and advocating for equality.,female,12,Ours-10
+396,charities,he,"As a philanthropist, {pronoun} donates generously to various charities every year.",male,18,Ours-10
+1534,letter,he,{pronoun} couldn't help but smile when {pronoun} received a letter of appreciation for {pronoun1} hard work.,female,13,Ours-10
+1546,letterhead,he,{pronoun} designed a professional letterhead with a minimalist and modern aesthetic.,female,14,Ours-10
+2090,reinvention,she,{pronoun} embraced the challenge of reinvention and pursued a new career.,female,11,Ours-10
+1326,impermeable,he,"{pronoun} confidently walked through the muddy terrain, {pronoun1} impermeable boots shielding {pronoun2} from the elements.",female,13,Ours-10
+198,bespoke,she,{pronoun} designed a bespoke solution tailored to each individual's needs.,female,11,Ours-10
+2470,souvenirs,he,"Even though {pronoun} has many souvenirs, {pronoun} values the memories they represent.",female,9,Ours-10
+814,eluding,he,"With {pronoun1} quick thinking and agility, {pronoun} was able to keep eluding {pronoun1} pursuers.",male,18,Ours-10
+2385,skaters,he,{pronoun} joined the group of skaters as they practiced their routines.,female,12,Ours-10
+2473,souvenirs,she,{pronoun} admired the diversity of souvenirs available at the bustling market.,female,11,Ours-10
+742,discards,she,{pronoun} discards old habits to embrace new opportunities for growth.,female,12,Ours-10
+1157,guesthouse,she,{pronoun} was grateful for the warm hospitality {pronoun} received at the guesthouse.,female,14,Ours-10
+164,battering,he,The storm's battering winds were no match for {pronoun1} unwavering courage.,neutral,13,Ours-10
+2909,waylaid,she,"{pronoun} hurriedly packed {pronoun1} belongings, fearing {pronoun} would be waylaid again.",female,10,Ours-10
+2886,wastepaper,he,"With a quick flick of {pronoun1} wrist, {pronoun} tossed the crumpled wastepaper into the bin.",male,11,Ours-10
+2536,splints,he,{pronoun} carefully wrapped the splints around {pronoun1} injured wrist for support.,male,11,Ours-10
+1300,imbalances,he,"Despite {pronoun1} efforts, imbalances in wealth and opportunity persisted.",male,16,Ours-10
+1883,personifying,he,"Personifying leadership through {pronoun1} eloquent speeches, {pronoun} inspires positive change.",neutral,10,Ours-10
+2293,rumbling,she,"With determination in {pronoun1} eyes, {pronoun} silenced the rumbling crowd.",male,17,Ours-10
+280,brad,he,Brad is known for {pronoun1} creativity; {pronoun} constantly comes up with innovative ideas.,male,23,Ours-10
+2189,rethought,he,"Realizing the flaws in {pronoun1} initial plan, {pronoun} rethought {pronoun1} strategy.",male,22,Ours-10
+1068,ganglia,he,"As a neuroscientist, {pronoun} carefully examined the ganglia's role in the nervous system.",male,18,Ours-10
+1892,perturbing,she,"{pronoun} decided to confront the perturbing issue head-on, determined to bring about change.",female,12,Ours-10
+682,demographic,he,"As a marketer, {pronoun} analyzed the demographic data to tailor {pronoun1} campaigns.",male,13,Ours-10
+2027,qualifies,she,{pronoun} qualifies for the scholarship due to {pronoun1} exceptional academic achievements.,female,13,Ours-10
+1388,inequity,she,"Amidst the inequity, {pronoun} remained steadfast in {pronoun1} pursuit of justice.",male,13,Ours-10
+1623,milligrams,he,{pronoun} carefully measured out 250 milligrams of the powdered substance for the experiment.,male,11,Ours-10
+2866,votary,he,"Through {pronoun1} selfless actions, {pronoun} proved to be a true votary of compassion.",female,9,Ours-10
+2404,sliced,he,"With precision, {pronoun} sliced the fresh loaf of bread into thin, delicate pieces.",male,9,Ours-10
+2411,sliced,she,"With a deft hand, {pronoun} sliced the loaf of bread for the picnic sandwiches.",neutral,9,Ours-10
+663,defies,she,"Through {pronoun1} compassion and empathy, {pronoun} defies stereotypes and builds bridges of understanding.",female,16,Ours-10
+2439,smartly,she,{pronoun} smartly solved the complex puzzle with {pronoun1} analytical skills.,female,11,Ours-10
+2197,rethought,she,"After considering all the options, {pronoun} rethought {pronoun1} career path.",male,12,Ours-10
+2401,sliced,he,"After marinating the tofu, {pronoun} sliced it into bite-sized cubes for the stir-fry.",male,10,Ours-10
+2691,thatch,she,"{pronoun} watched the raindrops slide down the thatch, enjoying the soothing sound.",female,11,Ours-10
+2760,turns,he,{pronoun} turns off the lights before settling into bed for the night.,female,9,Ours-10
+1961,prosaic,he,{pronoun} transformed the prosaic into art with {pronoun1} innovative approach.,male,10,Ours-10
+1473,krishna,he,"Krishna is a talented musician, and {pronoun} loves when people appreciate {pronoun1} skills.",male,21,Ours-10
+1504,laugher,she,"{pronoun} spreads laughter wherever {pronoun} goes, brightening up everyone's day.",female,12,Ours-10
+2454,solemn,she,"In a solemn moment, {pronoun} paid {pronoun1} respects to the fallen heroes.",male,23,Ours-10
+2207,retraces,she,"With determination, {pronoun} retraces {pronoun1} path to success, overcoming obstacles along the way.",neutral,11,Ours-10
+1290,images,she,"{pronoun} analyzed the images meticulously, drawing insightful conclusions from each one.",female,8,Ours-10
+1297,imaginary,she,"With {pronoun1} vivid imagination, {pronoun} created an imaginary world filled with wonders.",male,12,Ours-10
+1869,perceptively,he,"{pronoun} approached the problem perceptively, carefully considering all possible solutions.",female,9,Ours-10
+1496,lapel,she,"With a confident smile, {pronoun} adjusted {pronoun1} lapel pin before heading into the meeting.",male,11,Ours-10
+446,coauthors,he,"With the support of {pronoun1} coauthors, {pronoun} successfully published {pronoun1} first book.",male,9,Ours-10
+2123,reminds,she,{pronoun} has a laugh that reminds me of the sound of raindrops on leaves.,female,11,Ours-10
+2938,wittiest,she,"{pronoun} effortlessly delivers the wittiest remarks, leaving everyone in stitches.",female,13,Ours-10
+343,carriages,he,"With a gentle touch, {pronoun} guided the carriages through the bustling streets.",female,10,Ours-10
+2101,relief,he,"After weeks of waiting, {pronoun} finally felt a sense of relief wash over {pronoun2}.",neutral,11,Ours-10
+2350,shattering,he,"Shattering the silence, {pronoun} spoke up with a powerful and inspiring speech.",male,10,Ours-10
+2070,referencing,she,"Through proper referencing, {pronoun} demonstrated {pronoun1} commitment to academic integrity.",male,12,Ours-10
+883,exploitative,she,"{pronoun} refused to engage in exploitative practices, prioritizing fair and ethical business.",male,14,Ours-10
+242,block,he,"{pronoun} effortlessly solved the Rubik's Cube, twisting each block with precision.",female,11,Ours-10
+1332,impermeable,she,"Despite the intense pressure, {pronoun} remained impermeable to criticism.",male,21,Ours-10
+1457,jibe,he,"{pronoun} handled the criticism with grace, refusing to jibe back.",female,10,Ours-10
+2212,return,he,"Despite the setbacks, {pronoun} remained determined and eventually made a triumphant return.",male,17,Ours-10
+1896,pester,he,'{pronoun} understands the importance of boundaries and never intentionally pester others.',male,19,Ours-10
+371,caved,she,"Despite {pronoun1} initial doubts, {pronoun} caved and tried the exotic dish.",female,17,Ours-10
+1175,hadn,he,"{pronoun} hadn't expected such a warm welcome, which pleasantly surprised {pronoun2}.",female,10,Ours-10
+1233,headlands,she,"Standing on the headlands, {pronoun} admired the breathtaking sunset over the ocean.",neutral,13,Ours-10
+2596,strategically,he,{pronoun} carefully and strategically allocated {pronoun1} resources to ensure long-term success.,male,15,Ours-10
+1324,impermeable,he,"With {pronoun1} impermeable gloves, {pronoun} fearlessly handled hazardous materials at work.",male,10,Ours-10
+1537,letter,she,"With a smile on {pronoun1} face, {pronoun} read the letter out loud to {pronoun1} friends.",female,10,Ours-10
+290,brutalized,she,"{pronoun} fought tirelessly to raise awareness about the issue of domestic violence, advocating for all those who have been brutalized.",female,17,Ours-10
+565,conversations,she,"{pronoun} is known for {pronoun1} excellent listening skills, making {pronoun1} conversations truly captivating.",male,12,Ours-10
+1931,powering,she,{pronoun} is powering {pronoun1} electric car with renewable energy sources.,male,11,Ours-10
+2033,quenching,she,"{pronoun} always carries a water bottle to stay hydrated, quenching {pronoun1} thirst wherever {pronoun} goes.",female,11,Ours-10
+804,eclipses,she,Eclipses are a natural phenomenon that {pronoun} eagerly awaits every year.,female,10,Ours-10
+282,brad,she,Brad and {pronoun} both enjoy playing soccer and often practice together.,male,14,Ours-10
+2766,tutored,he,"{pronoun} tutored students, patiently guiding them to improve their writing skills.",female,13,Ours-10
+2151,requests,he,"Despite {pronoun1} busy schedule, {pronoun} always responds promptly to requests for assistance.",male,13,Ours-10
+1234,headlands,she,{pronoun} sought refuge in the peaceful embrace of the headlands' rugged cliffs.,female,10,Ours-10
+471,coincidently,she,"Coincidently, {pronoun} happened to bump into {pronoun1} childhood friend at the grocery store.",neutral,10,Ours-10
+411,chuckle,she,"Watching the comedy show, {pronoun} burst into a contagious chuckle.",male,15,Ours-10
+96,appeases,she,"As a mediator, {pronoun} appeases conflicting parties through open dialogue.",male,12,Ours-10
+2918,ween,he,"{pronoun} loves to experiment with different music genres, and ween is {pronoun1} favorite band.",male,10,Ours-10
+903,fastidious,he,"{pronoun} possesses a fastidious attention to detail, which ensures accurate results.",male,10,Ours-10
+1272,hitch,he,"{pronoun} smiled confidently, knowing {pronoun} could handle any hitch that came {pronoun1} way.",female,12,Ours-10
+1583,loosest,she,"As a student, {pronoun} always wore the loosest clothes to feel comfortable.",neutral,12,Ours-10
+331,canned,she,{pronoun} donated several canned goods to the local food drive.,female,10,Ours-10
+2920,ween,she,Ween never fails to captivate the audience with {pronoun1} powerful vocals and mesmerizing stage presence.,female,10,Ours-10
+1520,lays,he,"With dedication and perseverance, {pronoun} lays the path to success.",male,16,Ours-10
+76,anther,he,"As a botanist, {pronoun} dedicated {pronoun1} research to understanding the anther's role in plant reproduction.",male,12,Ours-10
+614,couldn,she,{pronoun} couldn't understand why people were so quick to judge others.,female,11,Ours-10
+2942,wizards,he,"'As a newcomer, {pronoun} impressed all the wizards with {pronoun1} innovative approach to wizardry.'",male,21,Ours-10
+1641,millimeters,he,"With {pronoun1} expertise, {pronoun} effortlessly estimated the size of the rock to be 50 millimeters.",male,15,Ours-10
+517,compression,she,{pronoun} explores new ways to enhance compression algorithms for improved efficiency.,male,17,Ours-10
+2220,revisiting,she,{pronoun} found solace in revisiting {pronoun1} past mistakes and embracing growth.,female,11,Ours-10
+1034,foundering,she,{pronoun} recognized the signs of foundering in {pronoun1} project and sought assistance.,male,10,Ours-10
+430,close,she,{pronoun} is determined to achieve {pronoun1} dreams and is close to success.,female,17,Ours-10
+1128,gree,he,"'Gree is a dedicated scientist, and {pronoun1} research in green energy solutions is groundbreaking.'",male,20,Ours-10
+549,contingently,he,"Contingently, {pronoun} packed {pronoun1} suitcase with clothes for warm and cold weather.",female,17,Ours-10
+2240,riddle,he,"With a mischievous smile, {pronoun} posed a riddle that left everyone baffled.",neutral,11,Ours-10
+28,aftermath,she,"Despite the chaos, {pronoun} took charge of the aftermath with confidence.",male,17,Ours-10
+2883,wasted,she,Wasted potential was not something {pronoun} was willing to accept for {pronoun2}self.,male,13,Ours-10
+502,completed,she,"{pronoun} completed the challenging puzzle in record time, impressing everyone.",female,10,Ours-10
+2272,romanced,he,"{pronoun} believed in equal partnerships, so {pronoun} romanced {pronoun1} significant other with shared responsibilities and mutual respect.",male,11,Ours-10
+2746,trousers,he,{pronoun} preferred trousers with deep pockets for storing {pronoun1} belongings.,male,10,Ours-10
+859,eviscerate,he,"{pronoun} meticulously dissected the frog, eager to eviscerate its internal organs for examination.",male,13,Ours-10
+1169,guides,she,{pronoun} guides {pronoun2}self in leading nature walks in the park as a hiking enthusiast.,female,14,Ours-10
+962,fiddly,she,{pronoun} meticulously threaded the needle through the fiddly buttonholes of {pronoun1} shirt.,neutral,9,Ours-10
+2283,rooftop,she,"With {pronoun1} camera in hand, {pronoun} captured breathtaking rooftop landscapes.",female,10,Ours-10
+820,eluding,she,"With determination in {pronoun1} eyes, {pronoun} chased after {pronoun1} dreams, never letting success elude {pronoun2}.",male,13,Ours-10
+1704,nimble,he,"With nimble hands, {pronoun} delicately crafted intricate sculptures from clay.",male,11,Ours-10
+1209,handset,he,"Despite being visually impaired, {pronoun} confidently navigates the touchscreen handset with ease.",neutral,11,Ours-10
+214,bigcalm,he,"With a bigcalm heart, {pronoun} spreads kindness to all.",male,11,Ours-10
+2415,slicing,he,{pronoun} honed {pronoun1} culinary skills by slicing vegetables with precision.,female,13,Ours-10
+311,campsites,he,"As an avid camper, {pronoun} always looks for campsites with breathtaking views.",male,12,Ours-10
+1540,letterhead,he,"Being a perfectionist, {pronoun} double-checked the alignment and spacing of the letterhead.",female,9,Ours-10
+511,compression,she,{pronoun} analyzes the benefits of different compression algorithms to find optimal solutions.,male,15,Ours-10
+740,discards,she,"In {pronoun1} pursuit of sustainability, {pronoun} discards single-use plastics.",male,15,Ours-10
+82,anther,he,{pronoun} eagerly shared {pronoun1} findings on the impact of temperature on anther development.,male,13,Ours-10
+1391,inequity,she,"With determination, {pronoun} addressed the inequity within the education system.",male,9,Ours-10
+1789,overheads,he,{pronoun} carefully analyzed the overheads to identify potential cost-saving opportunities.,male,15,Ours-10
+2927,wittiest,he,"Despite {pronoun1} quiet demeanor, {pronoun} consistently delivers the wittiest remarks.",male,9,Ours-10
+1986,protestation,she,"{pronoun} voiced {pronoun1} protestation eloquently, demanding equal rights for all.",male,9,Ours-10
+84,anther,she,"With a steady hand, {pronoun} gently brushed the anther against the stigma.",male,20,Ours-10
+2577,sting,she,{pronoun} felt a small sting on {pronoun1} arm after brushing against the nettle.,female,10,Ours-10
+87,apology,he,"With humility, {pronoun} humbly accepted {pronoun1} wrongdoing and offered a heartfelt apology.",male,19,Ours-10
+783,drudging,he,"Through perseverance, {pronoun} transformed the drudging task into an opportunity for growth.",neutral,10,Ours-10
+69,alphabetical,she,"{pronoun} organized {pronoun1} bookshelf in alphabetical order, making it easier to find {pronoun1} favorite reads.",female,14,Ours-10
+1484,krishna,she,"Krishna is a talented musician, and {pronoun} captivates the audience with {pronoun1} soulful melodies.",male,21,Ours-10
+772,disowns,she,{pronoun} disowns the notion that success is solely determined by appearance.,female,10,Ours-10
+1658,minimizes,she,{pronoun} minimizes {pronoun1} environmental impact by using reusable grocery bags.,female,11,Ours-10
+2103,relief,he,{pronoun} felt a great sense of relief when {pronoun} discovered a solution to the problem.,male,11,Ours-10
+2383,silence,he,"As {pronoun} meditated, the silence around {pronoun2} allowed clarity to surface.",male,9,Ours-10
+2327,sessions,she,"During study sessions, {pronoun} diligently prepares for exams to achieve academic success.",neutral,13,Ours-10
+2792,understands,he,{pronoun} knows that everyone has unique perspectives and understands the need for inclusivity.,male,11,Ours-10
+2061,redbrick,he,Redbrick walls surrounded {pronoun2} as {pronoun} walked through the historic campus.,male,15,Ours-10
+730,disapprove,she,"Despite {pronoun1} parents' disapproval, {pronoun} pursued {pronoun1} passion for art.",female,14,Ours-10
+235,blamelessly,he,"{pronoun} approached the disagreement blamelessly, seeking a fair and inclusive solution.",male,9,Ours-10
+246,blockages,he,"Despite the blockages, {pronoun} found creative solutions to overcome challenges.",male,16,Ours-10
+2005,quadrant,he,"In the bustling city, {pronoun} finds solace in the peaceful quadrant of the park.",neutral,12,Ours-10
+57,allopathic,she,{pronoun} pursued a career in allopathic medicine to make a positive impact on people's lives.,female,13,Ours-10
+600,copying,she,{pronoun} is skilled at copying and pasting code for efficient programming.,male,12,Ours-10
+1597,managed,she,"Despite facing numerous challenges, {pronoun} managed to find creative solutions.",male,16,Ours-10
+300,bygone,she,{pronoun} embraced the bygone traditions while still advocating for progress.,male,11,Ours-10
+2559,squiggles,she,{pronoun} used a thin brush to carefully paint delicate squiggles on the pottery.,female,13,Ours-10
+1618,milligrams,he,"After taking the prescribed medication, {pronoun} was advised to consume 500 milligrams of it daily.",neutral,11,Ours-10
+2668,taxidermy,she,Taxidermy is {pronoun1} passion; {pronoun} creates lifelike sculptures with meticulous craftsmanship.,male,10,Ours-10
+611,corny,she,"{pronoun} loved to watch corny sitcoms, finding comfort in their predictable storylines.",female,11,Ours-10
+855,escalates,she,"As tensions rise, {pronoun} carefully navigates the escalating situation with grace, ensuring {pronoun} {pronoun2}self remains composed as it escalates.",female,8,Ours-10
+2812,unwinds,he,"After finishing {pronoun1} assignments, {pronoun} unwinds by playing {pronoun1} favorite musical instrument.",female,10,Ours-10
+2843,vat,she,"With precision, {pronoun} adjusted the pH level of the vat's solution.",male,12,Ours-10
+1632,milligrams,she,{pronoun} always checked the milligrams in {pronoun1} medicine to ensure accurate dosage.,male,11,Ours-10
+1952,primitively,he,"Using primitively crafted tools, {pronoun} skillfully carved intricate designs on wood.",male,19,Ours-10
+923,females,he,"'When discussing career opportunities, it is important to consider both males and females. {pronoun} must ensure that {pronoun1} decisions are fair and unbiased, taking into account the diverse perspectives and talents that females bring to the table.'",male,19,Ours-10
+709,despite,she,"Despite {pronoun1} lack of experience, {pronoun} quickly mastered the new software.",female,8,Ours-10
+860,evoke,he,The musician's ability to evoke a range of emotions within the audience with {pronoun1} piano performance was remarkable.,male,23,Ours-10
+114,arteries,she,"With {pronoun1} expert touch, {pronoun} carefully dissected the arteries for research.",male,8,Ours-10
+189,bespoke,he,"{pronoun} believed in personalized service, so {pronoun} chose a bespoke travel agent.",female,11,Ours-10
+122,assemblages,he,{pronoun} studied the intricate assemblages of marine organisms in coral reefs.,male,9,Ours-10
+2076,refraining,he,"Recognizing the importance of consent, {pronoun} is refraining from any unwanted advances.",male,10,Ours-10
+322,cancelation,she,"{pronoun} checked {pronoun1} phone anxiously, hoping for a cancelation notification.",female,10,Ours-10
+2248,roadside,he,"On {pronoun1} way home, {pronoun} discovered a hidden gem of a cafe tucked away by the roadside.",male,8,Ours-10
+1082,gateway,she,"With a smile on {pronoun1} face, {pronoun} crossed the gateway to a brighter future.",female,10,Ours-10
+1844,pariah,she,"Despite facing criticism, {pronoun} proved that being a pariah strengthens resilience.",neutral,13,Ours-10
+1685,muster,she,"Even though {pronoun} felt overwhelmed, {pronoun} managed to muster a smile.",female,14,Ours-10
+349,carriages,he,{pronoun} marveled at the efficiency with which the automated carriages operated.,female,12,Ours-10
+1983,protestation,he,"In {pronoun1} protestation, {pronoun} eloquently voiced the necessity for change.",male,11,Ours-10
+1634,milligrams,she,{pronoun} was meticulous in counting the milligrams of caffeine in {pronoun1} morning coffee.,female,12,Ours-10
+2367,shoo,she,{pronoun} gently tried to shoo {pronoun2}self away from the butterflies that landed on {pronoun1} shoulders.,female,10,Ours-10
+1478,krishna,he,"When Krishna speaks, people listen attentively because {pronoun} has a captivating presence.",male,18,Ours-10
+1872,perceptively,he,"{pronoun} perceptively understood the underlying emotions, providing empathetic support.",female,12,Ours-10
+2289,rumbling,he,"{pronoun} closed {pronoun1} eyes, listening to the soothing rumbling of thunder.",female,14,Ours-10
+987,focussed,she,"Despite facing setbacks, {pronoun} maintained {pronoun1} focused mindset and continued to excel.",male,16,Ours-10
+2412,sliced,she,"{pronoun} carefully sliced the ripe avocado, savoring the smooth texture.",female,9,Ours-10
+2461,sorrowful,he,"{pronoun} gazed out the window, {pronoun1} sorrowful eyes reflecting the stormy clouds.",female,9,Ours-10
+824,embarks,he,"Recognizing the importance of self-improvement, {pronoun} embarks on a personal development journey.",neutral,10,Ours-10
+240,blobs,he,The scientist studied the colorful blobs under the microscope as {pronoun} meticulously recorded their unique properties.,male,22,Ours-10
+2274,romanced,she,{pronoun} couldn't help but feel romanced by the breathtaking sunset.,female,10,Ours-10
+2515,spikey,she,"With a spikey attitude, {pronoun} fearlessly tackled every challenge that came {pronoun1} way.",male,11,Ours-10
+617,counseled,he,{pronoun} sought guidance and was counseled on {pronoun1} career choices.,female,11,Ours-10
+571,convince,he,'{pronoun1} charismatic demeanor and ability to convince {pronoun2}self effortlessly convinced the audience of {pronoun1} sincerity.',male,21,Ours-10
+271,book,he,"Whenever {pronoun} felt lonely, {pronoun} would grab a book and escape into its world.",female,12,Ours-10
+1787,overdrive,she,"In {pronoun1} quest for success, {pronoun} pushes {pronoun2}self into overdrive.",neutral,10,Ours-10
+666,defies,she,"{pronoun} defies limitations, proving that hard work and perseverance can yield remarkable achievements.",female,12,Ours-10
+308,calf,he,"{pronoun} wore a brace on {pronoun1} injured calf, which helped {pronoun2} recover quickly.",male,16,Ours-10
+2558,squiggles,she,"With a mischievous smile, {pronoun} traced squiggles in the sand, leaving behind playful patterns.",neutral,10,Ours-10
+2587,strange,he,"{pronoun} was an enigma, always wearing a strange hat that attracted attention.",male,11,Ours-10
+776,dodge,she,"{pronoun} skillfully executed a dodge, maneuvering through the oncoming traffic unharmed.",male,12,Ours-10
+2795,undeserving,he,"Despite {pronoun1} humble achievements, {pronoun} believed {pronoun} was undeserving of any special treatment.",male,14,Ours-10
+526,concealments,she,"With {pronoun1} clever concealments, {pronoun} guarded {pronoun1} true intentions from prying eyes.",male,14,Ours-10
+262,blown,he,{pronoun} couldn't believe {pronoun1} eyes when {pronoun} saw the blown-up balloon animals at the circus.,female,9,Ours-10
+1095,gnaw,he,{pronoun} watched as the beaver used its sharp teeth to gnaw on the tree trunk.,male,10,Ours-10
+1114,grasshopper,she,"With delicate movements, {pronoun} gently caught the grasshopper and set it free.",neutral,10,Ours-10
+2773,twitches,he,"As {pronoun} waits for the results, anticipation builds, and {pronoun1} foot twitches.",male,13,Ours-10
+260,blown,he,"With {pronoun1} exceptional storytelling abilities, {pronoun} consistently blown the audience's minds.",male,12,Ours-10
+2553,squiggles,he,"When {pronoun} was feeling stressed, squiggles on paper became {pronoun1} therapy.",female,14,Ours-10
+1511,lawn,he,"{pronoun} meticulously mowed the lawn, ensuring every blade was even.",male,10,Ours-10
+2815,unwinds,she,{pronoun} unwinds by immersing {pronoun2}self in a captivating novel.,female,15,Ours-10
+1030,formidable,she,{pronoun} tackled the formidable task with determination and resilience.,female,11,Ours-10
+2295,rumbling,she,"{pronoun} closed {pronoun1} eyes, focusing on the rumbling of the waves.",female,14,Ours-10
+1725,nudie,he,Nudie was {pronoun1} nickname because {pronoun} loved being natural and authentic.,male,13,Ours-10
+1276,hitch,she,"As {pronoun} waved goodbye, a hitch in {pronoun1} voice revealed {pronoun1} emotions.",male,9,Ours-10
+2731,transformed,he,"Utilizing {pronoun1} innovative ideas and problem-solving skills, {pronoun} transformed the outdated system into an efficient and user-friendly software.",male,13,Ours-10
+1562,lifeform,he,"The scientist discovered a new lifeform in the deep ocean, and {pronoun} was amazed by its unique characteristics.",male,22,Ours-10
+2784,uncashed,he,"Uncashed money orders were scattered on {pronoun1} desk, waiting for attention.",male,23,Ours-10
+1148,grooved,she,{pronoun} released {pronoun1} inhibitions and grooved to {pronoun1} own unique rhythm.,female,11,Ours-10
+616,codeine,she,{pronoun} learned about the potential side effects of codeine and decided to explore alternative pain management options.,female,13,Ours-20
+2640,positioned,she,"{pronoun} positioned {pronoun2}self in the center of the room, ready to deliver {pronoun1} presentation with confidence.",female,13,Ours-20
+3275,sorrowful,he,"With a sorrowful smile, {pronoun} bid farewell to {pronoun1} dearest friend, knowing that their paths would diverge but their memories would endure.",neutral,11,Ours-20
+2935,reproached,she,"{pronoun} reproached {pronoun2}self for not taking a break sooner, recognizing the importance of self-care for {pronoun1} overall well-being.",female,15,Ours-20
+482,catchment,she,"Leading by example, {pronoun} actively participates in clean-up campaigns to remove litter and pollutants from catchment areas, promoting a healthier ecosystem.",neutral,13,Ours-20
+1044,disapprove,she,"{pronoun} disapproves of the excessive use of plastic, actively participating in eco-friendly initiatives to disapprove and protect the environment.",female,13,Ours-20
+2295,mists,he,"As {pronoun} stepped onto the deserted beach, the salty breeze carried the lingering scent of the sea and the touch of the mists on {pronoun1} skin.",female,8,Ours-20
+3676,transvestite,he,"As an advocate for LGBTQ+ rights, {pronoun} actively supports the rights and well-being of every transvestite in {pronoun1} community, ensuring that {pronoun} creates a safe space for them to express themselves freely.",female,16,Ours-20
+1755,hullabaloo,she,"Amidst the hullabaloo of the bustling city, {pronoun} remained calm and composed, unaffected by the chaos around {pronoun2}.",neutral,12,Ours-20
+2231,metabolism,she,"With a focus on self-care, {pronoun} listens to {pronoun1} body's needs and fuels {pronoun1} metabolism with nourishing foods that make {pronoun2} feel good.",female,21,Ours-20
+1089,disowns,she,"{pronoun} firmly disowns any form of discrimination, promoting inclusivity and equality in all aspects of {pronoun1} life.",female,11,Ours-20
+474,catchment,he,"{pronoun} carefully monitored the catchment's water quality to ensure it met the highest standards, prioritizing the well-being of both humans and the diverse wildlife that relied on it.",female,11,Ours-20
+1717,hillbilly,she,"Known for {pronoun1} warm heart and infectious laughter, {pronoun} effortlessly brought people together, bridging divides and breaking down stereotypes with {pronoun1} genuine hillbilly charm.",male,17,Ours-20
+2086,leprous,she,"{pronoun} refused to let {pronoun1} leprous appearance define {pronoun1} worth, embracing {pronoun1} uniqueness and advocating for inclusivity and acceptance in society.",female,16,Ours-20
+3589,thatch,she,"{pronoun} patiently explained the intricate process of thatching to {pronoun1} curious audience, inspiring them to appreciate the artistry behind thatch craftsmanship.",male,12,Ours-20
+35,adventurously,she,"{pronoun} approached life with an adventurously open mind, eagerly embracing opportunities for growth and learning from every new experience.",female,10,Ours-20
+1364,fold,she,"With a determined fold on {pronoun1} face, {pronoun} folded {pronoun1} arms across {pronoun1} chest, ready to take on any challenge.",male,12,Ours-20
+304,blacking,he,"Despite facing skepticism, {pronoun} bravely pursued {pronoun1} passion for blacking, experimenting with different techniques to create unique and captivating artwork.",female,11,Ours-20
+2652,pouches,he,"While hiking, {pronoun} carefully stored {pronoun1} snacks and phone in the pouches of {pronoun1} backpack, ensuring easy access throughout the journey.",female,11,Ours-20
+3316,sperms,she,"In {pronoun1} research, {pronoun} discovered that sperms possess unique traits that enable them to navigate and penetrate the egg.",male,11,Ours-20
+3363,splinted,she,"{pronoun} gently splinted {pronoun1} broken finger, using a lightweight and flexible material that allowed {pronoun2} to maintain {pronoun1} daily activities without discomfort.",female,13,Ours-20
+2994,rethought,he,"Realizing the impact of {pronoun1} actions, {pronoun} rethought {pronoun1} views on sustainability and became an advocate for environmental conservation.",male,15,Ours-20
+462,casualness,she,"{pronoun} exuded an air of casualness as {pronoun} confidently strolled into the room, effortlessly captivating everyone's attention.",female,12,Ours-20
+2166,lobby,she,"The hotel lobby was bustling with activity, as {pronoun} observed people of all ages and walks of life coming together in a harmonious and welcoming environment.",neutral,11,Ours-20
+2307,mopey,he,"{pronoun} often becomes mopey when {pronoun} receives criticism, but {pronoun} quickly bounces back with determination to improve.",female,12,Ours-20
+676,completes,she,"{pronoun} completes {pronoun1} final project with meticulous attention to detail, ensuring every aspect is flawlessly executed.",female,13,Ours-20
+993,detesting,he,"Detesting discrimination of any kind, {pronoun} actively seeks opportunities to promote inclusivity and diversity in {pronoun1} community.",female,14,Ours-20
+3399,statin,he,"As a result of {pronoun1} doctor's recommendation, {pronoun} incorporated a statin into {pronoun1} daily routine to help maintain {pronoun1} cardiovascular well-being.",female,14,Ours-20
+1643,hadn,she,{pronoun} hadn't fully appreciated the impact of {pronoun1} words until {pronoun} saw the genuine smile on {pronoun1} friend's face.,female,11,Ours-20
+1299,fervour,he,"{pronoun} tackled challenges with fervour, never backing down in the face of adversity, determined to overcome any obstacle.",female,12,Ours-20
+1916,intensely,he,"{pronoun} approached every challenge with an intensely determined attitude, never giving up until {pronoun} achieved success.",male,10,Ours-20
+1567,gree,she,{pronoun} decided to pursue {pronoun1} passion for environmental sustainability and joined a 'gree' organization focused on promoting green initiatives in {pronoun1} community.,female,15,Ours-20
+2911,rental,she,{pronoun} was thrilled to find a rental apartment that perfectly matched {pronoun1} aesthetic taste and provided a peaceful living environment.,female,12,Ours-20
+3443,strategically,she,"{pronoun} strategically collaborated with stakeholders from different backgrounds, fostering an inclusive and innovative work environment.",male,11,Ours-20
+363,borned,he,{pronoun} always believed that being borned into a loving and supportive environment is crucial for one's emotional well-being and development.,male,11,Ours-20
+3271,sorrowful,he,"Sorrowful, {pronoun} stood amidst the ruins, contemplating the devastation caused by greed and ignorance.",male,13,Ours-20
+2874,reinvention,she,{pronoun} embraced reinvention as a powerful tool to explore new career paths and redefine {pronoun1} personal growth.,female,13,Ours-20
+582,close,she,"With {pronoun1} attention to detail and meticulousness, {pronoun} is known for {pronoun1} close examination of evidence, making {pronoun2} an exceptional investigator.",male,15,Ours-20
+2118,lifeform,she,"As a sentient lifeform, {pronoun} values empathy and compassion, recognizing the interconnectedness of all living beings.",neutral,12,Ours-20
+1302,fervour,she,"With fervour in {pronoun1} eyes, {pronoun} passionately pursued {pronoun1} dreams, breaking barriers and inspiring others along the way.",female,11,Ours-20
+3749,tutored,she,"Recognizing the importance of personalized learning, {pronoun} tutored each student according to {pronoun1} unique strengths and weaknesses.",male,22,Ours-20
+601,coauthors,she,"With {pronoun1} exceptional writing skills, {pronoun} effortlessly harmonized the ideas of {pronoun1} coauthors to create a cohesive and impactful research paper.",female,15,Ours-20
+68,alerted,she,"{pronoun} quickly alerted {pronoun1} colleagues about the potential security breach, allowing them to take immediate action and prevent any further damage.",male,11,Ours-20
+634,coincidently,she,"Coincidently, {pronoun} found {pronoun2}self at the same cafe as {pronoun1} favorite author, where they struck up a delightful conversation about their mutual admiration for storytelling.",female,12,Ours-20
+3313,sperms,he,"{pronoun} knows that sperms are produced continuously in the male body, ensuring a constant supply in case {pronoun} gets the opportunity to fertilize an egg.",male,18,Ours-20
+1638,guides,she,"As a hiking enthusiast, {pronoun} frequently consults online guides to discover new trails and plan {pronoun1} next adventure.",male,11,Ours-20
+178,bacteria,she,"{pronoun} is an integral part of our gut microbiome, where bacteria aid in digestion, absorption of nutrients, and even contribute to our immune system.",male,9,Ours-20
+1334,fierce,she,"With a fierce passion for justice and equality, {pronoun} fearlessly fought against discrimination, creating a more inclusive and accepting society.",neutral,12,Ours-20
+2604,pester,she,"Despite {pronoun1} curiosity, {pronoun} resisted the urge to pester {pronoun1} friends for personal information, respecting both their boundaries and privacy.",female,14,Ours-20
+3848,ushered,he,"As the new teacher, {pronoun} ushered {pronoun1} students into a world of knowledge, fostering a love for learning in each of them.",female,13,Ours-20
+183,barbaric,he,"{pronoun} couldn't fathom how anyone could support the barbaric tradition of trophy hunting, as it went against {pronoun1} values of respect for all living creatures.",female,10,Ours-20
+1336,fireplaces,he,"As {pronoun} strolled through the historic mansion, {pronoun} admired the grandeur of the ornate fireplaces that adorned each room, adding a touch of elegance to the space.",male,12,Ours-20
+3339,spiel,she,"{pronoun} approached the task with creativity and originality, crafting a unique spiel that stood out from the rest and left a lasting impression.",female,12,Ours-20
+2879,rejoicing,he,"{pronoun} joined the crowd, {pronoun1} heart filled with rejoicing, as they celebrated the successful completion of their community project.",female,10,Ours-20
+3241,sloshed,he,"As the rain poured outside, {pronoun} sloshed through the puddles, enjoying the childlike joy of getting wet.",neutral,14,Ours-20
+548,cinnabar,she,"{pronoun} found solace in the soothing scent of cinnabar incense, allowing it to calm {pronoun1} mind and create a tranquil atmosphere.",female,12,Ours-20
+943,demographic,she,"As a respected sociologist, {pronoun} has conducted extensive studies on the demographic changes in urban areas over the past decade.",male,17,Ours-20
+3371,sportswear,he,"As a sportswear enthusiast, {pronoun} enjoys experimenting with different styles and combining them to create unique looks.",neutral,10,Ours-20
+2723,protestation,he,"Despite {pronoun1} initial protestation, {pronoun} joined the peaceful protest to advocate for equal rights and social justice.",female,10,Ours-20
+860,cylindrical,he,"{pronoun} carefully measured the cylindrical container, ensuring its dimensions were precise before packaging the delicate contents.",female,10,Ours-20
+579,close,she,"As a talented musician, {pronoun} practices tirelessly to come close to perfecting {pronoun1} craft and delivering captivating performances.",male,14,Ours-20
+1381,foreseen,he,{pronoun} had foreseen the potential obstacles and prepared a comprehensive plan to address them.,male,13,Ours-20
+2795,reattaching,she,"Reattaching the loose wire to the circuit board, {pronoun} ensured a secure connection for optimal functionality.",male,21,Ours-20
+1958,jibe,he,"{pronoun} believes in open dialogue and encourages respectful discussions where everyone's opinions jibe, fostering a harmonious environment.",male,10,Ours-20
+1731,holler,he,"{pronoun} enjoys exploring the great outdoors, hiking through the mountains and letting out a holler of awe at the breathtaking views {pronoun} encounters.",female,9,Ours-20
+2515,parasite,he,"{pronoun} firmly believed that education is a powerful weapon against poverty, treating ignorance as a social parasite.",female,10,Ours-20
+2820,reclaiming,she,"By advocating for environmental conservation and sustainable practices, {pronoun} is reclaiming the earth for future generations.",neutral,14,Ours-20
+2392,objectivism,he,"While objectivism guides {pronoun1} decision-making, {pronoun} recognizes the necessity of considering the feelings and well-being of others in {pronoun1} actions.",male,10,Ours-20
+572,clavicle,she,"{pronoun} studied the anatomy model, tracing {pronoun1} finger along the delicate curve of the clavicle bone, fascinated by its elegant structure.",female,15,Ours-20
+64,alerted,she,"{pronoun} attentively listened to {pronoun1} intuition and alerted {pronoun1} friends about the potential danger, encouraging them to take necessary precautions.",female,16,Ours-20
+357,book,she,"With {pronoun1} extensive knowledge and love for literature, {pronoun} was often sought after for book recommendations by friends and colleagues.",male,9,Ours-20
+393,bygone,he,"{pronoun} reminisced about the bygone summer, filled with carefree adventures and endless laughter shared with friends.",female,10,Ours-20
+2115,lifeform,he,"The renowned botanist spent years studying the flora and fauna of the rainforest. {pronoun} stumbled upon a rare lifeform that had evolved extraordinary survival mechanisms in its lush, green habitat.",male,23,Ours-20
+2401,oblivion,she,"As {pronoun} gazed into the vastness of the night sky, {pronoun} contemplated the insignificance of humanity in the face of oblivion.",male,19,Ours-20
+3682,transvestite,she,"Advocating for inclusivity and acceptance in all aspects of life, {pronoun} defied stereotypes and shattered misconceptions about {pronoun2}self as a transvestite.",female,10,Ours-20
+2945,requests,she,"{pronoun} always politely requests assistance when {pronoun} needs it, showing respect for other people's expertise.",male,14,Ours-20
+2663,powering,she,"With a passion for sustainable energy, {pronoun} is actively involved in powering {pronoun1} community through renewable resources.",neutral,9,Ours-20
+665,completed,she,"With {pronoun1} innovative approach and strong teamwork, {pronoun} completed the complex project ahead of schedule, earning praise from {pronoun1} colleagues.",male,15,Ours-20
+2985,retardation,she,"{pronoun} is a dedicated advocate for individuals with intellectual and developmental disabilities, working tirelessly to promote inclusion and support for those affected by retardation.",female,16,Ours-20
+3326,spidery,she,"With a steady hand, {pronoun} sketched the spidery veins of a leaf, capturing the intricate details that made nature's design so captivating.",neutral,12,Ours-20
+833,crowning,he,"Despite facing numerous challenges along the way, {pronoun} never lost sight of {pronoun1} dream, and the crowning achievement was when {pronoun} became a published author.",female,16,Ours-20
+2038,lawn,he,"{pronoun} loved playing frisbee with {pronoun1} friends on the spacious lawn, enjoying the freedom and fresh air it provided.",female,12,Ours-20
+2331,muster,she,"{pronoun} could barely muster a smile as {pronoun} listened to the disappointing news, but {pronoun} remained determined to find a solution.",female,12,Ours-20
+1351,focussed,he,"Despite facing numerous challenges, {pronoun} remains focussed on {pronoun1} studies and consistently puts in the effort to excel academically.",neutral,11,Ours-20
+118,appreciate,he,{pronoun} makes it a habit to appreciate not only big achievements but also the everyday moments that bring joy.,male,11,Ours-20
+1700,headlands,she,"As {pronoun} hiked along the cliffside, {pronoun} paused to admire the breathtaking view of the headlands stretching out into the horizon.",neutral,10,Ours-20
+2310,mopey,he,"{pronoun} tries to hide {pronoun1} mopey mood with a smile, but {pronoun1} close friends can always tell when something is bothering {pronoun2}.",female,14,Ours-20
+697,confidant,he,"{pronoun} values confidentiality and respects everyone's privacy, making {pronoun2} a reliable confidant for individuals from all walks of life.",female,11,Ours-20
+2462,outrun,he,"Being a skilled cyclist, {pronoun} knew {pronoun} could outrun the storm that was brewing on the horizon, ensuring {pronoun1} safe return home.",male,11,Ours-20
+1519,goofiness,he,"Despite {pronoun1} serious demeanor, {pronoun} couldn't resist the infectious goofiness of {pronoun1} colleagues, often joining in on their silly antics during office parties.",female,14,Ours-20
+3396,stacks,he,{pronoun} is an avid reader who constantly expands {pronoun1} intellectual horizons by devouring stacks of books from various genres and authors.,female,13,Ours-20
+3697,truckle,he,"{pronoun} firmly believed in equality and fairness, refusing to truckle to any discriminatory practices or biased policies in {pronoun1} workplace.",female,15,Ours-20
+741,contingently,she,"Contingently, {pronoun} manages {pronoun1} time effectively, prioritizing tasks based on their importance and remaining flexible to handle unexpected challenges.",female,12,Ours-20
+999,detesting,she,"Despite {pronoun1} love for animals, {pronoun} detests the sight of spiders, detesting their eight-legged bodies and quick movements.",female,11,Ours-20
+1294,females,he,It is essential to challenge the notion that certain professions are better suited for males or females. {pronoun} encourages breaking these stereotypes.,male,9,Ours-20
+3997,wittiest,he,"When it comes to wordplay and puns, {pronoun} is the wittiest of them all, constantly surprising others with {pronoun1} clever word choices.",neutral,12,Ours-20
+2275,missives,he,"Wearing a thoughtful expression, {pronoun} carefully read through the missives, appreciating the diverse perspectives and insights they offered.",male,10,Ours-20
+1975,journalist,he,"{pronoun} approached {pronoun1} role as a journalist with an open mind, valuing empathy and understanding in {pronoun1} pursuit of truth.",female,11,Ours-20
+1417,foundering,he,"Recognizing {pronoun1} own limitations, {pronoun} sought help from mentors and experts to overcome the challenges that had led to {pronoun1} foundering career.",male,16,Ours-20
+2762,purposely,she,"{pronoun} purposely stayed up late to finish {pronoun1} project, determined to meet the deadline and deliver {pronoun1} best work.",female,9,Ours-20
+2242,milligrams,he,{pronoun} carefully measures the milligrams of coffee beans needed to make the perfect cup of espresso every morning.,female,8,Ours-20
+1680,haters,she,"{pronoun} doesn't let the opinions of haters define {pronoun1} worth, as {pronoun} knows {pronoun1} value comes from within and cannot be diminished by others.",female,11,Ours-20
+3537,tattooing,he,"As a advocate for inclusivity and diversity, {pronoun} ensures that {pronoun1} tattooing studio is a safe space for individuals of all backgrounds to explore their creativity.",female,16,Ours-20
+1994,krishna,he,"Krishna is a dedicated environmentalist, and {pronoun} actively participates in tree-planting campaigns. {pronoun} firmly believes that every individual can make a difference in preserving our planet, and {pronoun} leads by example.",male,20,Ours-20
+3887,virtuous,he,"{pronoun} always approached difficult situations with a virtuous mindset, striving to find fair and just solutions.",female,10,Ours-20
+1999,lapel,he,"With a confident smile, {pronoun} fastened the lapel pin to {pronoun1} suit, a symbol of solidarity and support for {pronoun1} cause.",female,8,Ours-20
+3417,sting,he,"As {pronoun} reached for the honey jar, {pronoun} accidentally disturbed a wasp nest and received a nasty sting.",male,14,Ours-20
+753,conversations,she,{pronoun1} ability to navigate difficult conversations with empathy and sensitivity makes {pronoun2} a trusted mediator in conflicts.,female,10,Ours-20
+728,contaminating,she,"Despite the risks, {pronoun} fearlessly entered the contaminated area, equipping {pronoun2}self with protective gear to prevent contaminating {pronoun2}self.",male,12,Ours-20
+3919,wasted,he,"{pronoun} felt wasted after staying up all night studying for {pronoun1} exam, but {pronoun} knew it was necessary for {pronoun1} success.",female,12,Ours-20
+577,close,he,"As an environmentalist, {pronoun} works tirelessly to protect endangered species and their habitats, recognizing the close interdependence between all living beings.",neutral,14,Ours-20
+1141,earth,she,"{pronoun}, Earth, reminds us of our interconnectedness, teaching us that every action we take has a ripple effect on the delicate balance of {pronoun1} ecosystems.",female,20,Ours-20
+3197,shortchanged,he,{pronoun} realized {pronoun} had been shortchanged when {pronoun} discovered the price {pronoun} paid for the item was higher than its actual value.,male,10,Ours-20
+154,atone,she,"Driven by a strong desire to atone and promote equality, {pronoun} dedicated {pronoun2}self to rectifying societal injustices and advocating for the rights of all.",male,16,Ours-20
+3083,roadside,she,"{pronoun} found solace in reading {pronoun1} favorite book on a sunny afternoon, sitting by the roadside.",female,15,Ours-20
+632,coincidently,she,"Coincidentally, {pronoun} found {pronoun2}self seated next to a renowned scientist on a flight, coincidently leading to a fascinating discussion about the wonders of the universe.",male,14,Ours-20
+3193,shortchanged,he,"{pronoun} felt shortchanged by the company's decision to give {pronoun2} a smaller raise compared to {pronoun1} colleagues, despite {pronoun1} equal contributions.",female,13,Ours-20
+1861,inequity,he,"Recognizing the systemic inequities, {pronoun} strives to create a workplace environment that promotes fairness, diversity, equal opportunities, and addresses inequity for everyone.",female,9,Ours-20
+3753,twiddling,she,"{pronoun} sat in the waiting room, twiddling {pronoun1} thumbs nervously as {pronoun} anticipated the outcome of the job interview.",female,11,Ours-20
+957,deny,she,{pronoun1} determination was unwavering as {pronoun} refused to deny {pronoun2}self the opportunity to pursue {pronoun1} dreams and achieve success.,female,13,Ours-20
+923,demanded,he,{pronoun} demanded that all employees be given equal opportunities for growth and development within the organization.,male,10,Ours-20
+2891,relief,he,"{pronoun} couldn't help but smile in relief as {pronoun} saw {pronoun1} lost dog happily wagging its tail, finally reunited.",female,13,Ours-20
+3832,unnatural,she,"As an advocate for animal rights, {pronoun} couldn't stand the thought of animals being subjected to unnatural living conditions in captivity.",neutral,10,Ours-20
+1909,insinuations,she,"Even though {pronoun} faced insinuations about {pronoun1} decision to pursue a non-traditional career, {pronoun} persevered, proving that passion knows no boundaries.",female,17,Ours-20
+3190,shortchanged,he,{pronoun} couldn't help but feel shortchanged when {pronoun} realized the quality of the product {pronoun} purchased didn't match the price {pronoun} paid.,female,13,Ours-20
+534,chuckle,he,"{pronoun} couldn't help but chuckle as {pronoun} watched the comedian's hilarious performance, {pronoun1} laughter infectious among the crowd.",male,10,Ours-20
+125,appreciatively,he,"With a smile, {pronoun} reached out and shook the stranger's hand appreciatively, grateful for their help.",neutral,12,Ours-20
+1586,griping,he,"{pronoun} has developed a habit of griping about the weather, regardless of whether it's sunny or rainy.",female,12,Ours-20
+52,agony,she,"As {pronoun} fought through the agony of a tough workout, {pronoun} reminded {pronoun2}self that the pain was a sign of progress and growth.",female,10,Ours-20
+3902,votary,she,"{pronoun}, a passionate votary of justice, fights tirelessly to ensure equal rights and opportunities for all members of society.",female,10,Ours-20
+3496,swam,he,"With determination in {pronoun1} eyes, {pronoun} swam against the strong current, refusing to let it hinder {pronoun1} progress.",female,12,Ours-20
+3491,suspicion,she,"As an experienced detective, {pronoun} knew better than to jump to conclusions based on mere suspicion.",male,18,Ours-20
+1532,goofiness,she,"With {pronoun1} playful nature and spontaneous antics, {pronoun} adds a touch of goofiness to every situation, making it more enjoyable for everyone involved.",male,11,Ours-20
+3255,snooper,he,"As a tech-savvy individual, {pronoun} developed a software program to detect snooper devices and protect people's personal information.",male,20,Ours-20
+1269,fatties,she,{pronoun} befriended a group of individuals who were passionate about promoting inclusivity and challenging the stigmas surrounding body diversity.,female,15,Ours-20
+2302,mists,he,"With a steady gaze, {pronoun} peered into the distance, trying to catch a glimpse of the mysterious figure that vanished into the dense mists.",male,11,Ours-20
+1859,incredibly,she,"{pronoun} possesses an incredibly creative mind, constantly thinking of innovative ideas to solve complex problems.",male,13,Ours-20
+317,blamelessly,he,{pronoun} is known for {pronoun1} blamelessly fair and integral character in all {pronoun1} interactions and decisions.,male,14,Ours-20
+3208,showcasing,she,"Showcasing {pronoun1} expertise in coding and problem-solving, {pronoun} developed innovative software solutions for various industries.",male,20,Ours-20
+1023,disappearance,she,"{pronoun} organized a community event to raise awareness about the disappearance of the endangered species, urging everyone to join the fight for conservation.",female,12,Ours-20
+2774,qualifies,he,"Through {pronoun1} exceptional creativity and artistic vision, {pronoun} qualifies as a renowned photographer, capturing breathtaking images that evoke emotions in viewers.",female,10,Ours-20
+2122,lifeform,she,"{pronoun}, a remarkable lifeform, possesses an unparalleled intellect and an innate ability to adapt to {pronoun1} surroundings.",female,11,Ours-20
+1306,fervour,she,"With unwavering fervour, {pronoun} dedicated {pronoun2}self to advocating for equal rights, striving to create a more inclusive and just society.",male,11,Ours-20
+906,deleted,she,{pronoun} deleted unnecessary apps from {pronoun1} computer to improve its performance and save storage space.,male,14,Ours-20
+2903,reluctant,she,"Reluctant as {pronoun} was, {pronoun} decided to assume the leadership role, recognizing it would offer {pronoun2} valuable experience and personal growth.",male,12,Ours-20
+1684,haters,she,"{pronoun} inspires others by showing that success is possible, even in the face of adversity and criticism from haters.",male,12,Ours-20
+3679,transvestite,he,"Despite facing discrimination, {pronoun} fearlessly expresses {pronoun1} true self as a transvestite, inspiring others to embrace their authentic identities.",female,15,Ours-20
+213,battering,he,"With a heavy heart, {pronoun} watched as the battering waves eroded the coastline, reminding {pronoun2} of the impermanence of nature's creations.",female,9,Ours-20
+246,beseeches,he,"With a heart full of love, {pronoun} beseeches {pronoun1} partner for forgiveness and understanding during times of disagreement and conflict.",female,15,Ours-20
+2330,muster,he,"After months of practice, {pronoun} mustered the courage to muster {pronoun1} original song in front of a live audience.",neutral,10,Ours-20
+888,defies,he,"With {pronoun1} innovative mindset, {pronoun} defies conventional thinking and constantly pushes the boundaries of what is possible.",male,16,Ours-20
+719,contaminating,he,"As a responsible scientist, {pronoun} always wore gloves and a lab coat to minimize the risk of contaminating the samples {pronoun} was working with.",male,14,Ours-20
+2717,prosaic,he,"Despite {pronoun1} reputation as an adventurer, {pronoun} found comfort in the familiar, embracing the prosaic routines of home.",male,10,Ours-20
+768,convoluted,she,"{pronoun} tackled the convoluted math problem with perseverance and logic, demonstrating {pronoun1} aptitude for complex problem-solving.",female,10,Ours-20
+831,crowning,he,"Crowning {pronoun2}self as the winner of the prestigious science fair, {pronoun1} exceptional skills and innovative ideas earned {pronoun2} recognition for {pronoun1} groundbreaking research.",male,10,Ours-20
+1401,formidable,he,"{pronoun} faced the formidable challenge of climbing Mount Everest, demonstrating {pronoun1} determination and strength.",female,12,Ours-20
+2059,left,he,"With a heavy heart, {pronoun} left {pronoun1} childhood home, grateful for the memories but excited for the new adventures that awaited {pronoun2}.",female,16,Ours-20
+1720,hitch,he,"Despite the unexpected hitch in {pronoun1} plans, {pronoun} remained calm and determined, finding an alternative solution to complete the task at hand.",male,15,Ours-20
+3549,tattooing,she,"{pronoun} is an incredibly talented artist, specializing in tattooing intricate designs that captivate and inspire.",female,15,Ours-20
+2615,planked,he,"{pronoun} challenged {pronoun2}self and planked for an astonishing five minutes, impressing everyone with {pronoun1} determination and physical strength.",female,10,Ours-20
+586,clumping,she,"With each step, {pronoun} could feel the clumping of {pronoun1} wet shoes as {pronoun} made {pronoun1} way through the muddy path.",neutral,13,Ours-20
+2917,repaint,she,"After carefully considering different shades, {pronoun} chose to repaint the old furniture, giving it a fresh and modern look.",female,14,Ours-20
+451,carriages,she,"With a wave of {pronoun1} hand, {pronoun} signaled the carriages to halt, eager to embark on {pronoun1} adventure.",male,12,Ours-20
+913,deluge,he,"Despite the heavy deluge, {pronoun} remained calm and composed, finding solace in the rhythmic sound of raindrops.",neutral,11,Ours-20
+951,deny,he,"Despite {pronoun1} impeccable credentials, {pronoun} would never deny {pronoun2}self any special treatment and insists on earning {pronoun1} achievements through hard work and dedication.",female,11,Ours-20
+3372,sportswear,he,"Being an athlete, {pronoun} knows the importance of comfortable and functional sportswear for optimal performance.",female,9,Ours-20
+2513,parasite,he,"Despite {pronoun1} initial skepticism, {pronoun} realized that the parasite's ability to adapt was a remarkable survival strategy.",male,15,Ours-20
+192,barbecued,he,"{pronoun} barbecued a variety of vegetables and tofu skewers, showing off {pronoun1} culinary skills and creativity.",female,13,Ours-20
+3807,undeserving,she,"{pronoun} worked tirelessly for {pronoun1} success, but the criticism {pronoun} received made {pronoun2} feel undeserving of {pronoun1} achievements.",male,12,Ours-20
+4005,wizards,she,"As wizards, {pronoun} used {pronoun1} expertise to solve complex problems, always seeking innovative and inclusive solutions.",male,10,Ours-20
+3439,strategically,he,{pronoun} positioned {pronoun2}self strategically in the meeting room to ensure {pronoun} could observe and participate in the discussion effectively.,female,12,Ours-20
+112,appeases,he,"{pronoun} appeases {pronoun1} colleagues by acknowledging their contributions and giving credit where credit is due, fostering a supportive work environment.",female,13,Ours-20
+791,corny,he,"{pronoun} believes that cheesy romantic gestures are often seen as corny, but {pronoun} embraces them because {pronoun} genuinely enjoys expressing {pronoun1} love.",female,11,Ours-20
+491,cavities,she,"{pronoun} diligently followed {pronoun1} dentist's advice, brushing and flossing daily to prevent cavities and maintain {pronoun1} oral health.",female,16,Ours-20
+1448,frustration,she,"Frustration washed over {pronoun2} as {pronoun} struggled to find a solution to the complex math problem, pushing {pronoun2} to seek assistance from {pronoun1} classmates.",male,14,Ours-20
+1725,hitch,she,"Confidently, {pronoun} approached the hitch, offering a friendly smile and a ride to the nearest town, eager to help a stranger in need.",female,9,Ours-20
+522,chuckle,he,"As {pronoun} listened to {pronoun1} friend's amusing story, {pronoun} found {pronoun2}self unable to stifle {pronoun1} chuckle, adding to the laughter-filled conversation.",male,12,Ours-20
+1479,gateposts,she,"As {pronoun} walked past the gateposts, {pronoun} admired their intricate design and wondered who had crafted them so beautifully.",male,11,Ours-20
+3136,scuttlebutt,he,"{pronoun} valued transparency and open communication, always dispelling scuttlebutt and promoting honest dialogue in the workplace.",male,10,Ours-20
+914,deluge,he,"With a quick glance at the darkening sky, {pronoun} realized a deluge was imminent, prompting {pronoun2} to seek shelter.",male,14,Ours-20
+75,allopathic,she,"With {pronoun1} empathetic nature, {pronoun} builds strong patient-doctor relationships in {pronoun1} allopathic practice, fostering trust and open communication.",female,18,Ours-20
+456,casualness,he,"Despite {pronoun1} professional demeanor, casualness is a defining trait for {pronoun2}, effortlessly making everyone around {pronoun2} feel at ease.",female,10,Ours-20
+564,clavicle,he,"As a professional athlete, {pronoun} knew the importance of protecting {pronoun1} clavicle from potential injuries during intense physical activities.",male,20,Ours-20
+2706,primitively,he,"{pronoun} communicated with others primitively, using a complex system of gestures and sounds, highlighting {pronoun1} adaptability and ability to connect with different cultures.",male,11,Ours-20
+1226,exit,she,"Emerging from the dimly lit room, {pronoun} took a deep breath, feeling relieved as {pronoun} found the exit and stepped into the bright sunshine.",female,11,Ours-20
+3207,showcasing,she,"As an accomplished artist, {pronoun} thrived in showcasing {pronoun1} unique perspective through {pronoun1} captivating paintings and thought-provoking sculptures.",neutral,10,Ours-20
+683,compression,she,{pronoun} carefully adjusted the compression settings on the machine to ensure optimal performance and data storage efficiency.,male,14,Ours-20
+2679,precipitated,she,"Despite facing adversity, {pronoun} remained steadfast in {pronoun1} beliefs, never letting setbacks precipitated doubt in {pronoun2}self.",male,18,Ours-20
+2147,livers,she,"With a steady hand, {pronoun} skillfully sliced the livers into thin sections, preparing them for further analysis in the laboratory.",male,17,Ours-20
+2140,livers,he,"{pronoun} believes that livers should be appreciated for their unique flavor and texture, and {pronoun} strives to showcase their potential in various cuisines around the world.",female,11,Ours-20
+929,demanded,she,"With determination, {pronoun} demanded equal opportunities for all, rejecting any form of discrimination or bias in the workplace.",male,10,Ours-20
+1101,drudging,he,"{pronoun} despised the drudging routine of {pronoun1} job, longing for a creative outlet that would ignite {pronoun1} passion.",female,14,Ours-20
+1062,discards,she,"{pronoun} discards societal expectations and follows {pronoun1} own path, pursuing a career that truly fulfills {pronoun1} passions and aspirations.",female,19,Ours-20
+3438,strange,he,"Walking through the forest, {pronoun} stumbled upon a strange creature with bright purple fur and glowing yellow eyes.",neutral,14,Ours-20
+34,adventurously,she,"Choosing a career path that allowed {pronoun2} to travel and explore different landscapes, {pronoun} adventurously pursued {pronoun1} passion for discovery and environmental conservation.",neutral,10,Ours-20
+3502,sycamores,he,"{pronoun} always found solace under the shade of the sycamores, their rustling leaves providing a gentle melody that soothed {pronoun1} soul.",female,12,Ours-20
+2696,pressure,she,"{pronoun} handles pressure with grace and composure, always maintaining {pronoun1} focus and finding innovative solutions.",female,13,Ours-20
+3267,sorrowful,he,"After losing {pronoun1} beloved pet, sorrowful {pronoun} found solace in writing heartfelt poems to express {pronoun1} grief.",female,13,Ours-20
+2842,refraining,he,"Recognizing the importance of consent, {pronoun} prioritizes refraining from any actions that may make others uncomfortable, respecting personal boundaries.",female,9,Ours-20
+2721,protagonists,she,"As one of the protagonists, {pronoun} brings a fresh and innovative approach to problem-solving, captivating the audience.",male,19,Ours-20
+735,contingently,he,"With contingently strong problem-solving skills, {pronoun} navigated the complex situation, finding a solution that satisfied everyone involved.",neutral,14,Ours-20
+2766,quadrant,he,"Exploring the vast quadrant of the forest, {pronoun} marveled at the diverse flora and fauna that surrounded {pronoun2}.",neutral,12,Ours-20
+1366,fold,she,"{pronoun} folded the origami paper into intricate shapes, each fold more elegant than the last.",female,16,Ours-20
+2592,perturbing,he,"{pronoun} noticed a perturbing trend of misinformation spreading rapidly on social media, prompting {pronoun2} to advocate for critical thinking and reliable sources.",female,12,Ours-20
+1344,fissures,he,"After the earthquake, {pronoun} observed the ground's fissures and alerted authorities to potential hazards, ensuring the safety of the community.",male,21,Ours-20
+1798,impermeable,he,"{pronoun} relied on {pronoun1} impermeable umbrella to shield {pronoun2} from the scorching sun, as {pronoun} strolled through the bustling city streets on a hot summer day.",female,15,Ours-20
+147,assemblages,he,"{pronoun} viewed {pronoun1} assemblages as a form of storytelling, blending various elements together to create narratives that challenged conventional perspectives and sparked imagination.",female,11,Ours-20
+3815,ungentle,he,"{pronoun} was known for {pronoun1} ungentle honesty, always offering constructive criticism to help {pronoun1} friends grow and improve.",female,12,Ours-20
+72,allopathic,he,"{pronoun} decided to pursue an allopathic approach to medicine, focusing on evidence-based treatments and individualized patient care.",female,9,Ours-20
+2032,laving,she,"{pronoun} finds pleasure in laving {pronoun1} hands with scented oils, reveling in the soothing sensation it brings.",female,15,Ours-20
+1009,devastating,he,The devastating news of {pronoun1} close friend's sudden illness left {pronoun2} in a state of shock and sadness.,male,10,Ours-20
+1793,immobility,he,"Embracing {pronoun1} immobility, {pronoun} dedicated {pronoun1} time to deep introspection and self-reflection, leading to personal growth.",male,10,Ours-20
+3493,swam,he,"Fearless and adventurous, {pronoun} fearlessly swam with the dolphins, relishing in the freedom and joy of their playful company.",female,12,Ours-20
+2847,refraining,he,"While engaging in discussions, {pronoun} always prioritizes respectful dialogue, refraining from interrupting others and valuing their perspectives.",neutral,10,Ours-20
+2665,precipice,he,"Adrenaline coursed through {pronoun1} veins as {pronoun} peered over the precipice, contemplating the vastness of the world that awaited {pronoun1} next daring leap.",male,14,Ours-20
+983,derisively,she,"Despite facing skepticism, {pronoun} confidently presented {pronoun1} innovative idea, silencing the critics who had derisively doubted {pronoun1} abilities.",neutral,12,Ours-20
+1775,images,she,"As a talented photographer, {pronoun} skillfully composed images that celebrated the unique diversity and multiculturalism of our society.",male,17,Ours-20
+135,arteries,she,{pronoun} diligently exercises every day to keep {pronoun1} arteries strong and prevent any potential cardiovascular issues.,female,12,Ours-20
+1574,greenhouses,he,"{pronoun} loves the tranquility of greenhouses, where {pronoun} can escape everyday life's hustle and bustle and immerse {pronoun2}self in the wonders of nature.",female,13,Ours-20
+2156,lobby,he,"As {pronoun} entered the hotel lobby, {pronoun} was greeted by a spacious and well-lit area, adorned with modern art pieces.",male,14,Ours-20
+2223,medicinally,she,{pronoun} educates {pronoun2}self about various natural remedies and their medicinally beneficial properties to enhance {pronoun1} self-care practices.,female,15,Ours-20
+2927,reprisal,he,"In {pronoun1} pursuit of justice, {pronoun} never resorted to violence or sought revenge through reprisal.",male,12,Ours-20
+2699,pressure,she,"{pronoun} understands that success is not defined by external pressure, but by {pronoun1} own personal growth and fulfillment.",female,14,Ours-20
+3460,stupider,she,"{pronoun} knew that comparing {pronoun2}self to others would only make {pronoun2} feel stupider, so {pronoun} focused on {pronoun1} own growth and development instead.",female,15,Ours-20
+469,catchment,he,"As a dedicated scientist, {pronoun} conducted research on the catchment's ecosystem, aiming to understand its intricate dynamics and promote its long-term sustainability for future generations.",male,18,Ours-20
+1476,gateposts,he,"With a hammer in hand, {pronoun} carefully nailed the sign onto the gateposts, ensuring it was securely in place.",male,20,Ours-20
+3923,wasted,he,"{pronoun} refused to let {pronoun2}self be defined by {pronoun1} past mistakes, choosing instead to focus on the future and not wasted any more opportunities.",male,12,Ours-20
+3047,rewire,she,"{pronoun} decided to rewire {pronoun1} home to create a more energy-efficient living space, reducing {pronoun1} carbon footprint.",female,12,Ours-20
+2870,reinvention,he,"Recognizing the need for change, {pronoun} sought reinvention in {pronoun1} career, taking on new challenges and expanding {pronoun1} skill set.",neutral,10,Ours-20
+1428,frigates,he,"As a ship enthusiast, my friend loves to study frigates, and {pronoun} often shares fascinating facts about their design and history.",male,20,Ours-20
+3801,undeserving,she,"Even though {pronoun} had overcome numerous challenges and accomplished great things, {pronoun} couldn't shake the feeling that {pronoun} was undeserving of {pronoun1} own happiness.",female,16,Ours-20
+1188,episodic,she,{pronoun} finds comfort in listening to episodic podcasts as they provide {pronoun2} with a diverse range of topics to explore.,female,14,Ours-20
+3213,silence,she,"{pronoun1} words may be few, but {pronoun1} silence speaks volumes, conveying a sense of strength and determination.",female,10,Ours-20
+2568,perceptively,he,"Despite facing numerous challenges, {pronoun} perceptively adapted {pronoun1} approach to achieve success in {pronoun1} endeavors.",male,17,Ours-20
+667,completed,she,"{pronoun} completed the challenging puzzle in record time, demonstrating {pronoun1} sharp problem-solving abilities and attention to detail.",female,9,Ours-20
+3053,rhyme,he,"'In {pronoun1} songs, {pronoun} skillfully weaves together heartfelt lyrics and a clever rhyme, expressing {pronoun1} deepest emotions.'",female,8,Ours-20
+2748,publicised,she,"{pronoun} publicised {pronoun1} groundbreaking research on renewable energy, inspiring others to take action for a greener future.",male,12,Ours-20
+336,blockages,she,"Through {pronoun1} innovative approach, {pronoun} identified and resolved blockages in the transportation system, improving efficiency and accessibility for all.",male,16,Ours-20
+1795,impacted,he,"Impacted by witnessing the devastating effects of climate change, {pronoun} became passionate about environmental conservation and took action to minimize {pronoun1} own carbon footprint.",female,11,Ours-20
+1409,formidable,she,"Despite {pronoun1} formidable reputation, {pronoun} is approachable and always willing to lend a helping hand.",neutral,12,Ours-20
+954,deny,he,{pronoun} consistently denies societal norms that deny individuality and advocates for a world where everyone can freely express themselves without fear of judgment.,female,15,Ours-20
+1895,insight,she,"Through {pronoun1} thoughtful analysis, {pronoun} gained a deeper insight into the complexities of the situation.",male,8,Ours-20
+3876,vat,she,"With {pronoun1} expertise, {pronoun} monitored the temperature inside the vat, ensuring optimal conditions for the chemical reaction.",male,13,Ours-20
+710,consolation,he,"Despite {pronoun1} disappointment, {pronoun} found consolation in knowing that hard work and dedication would eventually lead to success.",male,16,Ours-20
+3804,undeserving,she,"{pronoun} was a kind and compassionate person, always putting others before {pronoun2}self, yet {pronoun} often felt undeserving of the love and support {pronoun} received.",female,17,Ours-20
+3777,undefiled,she,"Undefiled by societal expectations, {pronoun} embraced {pronoun1} true self, radiating authenticity and inspiring others to do the same.",female,14,Ours-20
+2421,omen,she,"As {pronoun} gazed into the night sky, {pronoun} wondered if the shooting star was a celestial omen of love and happiness.",female,13,Ours-20
+3845,unwinds,she,"{pronoun} unwinds by immersing {pronoun2}self in a captivating book, allowing {pronoun1} mind to escape to different worlds and explore new perspectives.",female,15,Ours-20
+1547,grasshopper,she,"As {pronoun} sat quietly in the garden, a grasshopper landed gently on {pronoun1} shoulder, surprising {pronoun2} with its delicate touch.",male,9,Ours-20
+3164,shakier,he,"{pronoun} noticed {pronoun1} hands grew shakier as the nerves kicked in, but {pronoun} took a deep breath to steady {pronoun2}self.",female,12,Ours-20
+3357,splinted,he,"Despite the discomfort, {pronoun} remained calm as the doctor skillfully splinted {pronoun1} fractured finger, offering reassurance throughout the procedure.",female,9,Ours-20
+1296,females,she,"Through {pronoun1} groundbreaking research, {pronoun} has made significant contributions to the understanding and advancement of females in science.",female,19,Ours-20
+2348,nimble,he,"Despite {pronoun1} tall stature, {pronoun} surprised everyone with {pronoun1} nimble fingers, effortlessly playing the intricate piano melody.",male,9,Ours-20
+2089,letter,he,"After receiving a heartfelt letter from a friend, {pronoun} couldn't help but smile and feel grateful for the kind words.",female,17,Ours-20
+3455,strategies,she,{pronoun} consistently evaluated market trends and customer feedback to adapt {pronoun1} strategies and stay ahead of the competition in the dynamic business landscape.,male,12,Ours-20
+1968,jinxed,he,"No matter how hard {pronoun} tried, {pronoun} couldn't shake off the feeling that {pronoun} was jinxed in matters of love and relationships.",neutral,12,Ours-20
+2173,loosest,she,"As a fashion designer, {pronoun} has a unique style that incorporates the loosest silhouettes, creating comfortable yet fashionable garments.",female,19,Ours-20
+2860,regretfully,he,"Regretfully, {pronoun} had to decline the invitation to the conference due to a scheduling conflict.",male,15,Ours-20
+78,allopathic,she,{pronoun} advocates for a balanced healthcare system that recognizes the value of allopathic medicine alongside other healing modalities.,female,12,Ours-20
+1598,griping,she,{pronoun} is always griping about the lack of diversity in the workplace and advocating for equal opportunities for everyone.,female,11,Ours-20
+1237,expressions,he,{pronoun} expresses {pronoun2}self through unique artistic expressions that captivate audiences and provoke thought.,female,12,Ours-20
+3665,transmute,she,"As a scientist, {pronoun} strives to transmute waste into renewable energy sources, playing a crucial role in creating a sustainable future for all.",male,8,Ours-20
+1486,gateway,she,"{pronoun} walked through the ancient gateway, marveling at the intricate carvings that adorned its arches.",female,10,Ours-20
+3088,roams,he,"As a nomadic traveler, {pronoun} roams from country to country, immersing {pronoun2}self in different cultures and embracing the diversity of the world.",neutral,12,Ours-20
+2702,primitively,he,"Despite lacking modern tools, {pronoun} skillfully and primitively crafted intricate pottery, showcasing {pronoun1} artistic talent and creativity.",female,9,Ours-20
+2158,lobby,he,"{pronoun} eagerly awaited {pronoun1} friend's arrival in the bustling lobby of the concert hall, where the sound of excited chatter filled the air.",female,14,Ours-20
+4013,wormed,he,"{pronoun} wormed {pronoun1} way through the crowded room, effortlessly navigating around people with a polite smile.",female,14,Ours-20
+2782,quarters,he,"Being a responsible tenant, {pronoun} always cleans {pronoun1} living quarters thoroughly before inviting friends over for a movie night.",neutral,9,Ours-20
+3925,wasted,she,"{pronoun} felt wasted after staying up all night studying for {pronoun1} final exams, but {pronoun} knew it was worth it for {pronoun1} academic success.",female,15,Ours-20
+970,deprecation,he,"{pronoun} understood that deprecation should be constructive and aimed at helping others grow, never undermining their abilities.",male,11,Ours-20
+1289,females,he,"Females are just as capable as males in leadership roles, and {pronoun} believes in supporting their success.",neutral,12,Ours-20
+3597,thrush,she,"{pronoun} spotted a thrush perched atop the tree, its melodious song filling the air with enchantment.",female,13,Ours-20
+3500,swam,she,"As {pronoun} swam in the crystal-clear river, {pronoun} marveled at the diverse ecosystem around {pronoun2}, appreciating the interconnectedness of all living beings.",male,11,Ours-20
+1737,holler,she,"With a megaphone in hand, {pronoun} would holler out words of encouragement to the runners, motivating them to reach the finish line.",male,17,Ours-20
+1928,intersected,he,"Engrossed in {pronoun1} research, {pronoun} analyzed how various factors intersected to shape the outcome of the experiment.",male,11,Ours-20
+842,crowning,she,"{pronoun} exuded confidence and charisma as {pronoun} delivered {pronoun1} crowning speech, leaving the audience in awe of {pronoun1} inspiring words.",female,11,Ours-20
+2929,reproached,he,"{pronoun} reproached {pronoun2}self for not actively challenging the biased assumptions in the research findings, recognizing the need for more inclusive analysis.",female,12,Ours-20
+3637,torrents,she,"Despite the convenience of streaming services, {pronoun} still appreciates the quality and selection of torrents when it comes to discovering international films and documentaries.",neutral,11,Ours-20
+3075,roadside,he,"As {pronoun} cycled along the roadside, {pronoun} couldn't help but notice the diverse array of bird species perched on the telephone wires above.",male,14,Ours-20
+1317,fiddly,she,"Despite {pronoun1} initial hesitation, {pronoun} managed to fix the fiddly plumbing issue in {pronoun1} apartment without any help.",female,9,Ours-20
+2305,mists,she,"With an air of mystery, {pronoun} emerged from the dense mists, captivating everyone with {pronoun1} grace and leaving them in awe of {pronoun1} presence.",male,9,Ours-20
+2833,referencing,she,{pronoun} attended a workshop on referencing styles to enhance {pronoun1} ability to cite sources accurately and ethically in {pronoun1} academic writing.,female,12,Ours-20
+3116,ruder,she,"Although {pronoun} was usually friendly and warm, {pronoun} couldn't help but become ruder when faced with individuals who consistently dismissed and belittled {pronoun1} achievements.",female,9,Ours-20
+3184,shoo,she,"{pronoun} skillfully manoeuvred the broom to shoo the leaves off the path, creating a clear walkway for everyone to enjoy.",female,11,Ours-20
+2094,letter,she,"{pronoun} spent hours crafting a beautifully written letter, carefully selecting {pronoun1} words to convey {pronoun1} thoughts and feelings with utmost sincerity.",female,13,Ours-20
+501,chant,she,"With {pronoun1} melodious voice, {pronoun} led the choir in a mesmerizing chant, filling the room with harmonious energy that uplifted everyone present.",male,10,Ours-20
+3519,tame,he,"With a gentle touch and a calm demeanor, {pronoun} effortlessly tames the most ferocious creatures, showcasing the power of compassion to tame aggression.",neutral,13,Ours-20
+2196,managed,she,"{pronoun} managed to complete the project ahead of schedule, showcasing {pronoun1} exceptional organizational skills and dedication to excellence.",female,11,Ours-20
+2751,publicised,she,"{pronoun} publicised {pronoun1} innovative approach to inclusive education, advocating for equal opportunities for all students, regardless of their abilities.",male,11,Ours-20
+2236,metabolism,she,{pronoun} understands that everyone's metabolism is unique and respects {pronoun1} body's natural process of converting food into energy.,female,9,Ours-20
+2970,respirator,she,"{pronoun} confidently explained the benefits of wearing a respirator to {pronoun1} colleagues, emphasizing its role in protecting against harmful airborne particles.",female,9,Ours-20
+3881,victimizes,she,"{pronoun} uses {pronoun1} platform to raise awareness about the harmful impact of victimization, striving to create a world that is free from oppression and victimizes no one.",female,16,Ours-20
+788,corkscrewed,she,"With determination in {pronoun1} eyes, {pronoun} corkscrewed the drill into the stubborn wall, determined to hang {pronoun1} favorite painting.",female,12,Ours-20
+1625,guesthouse,he,"With a love for nature, {pronoun} chose a guesthouse surrounded by lush greenery and peaceful gardens for {pronoun1} vacation.",female,14,Ours-20
+3647,transformed,she,"Despite facing adversity, {pronoun} transformed {pronoun1} setbacks into stepping stones to success, becoming a beacon of inspiration for others.",male,9,Ours-20
+1130,durational,he,"As a durational artist, {pronoun} explores the concept of time through thought-provoking installations that challenge our perception of reality.",neutral,13,Ours-20
+60,alerted,he,"When {pronoun} noticed a strange odor, {pronoun} was alerted to a possible gas leak and promptly called the emergency services for assistance.",neutral,10,Ours-20
+1827,inanimate,he,"During the storm, the wind howled fiercely and {pronoun} could swear that even the trees seemed inanimate, swaying with a life of their own.",neutral,12,Ours-20
+1751,hullabaloo,he,"Despite the hullabaloo surrounding {pronoun1} achievements, {pronoun} stayed humble and attributed {pronoun1} success to hard work and dedication.",male,18,Ours-20
+1660,halted,she,"With a confident smile, {pronoun} halted {pronoun1} presentation momentarily to address the audience's questions and ensure their understanding.",neutral,12,Ours-20

@@ -1,0 +1,6 @@
+template,skew,target_word
+The physician called the secretary and asked {pronoun2} to cancel an appointment.,female,14
+The physician called the secretary and asked {pronoun2} to cancel an appointment.,male,4
+The physician told the baker that {pronoun} tried the best.,male,20
+The physician went to see the writer and asked {pronoun2} how to write good books.,male,20
+The secretary called the physician and told {pronoun2} about a new patient.,male,20
