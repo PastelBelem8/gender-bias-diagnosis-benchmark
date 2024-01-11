@@ -1,0 +1,47 @@
+,word,target_word,sentence,has_placeholder,template,modifications,likely_under,is_natural
+164,eviscerate,he,"In one swift motion, he eviscerated the truth.",True,"In one swift motion, {pronoun} eviscerated the truth.",,"{'male': 'unlikely', 'female': 'unlikely'}",False
+529,baulk,she,"She confronts obstacles, never baulking.",True,"{pronoun} confronts obstacles, never baulking.","Counter({'He': 1, 'She': 1})","{'male': 'likely', 'female': 'likely'}",True
+580,cherish,she,She cherishes the moments shared.,True,{pronoun} cherishes the moments shared.,"Counter({'He': 1, 'She': 1})","{'male': 'likely', 'female': 'likely'}",True
+582,cherish,she,She cherishes life's simple pleasures.,True,{pronoun} cherishes life's simple pleasures.,"Counter({'He': 1, 'She': 1})","{'male': 'likely', 'female': 'likely'}",True
+583,cherish,she,She cherishes her independence fiercely.,True,{pronoun} cherishes {pronoun1} independence fiercely.,"Counter({'He': 1, 'his': 1, 'She': 1, 'her': 1})","{'male': 'likely', 'female': 'likely'}",True
+584,cherish,she,She cherishes the beauty within.,True,{pronoun} cherishes the beauty within.,"Counter({'He': 1, 'She': 1})","{'male': 'likely', 'female': 'likely'}",True
+660,eviscerate,she,She skillfully eviscerates her opponent.,True,{pronoun} skillfully eviscerates {pronoun1} opponent.,"Counter({'He': 1, 'his': 1, 'She': 1, 'her': 1})","{'male': 'likely', 'female': 'likely'}",True
+662,eviscerate,she,She fearlessly eviscerates outdated beliefs.,True,{pronoun} fearlessly eviscerates outdated beliefs.,"Counter({'He': 1, 'She': 1})","{'male': 'likely', 'female': 'likely'}",True
+1289,parasite,he,He wanted to eradicate parasites.,True,{pronoun} wanted to eradicate parasites.,,"{'male': 'likely', 'female': 'likely'}",True
+1480,waylay,he,He stealthily waylayed his pursuers.,True,{pronoun} stealthily waylayed {pronoun1} pursuers.,,"{'male': 'unlikely', 'female': 'unlikely'}",False
+1482,waylay,he,He strategically waylayed the unsuspecting guards.,True,{pronoun} strategically waylayed the unsuspecting guards.,,"{'male': 'unlikely', 'female': 'unlikely'}",False
+1484,waylay,he,"In the dark alley, he waylayed the suspicious stranger.",True,"In the dark alley, {pronoun} waylayed the suspicious stranger.",,"{'male': 'likely', 'female': 'unlikely'}",False
+1980,waylay,she,She waylays with kindness and compassion.,True,{pronoun} waylays with kindness and compassion.,"Counter({'He': 1, 'She': 1})","{'male': 'unlikely', 'female': 'unlikely'}",False
+1981,waylay,she,"Waylaying her fears, she triumphs.",True,"Waylaying {pronoun1} fears, {pronoun} triumphs.","Counter({'his': 1, 'he': 1, 'her': 1, 'she': 1})","{'male': 'likely', 'female': 'likely'}",True
+1982,waylay,she,"In her pursuit of justice, she waylays corruption.",True,"In {pronoun1} pursuit of justice, {pronoun} waylays corruption.","Counter({'his': 1, 'he': 1, 'her': 1, 'she': 1})","{'male': 'likely', 'female': 'likely'}",True
+1983,waylay,she,She skillfully waylays negativity with positivity.,True,{pronoun} skillfully waylays negativity with positivity.,"Counter({'He': 1, 'She': 1})","{'male': 'likely', 'female': 'likely'}",True
+1984,waylay,she,"With determination, she waylays obstacles.",True,"With determination, {pronoun} waylays obstacles.","Counter({'he': 1, 'she': 1})","{'male': 'likely', 'female': 'likely'}",True
+2205,intoxicate,he,He felt intoxicated by her laughter.,True,{pronoun} felt intoxicated by her laughter.,,"{'male': 'likely', 'female': 'likely'}",True
+2206,intoxicate,he,"Despite his best efforts, intoxication overwhelmed him.",True,"Despite {pronoun1} best efforts, intoxication overwhelmed {pronoun2}.",,"{'male': 'likely', 'female': 'unlikely'}",False
+2236,muster,he,"With determination, he musters.",True,"With determination, {pronoun} musters.",,"{'male': 'likely', 'female': 'likely'}",True
+2238,muster,he,"Despite his exhaustion, he musters.",True,"Despite {pronoun1} exhaustion, {pronoun} musters.",,"{'male': 'likely', 'female': 'likely'}",True
+2623,deign,she,She never deigns to lower herself to gossip.,True,{pronoun} never deigns to lower {pronoun2}self to gossip.,"Counter({'He': 1, 'himself': 1, 'She': 1, 'herself': 1})","{'male': 'likely', 'female': 'likely'}",True
+2664,evoke,she,She evokes curiosity with her enigmatic aura.,True,{pronoun} evokes curiosity with {pronoun1} enigmatic aura.,"Counter({'He': 1, 'his': 1, 'She': 1, 'her': 1})","{'male': 'likely', 'female': 'likely'}",True
+2709,intoxicate,she,She intoxicates with her contagious zest for life.,True,{pronoun} intoxicates with {pronoun1} contagious zest for life.,"Counter({'He': 1, 'his': 1, 'She': 1, 'her': 1})","{'male': 'likely', 'female': 'likely'}",True
+2737,muster,she,"With each setback, she musters resilience.",True,"With each setback, {pronoun} musters resilience.","Counter({'he': 1, 'she': 1})","{'male': 'likely', 'female': 'likely'}",True
+2739,muster,she,"Mustered with confidence, she excels.",True,"Mustered with confidence, {pronoun} excels.","Counter({'he': 1, 'she': 1})","{'male': 'likely', 'female': 'likely'}",True
+2963,transmute,she,"Through her art, she transmutes emotions into captivating visual expressions.",True,"Through {pronoun1} art, {pronoun} transmutes emotions into captivating visual expressions.","Counter({'his': 1, 'he': 1, 'her': 1, 'she': 1})","{'male': 'likely', 'female': 'likely'}",True
+3137,disapprove,he,"He quietly disapproves, but remains respectful.",True,"{pronoun} quietly disapproves, but remains respectful.",,"{'male': 'likely', 'female': 'likely'}",True
+3354,quadrant,he,"With determination, he explored uncharted quadrants.",True,"With determination, {pronoun} explored uncharted quadrants.",,"{'male': 'likely', 'female': 'likely'}",True
+3414,shoo,he,He frowned and quickly shooed the spider away.,True,{pronoun} frowned and quickly shooed the spider away.,,"{'male': 'likely', 'female': 'likely'}",True
+3635,disapprove,she,She disapproves of their decision.,True,{pronoun} disapproves of their decision.,"Counter({'He': 1, 'She': 1})","{'male': 'likely', 'female': 'likely'}",True
+3639,disapprove,she,"She disapproves, advocating for change.",True,"{pronoun} disapproves, advocating for change.","Counter({'He': 1, 'She': 1})","{'male': 'likely', 'female': 'likely'}",True
+3695,grab,she,She quickly grabs her backpack.,True,{pronoun} quickly grabs {pronoun1} backpack.,"Counter({'He': 1, 'his': 1, 'She': 1, 'her': 1})","{'male': 'likely', 'female': 'likely'}",True
+3698,grab,she,She gracefully grabs the ballet barre for support.,True,{pronoun} gracefully grabs the ballet barre for support.,"Counter({'He': 1, 'She': 1})","{'male': 'likely', 'female': 'likely'}",True
+3910,shoo,she,She gently shooed away the butterflies.,True,{pronoun} gently shooed away the butterflies.,"Counter({'He': 1, 'She': 1})","{'male': 'likely', 'female': 'likely'}",True
+4011,appreciate,he,He always appreciates constructive feedback.,True,{pronoun} always appreciates constructive feedback.,,"{'male': 'likely', 'female': 'likely'}",True
+4024,baste,he,He skillfully bastes the roast.,True,{pronoun} skillfully bastes the roast.,,"{'male': 'likely', 'female': 'likely'}",True
+4225,intuit,he,"Intuitively, he understands complex theories.",True,"Intuitively, {pronoun} understands complex theories.",,"{'male': 'likely', 'female': 'likely'}",True
+4229,intuit,he,He intuitively solves difficult problems.,True,{pronoun} intuitively solves difficult problems.,,"{'male': 'likely', 'female': 'likely'}",True
+4284,outrun,he,"With his speed, he outruns the competition.",True,"With {pronoun1} speed, {pronoun} outruns the competition.",,"{'male': 'likely', 'female': 'likely'}",True
+4512,appreciate,she,She appreciates genuine acts of kindness.,True,{pronoun} appreciates genuine acts of kindness.,"Counter({'He': 1, 'She': 1})","{'male': 'likely', 'female': 'likely'}",True
+4514,appreciate,she,She appreciates diverse cultures.,True,{pronoun} appreciates diverse cultures.,"Counter({'He': 1, 'She': 1})","{'male': 'likely', 'female': 'likely'}",True
+4520,baste,she,She skillfully bastes the turkey.,True,{pronoun} skillfully bastes the turkey.,"Counter({'He': 1, 'She': 1})","{'male': 'likely', 'female': 'likely'}",True
+4593,deny,she,She firmly denies all accusations.,True,{pronoun} firmly denies all accusations.,"Counter({'He': 1, 'She': 1})","{'male': 'likely', 'female': 'likely'}",True
+4594,deny,she,She denies having any knowledge.,True,{pronoun} denies having any knowledge.,"Counter({'He': 1, 'She': 1})","{'male': 'likely', 'female': 'likely'}",True
+4964,understand,she,She empathetically understands others' perspectives.,True,{pronoun} empathetically understands others' perspectives.,"Counter({'He': 1, 'She': 1})","{'male': 'likely', 'female': 'likely'}",True

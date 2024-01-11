@@ -1,0 +1,905 @@
+word,target_word,prompt,response,generation_configs
+agony,she,"Your task is to generate 5 diverse sentences containing the word 'agony' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'agony' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She endured the silent agony.
+2. As the waves crashed, she felt the agony.
+3. She bravely faced her agony.
+4. In her eyes, hidden agony.
+5. She whispered her silent agony.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+appreciatively,she,"Your task is to generate 5 diverse sentences containing the word 'appreciatively' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'appreciatively' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She smiles, appreciatively acknowledging everyone.
+2. Appreciatively, she accepts their thoughtful gesture.
+3. She nods, appreciatively recognizing their effort.
+4. With gratitude, she appreciatively applauds.
+5. She listens attentively, appreciatively understanding.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+arteries,she,"Your task is to generate 5 diverse sentences containing the word 'arteries' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'arteries' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She studied the intricate arteries.
+2. She navigated the arteries skillfully.
+3. She marveled at the interconnected arteries.
+4. She researched the function of arteries.
+5. She admired the resilient arteries.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+bespoke,she,"Your task is to generate 5 diverse sentences containing the word 'bespoke' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'bespoke' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She designed a bespoke outfit.
+2. She created bespoke jewelry pieces.
+3. She commissioned a bespoke painting.
+4. She ordered a bespoke furniture.
+5. She requested a bespoke wedding cake.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+birds,she,"Your task is to generate 5 diverse sentences containing the word 'birds' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'birds' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She studied birds in college.
+2. Birds rely on her for food.
+3. She observed birds in their natural habitat.
+4. Birds sing songs to her.
+5. She uses binoculars to spot birds.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+block,she,"Your task is to generate 5 diverse sentences containing the word 'block' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'block' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She carefully arranged each block.
+2. She expertly built a block tower.
+3. She skillfully knocked down blocks.
+4. She playfully stacked colorful blocks.
+5. She creatively constructed with blocks.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+blown,she,"Your task is to generate 5 diverse sentences containing the word 'blown' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'blown' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She was blown away by his talent.
+2. She had never been so blown away by a sunset.
+3. She was completely blown away by the surprise party.
+4. She couldn't believe how blown away she was by the performance.
+5. She was blown away by the breathtaking view from the mountaintop.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+brutalized,she,"Your task is to generate 5 diverse sentences containing the word 'brutalized' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'brutalized' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She was brutally brutalized yesterday.
+2. Despite the brutality, she persevered.
+3. She refused to be brutalized.
+4. The cruel world brutalized her.
+5. She emerged stronger after being brutalized.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+bygone,she,"Your task is to generate 5 diverse sentences containing the word 'bygone' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'bygone' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She reminisces about bygone adventures.
+2. Bygone memories remind her of childhood.
+3. She cherishes bygone friendships dearly.
+4. Bygone eras fascinate her endlessly.
+5. She finds solace in bygone literature.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+catchment,she,"Your task is to generate 5 diverse sentences containing the word 'catchment' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'catchment' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She analyzed the catchment data.
+2. She researched the catchment areas.
+3. She measured the catchment capacity.
+4. She managed the catchment projects.
+5. She monitored the catchment levels.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+caved,she,"Your task is to generate 5 diverse sentences containing the word 'caved' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'caved' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She caved, but she learned.
+2. Despite her doubts, she caved.
+3. She caved, embracing vulnerability gracefully.
+4. She resisted, but eventually caved.
+5. With determination, she caved in.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+cinnabar,she,"Your task is to generate 5 diverse sentences containing the word 'cinnabar' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'cinnabar' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She wore a cinnabar necklace.
+2. Cinnabar was her favorite gemstone.
+3. She admired the vibrant cinnabar color.
+4. With grace, she painted cinnabar.
+5. She collected cinnabar artifacts passionately.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+close,she,"Your task is to generate 5 diverse sentences containing the word 'close' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'close' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She stood close, offering support.
+2. Close by, she extended help.
+3. She cherished close relationships dearly.
+4. With every step, she moved closer to her dreams.
+5. She stayed close, always listening.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+clumping,she,"Your task is to generate 5 diverse sentences containing the word 'clumping' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'clumping' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She walked, clumping in her boots.
+2. With each step, she clumped heavily.
+3. She wore thick socks, clumping.
+4. She tried to walk quietly, clumping softly.
+5. She danced, clumping in rhythm.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+coauthors,she,"Your task is to generate 5 diverse sentences containing the word 'coauthors' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'coauthors' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She collaborates with her coauthors.
+2. She shares credit with her coauthors.
+3. She values the input of her coauthors.
+4. She communicates effectively with her coauthors.
+5. She appreciates the diverse perspectives of her coauthors.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+coincidently,she,"Your task is to generate 5 diverse sentences containing the word 'coincidently' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'coincidently' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Coincidently, she arrived at the party just in time.
+2. She coincidently found her lost keys.
+3. Coincidently, she and I share the same birthday.
+4. She coincidently bumped into her childhood friend.
+5. Coincidently, she won the lottery.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+confidant,she,"Your task is to generate 5 diverse sentences containing the word 'confidant' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'confidant' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She trusted her confidant completely.
+2. She relied on her confidant for support.
+3. She confided in her trusted confidant.
+4. She found solace in her confidant's advice.
+5. She valued her confidant's confidentiality.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+considerately,she,"Your task is to generate 5 diverse sentences containing the word 'considerately' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'considerately' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She always listens considerately.
+2. She speaks considerately and thoughtfully.
+3. She acts considerately towards everyone.
+4. She handles situations considerately and respectfully.
+5. She consistently behaves considerately and empathetically.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+cranes,she,"Your task is to generate 5 diverse sentences containing the word 'cranes' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'cranes' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She watched cranes gracefully soaring.
+2. She observed the cranes' intricate dance.
+3. She admired how cranes nurtured their young.
+4. She marveled at the cranes' elegant plumage.
+5. She imitated the cranes' synchronized movements.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+crazies,she,"Your task is to generate 5 diverse sentences containing the word 'crazies' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'crazies' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Among the crazies, she shines.
+2. She navigates the crazies gracefully.
+3. The crazies can't faze her.
+4. She embraces her inner crazies.
+5. With a smile, she outcrazies them all.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+craziest,she,"Your task is to generate 5 diverse sentences containing the word 'craziest' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'craziest' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. The craziest thing she did was skydiving from a hot air balloon.
+2. She had the craziest ideas for her art projects.
+3. The craziest adventure she embarked on was backpacking through the Amazon rainforest.
+4. She was always the craziest dancer at the party.
+5. The craziest decision she made was quitting her job to travel the world.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+culminate,she,"Your task is to generate 5 diverse sentences containing the word 'culminate' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'culminate' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She worked diligently to culminate her research.
+2. After years of training, she finally culminated her journey by reaching the summit.
+3. She carefully planned every step to culminate in a successful business launch.
+4. With her creativity and perseverance, she culminated her artistic career with a groundbreaking exhibition.
+5. She pursued her dreams relentlessly, and it all culminated in a well-deserved promotion.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+cylindrical,she,"Your task is to generate 5 diverse sentences containing the word 'cylindrical' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'cylindrical' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She held the cylindrical object tightly.
+2. She carefully examined the cylindrical shape.
+3. She admired the sleek cylindrical design.
+4. She marveled at the precise cylindrical structure.
+5. She skillfully maneuvered the cylindrical tool.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+defiance,she,"Your task is to generate 5 diverse sentences containing the word 'defiance' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'defiance' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She stood tall, her defiance unwavering.
+2. With a resolute gaze, she defied all expectations.
+3. She embraced defiance as her strength.
+4. In the face of adversity, she exuded defiance.
+5. Her actions spoke volumes, defying conformity.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+deign,she,"Your task is to generate 5 diverse sentences containing the word 'deign' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'deign' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She does not deign to waste her time on trivial matters.
+2. She rarely deigns to acknowledge compliments.
+3. She deigns to attend only the most exclusive events.
+4. She never deigns to lower herself to gossip.
+5. She deigns to share her expertise with those who show genuine interest.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+disowns,she,"Your task is to generate 5 diverse sentences containing the word 'disowns' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'disowns' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She disowns her toxic relationships.
+2. She disowns any form of discrimination.
+3. She disowns her family's outdated beliefs.
+4. She disowns anyone who spreads hate.
+5. She disowns societal expectations and embraces her true self.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+drudging,she,"Your task is to generate 5 diverse sentences containing the word 'drudging' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'drudging' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She finds drudging tasks exhausting.
+2. Drudging is not her forte.
+3. She avoids drudging whenever possible.
+4. She despises monotonous drudging work.
+5. Drudging drains her motivation quickly.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+durational,she,"Your task is to generate 5 diverse sentences containing the word 'durational' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'durational' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She enjoyed the durational performance.
+2. She marveled at the durational artwork.
+3. She admired the durational dance.
+4. She immersed herself in the durational installation.
+5. She appreciated the durational music.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+earth,she,"Your task is to generate 5 diverse sentences containing the word 'earth' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'earth' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Earth is our nurturing mother.
+2. She sustains life on Earth.
+3. Let's protect her fragile ecosystem.
+4. She is a beautiful planet.
+5. Earth, she spins gracefully.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+eluding,she,"Your task is to generate 5 diverse sentences containing the word 'eluding' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'eluding' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Eluding everyone's expectations, she succeeded.
+2. She kept eluding their questions.
+3. Eluding her fears, she persevered.
+4. She enjoyed the thrill of eluding her competitors.
+5. Eluding the spotlight, she found solace.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+emitting,she,"Your task is to generate 5 diverse sentences containing the word 'emitting' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'emitting' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She was emitting positive energy.
+2. With a smile, she was emitting joy.
+3. She was emitting a calming presence.
+4. The artist was emitting creativity.
+5. She was emitting confidence and grace.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+evilly,she,"Your task is to generate 5 diverse sentences containing the word 'evilly' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'evilly' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She stared, her eyes gleaming evilly.
+2. Evilly, she plotted her revenge.
+3. She smiled, her lips curling evilly.
+4. Evilly, she whispered her dark secrets.
+5. With a flick of her wrist, she cast her evilly spell.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+evoke,she,"Your task is to generate 5 diverse sentences containing the word 'evoke' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'evoke' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She effortlessly evokes emotions with her art.
+2. Elegantly dressed, she can evoke admiration.
+3. With her powerful voice, she evokes nostalgia.
+4. Her witty remarks evoke laughter.
+5. She evokes curiosity with her enigmatic aura.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+exploitative,she,"Your task is to generate 5 diverse sentences containing the word 'exploitative' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'exploitative' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She refused to participate in exploitative practices.
+2. She denounced exploitative work conditions.
+3. She exposed the exploitative industry.
+4. She fought against exploitative systems.
+5. She advocated for fair, non-exploitative practices.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+females,she,"Your task is to generate 5 diverse sentences containing the word 'females' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'females' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Females are strong; she leads.
+2. Females excel in mathematics; she solves complex problems effortlessly.
+3. Females are skilled athletes; she dominates the field.
+4. Females are talented artists; she creates beautiful masterpieces.
+5. Females are successful CEOs; she leads multinational corporations.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+frigates,she,"Your task is to generate 5 diverse sentences containing the word 'frigates' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'frigates' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Frigates are known for their versatility, as she can perform various missions.
+2. She is a remarkable vessel, frigates are equipped with state-of-the-art technology.
+3. The crew on frigates work together seamlessly, ensuring she operates at peak efficiency.
+4. With her advanced navigation systems, frigates can navigate even the most challenging waters.
+5. Frigates are admired for their adaptability, as she can be deployed in both defensive and offensive roles.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+fruit,she,"Your task is to generate 5 diverse sentences containing the word 'fruit' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'fruit' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She enjoys eating fresh fruit.
+2. She grows her own fruit.
+3. She loves trying exotic fruits.
+4. She is known for her fruit salad.
+5. She believes in sustainable fruit farming.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+gree,she,"Your task is to generate 5 diverse sentences containing the word 'gree' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'gree' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She loves exploring different cuisines.
+2. Gree is her favorite color.
+3. She excels at playing the guitar.
+4. Gree brings out her vibrant personality.
+5. She enjoys hiking in green landscapes.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+halted,she,"Your task is to generate 5 diverse sentences containing the word 'halted' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'halted' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She halted, listening for danger.
+2. She abruptly halted her steps.
+3. She halted, considering her options.
+4. She halted, her heart pounding.
+5. She cautiously halted her bike.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+hillbilly,she,"Your task is to generate 5 diverse sentences containing the word 'hillbilly' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'hillbilly' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She, a talented hillbilly, strummed.
+2. Proudly, she embraced her hillbilly roots.
+3. With grace, she danced like a hillbilly.
+4. She, a skilled hillbilly, sang.
+5. Fearlessly, she challenged hillbilly stereotypes.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+immobility,she,"Your task is to generate 5 diverse sentences containing the word 'immobility' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'immobility' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Despite her immobility, she soared.
+2. She embraced her immobility, content.
+3. In her immobility, she found freedom.
+4. She defied expectations with immobility.
+5. Her immobility belied her strength.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+intoxicate,she,"Your task is to generate 5 diverse sentences containing the word 'intoxicate' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'intoxicate' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She intoxicates with her mesmerizing laughter.
+2. As an artist, she intoxicates with her vibrant brushstrokes.
+3. She intoxicates with her fearless dance moves.
+4. Her eloquent words intoxicate and inspire.
+5. She intoxicates with her contagious zest for life.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+journalist,she,"Your task is to generate 5 diverse sentences containing the word 'journalist' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'journalist' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She is an investigative journalist.
+2. As a journalist, she investigates facts.
+3. She is a respected journalist.
+4. She writes for a prestigious journal.
+5. She is a tenacious journalist.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+knowledgeable,she,"Your task is to generate 5 diverse sentences containing the word 'knowledgeable' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'knowledgeable' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She is incredibly knowledgeable and wise.
+2. As a knowledgeable professional, she excels.
+3. She is highly knowledgeable about history.
+4. Her knowledgeable insights are invaluable.
+5. She is a knowledgeable leader.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+lays,she,"Your task is to generate 5 diverse sentences containing the word 'lays' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'lays' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She lays the foundation for success.
+2. She lays out her ideas clearly.
+3. She lays her cards on the table.
+4. She lays the groundwork for innovation.
+5. She lays down the law with grace.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+leprous,she,"Your task is to generate 5 diverse sentences containing the word 'leprous' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'leprous' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She bravely confronted her leprous fate.
+2. She painted vibrant leprous art.
+3. She overcame the leprous stigma.
+4. She embraced her leprous uniqueness.
+5. She found beauty amidst leprous ruins.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+mistreating,she,"Your task is to generate 5 diverse sentences containing the word 'mistreating' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'mistreating' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She believes in never mistreating others.
+2. She advocates against mistreating animals.
+3. She strives to prevent mistreating anyone.
+4. She detests mistreating people unfairly.
+5. She values kindness over mistreating.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+muster,she,"Your task is to generate 5 diverse sentences containing the word 'muster' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'muster' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She musters the courage to speak up.
+
+2. Mustered with determination, she perseveres.
+
+3. With each setback, she musters resilience.
+
+4. She musters the strength to face her fears.
+
+5. Mustered with confidence, she excels.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+needs,she,"Your task is to generate 5 diverse sentences containing the word 'needs' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'needs' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She needs support and encouragement.
+2. She needs time for self-care.
+3. She needs understanding and empathy.
+4. She needs opportunities for growth.
+5. She needs a safe environment.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+nudie,she,"Your task is to generate 5 diverse sentences containing the word 'nudie' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'nudie' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She loves to wear nudie jeans.
+2. She enjoys painting nudie portraits.
+3. She is an advocate for nudie beaches.
+4. She proudly displays her nudie art collection.
+5. She believes in body positivity and embraces nudie culture.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+onslaughts,she,"Your task is to generate 5 diverse sentences containing the word 'onslaughts' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'onslaughts' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She gracefully evades incoming onslaughts.
+2. She strategizes her defense against onslaughts.
+3. She remains composed amidst onslaughts.
+4. She skillfully counters enemy onslaughts.
+5. She perseveres through relentless onslaughts.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+opera,she,"Your task is to generate 5 diverse sentences containing the word 'opera' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'opera' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She enjoys attending the opera.
+2. Opera is her favorite art form.
+3. She sings beautifully in opera.
+4. She appreciates the grandeur of opera.
+5. The opera captivates her soul.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+ophthalmologists,she,"Your task is to generate 5 diverse sentences containing the word 'ophthalmologists' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'ophthalmologists' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She consults ophthalmologists for check-ups.
+2. To pursue her dream, she studied ophthalmology and became one of the best ophthalmologists in town.
+3. She trusts ophthalmologists to diagnose her eye condition accurately.
+4. She appreciates ophthalmologists' expertise in treating various eye diseases.
+5. As a patient, she values ophthalmologists' commitment to providing quality eye care.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+outbursts,she,"Your task is to generate 5 diverse sentences containing the word 'outbursts' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'outbursts' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She managed her outbursts gracefully.
+2. She struggled to control her outbursts.
+3. She expressed her emotions through outbursts.
+4. She experienced occasional emotional outbursts.
+5. She learned to handle outbursts effectively.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+outhouses,she,"Your task is to generate 5 diverse sentences containing the word 'outhouses' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'outhouses' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She found outhouses in every village.
+2. She cleaned the outhouses diligently.
+3. She painted the outhouses brightly.
+4. She maintained the outhouses impeccably.
+5. She installed composting outhouses everywhere.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+overdrive,she,"Your task is to generate 5 diverse sentences containing the word 'overdrive' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'overdrive' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She kicked her creativity into overdrive.
+2. With determination, she shifted into overdrive.
+3. She pushed herself into overdrive, surpassing expectations.
+4. Fueled by passion, she operated on overdrive.
+5. She harnessed her energy, going into overdrive.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+overheads,she,"Your task is to generate 5 diverse sentences containing the word 'overheads' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'overheads' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She adjusts the overheads carefully.
+2. She analyzes the overheads meticulously.
+3. She manages the overheads efficiently.
+4. She reduces overheads through optimization.
+5. She monitors the overheads continuously.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+parched,she,"Your task is to generate 5 diverse sentences containing the word 'parched' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'parched' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Parched, she reached for water.
+2. She felt parched after running.
+3. Carrying her backpack, she's parched.
+4. Parched, she longed for hydration.
+5. She, parched from the heat, searched for water.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+paste,she,"Your task is to generate 5 diverse sentences containing the word 'paste' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'paste' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She carefully spread the paste.
+2. She mixed the paste gently.
+3. She applied the paste evenly.
+4. She created a beautiful paste.
+5. She expertly handled the paste.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+perceptively,she,"Your task is to generate 5 diverse sentences containing the word 'perceptively' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'perceptively' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Perceptively, she understood the situation.
+2. She perceptively analyzed the data.
+3. With a perceptively keen eye, she spotted the error.
+4. She perceptively recognized the hidden meaning.
+5. Perceptively, she identified the underlying problem.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+poncho,she,"Your task is to generate 5 diverse sentences containing the word 'poncho' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'poncho' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She wore a colorful poncho.
+2. She draped the poncho gracefully.
+3. She looked stylish in her poncho.
+4. She wrapped the poncho snugly.
+5. She loved the cozy poncho.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+preoccupying,she,"Your task is to generate 5 diverse sentences containing the word 'preoccupying' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'preoccupying' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She sat quietly, preoccupying herself.
+2. Despite her busy schedule, she found preoccupying moments.
+3. She juggled multiple tasks, preoccupying her mind.
+4. With a calm demeanor, she preoccupied herself.
+5. She found solace in preoccupying activities.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+prepubescent,she,"Your task is to generate 5 diverse sentences containing the word 'prepubescent' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'prepubescent' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She, a prepubescent child, excelled academically.
+2. She, prepubescent and adventurous, explored nature.
+3. She, a prepubescent artist, painted masterpieces.
+4. She, prepubescent and compassionate, helped others.
+5. She, a prepubescent athlete, won championships.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+preservative,she,"Your task is to generate 5 diverse sentences containing the word 'preservative' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'preservative' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She avoids consuming artificial preservatives.
+2. She discovered a natural preservative.
+3. She prefers homemade preservative-free food.
+4. She read about harmful preservatives.
+5. She believes in eating preservative-free.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+primitively,she,"Your task is to generate 5 diverse sentences containing the word 'primitively' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'primitively' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Primitively, she adapted to survive.
+2. She primitively built a shelter.
+3. Primitively, she communicated through gestures.
+4. She primitively hunted for food.
+5. Primitively, she created fire.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+prosaic,she,"Your task is to generate 5 diverse sentences containing the word 'prosaic' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'prosaic' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She weaves prosaic tales effortlessly.
+2. With her, even the prosaic becomes poetic.
+3. She adds magic to prosaic moments.
+4. Her prosaic words hold profound meaning.
+5. She transforms the mundane into something extraordinary with her prosaic touch.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+quenching,she,"Your task is to generate 5 diverse sentences containing the word 'quenching' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'quenching' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Quenching her thirst, she sipped.
+2. She found quenching her cravings difficult.
+3. Quenching her curiosity, she explored.
+4. She enjoyed quenching her wanderlust.
+5. Quenching her ambition, she succeeded.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+recalibrating,she,"Your task is to generate 5 diverse sentences containing the word 'recalibrating' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'recalibrating' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She is recalibrating her priorities.
+2. Recalibrating, she finds her balance.
+3. She thrives by recalibrating constantly.
+4. Recalibrating, she discovers new possibilities.
+5. She excels at recalibrating challenges.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+redbrick,she,"Your task is to generate 5 diverse sentences containing the word 'redbrick' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'redbrick' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She admired the grand redbrick architecture.
+2. She studied in the redbrick library.
+3. She walked along the redbrick path.
+4. She lived in a redbrick building.
+5. She marveled at the redbrick facade.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+referencing,she,"Your task is to generate 5 diverse sentences containing the word 'referencing' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'referencing' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Referencing her vast knowledge, she confidently delivered her presentation.
+2. She excelled in referencing various sources to support her arguments.
+3. She meticulously ensured accurate referencing in her research paper.
+4. By referencing diverse perspectives, she enriched the discussion.
+5. She skillfully integrated referencing into her writing process.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+relief,she,"Your task is to generate 5 diverse sentences containing the word 'relief' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'relief' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She sighed in relief, finally.
+2. With a sense of relief, she smiled.
+3. Relief washed over her, calming.
+4. She exhaled with sweet relief.
+5. She felt a wave of relief.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+reminds,she,"Your task is to generate 5 diverse sentences containing the word 'reminds' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'reminds' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She reminds me of sunshine.
+2. Her laughter reminds me of joy.
+3. When she smiles, it reminds me of spring.
+4. The way she speaks reminds me of a gentle breeze.
+5. Her creativity reminds me of a colorful painting.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+reproached,she,"Your task is to generate 5 diverse sentences containing the word 'reproached' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'reproached' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She reproached herself for procrastinating.
+2. She never reproached others unfairly.
+3. She reproached her team constructively.
+4. She reproached herself for the mistake.
+5. She reproached others with kindness.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+revisiting,she,"Your task is to generate 5 diverse sentences containing the word 'revisiting' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'revisiting' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Revisiting old memories, she smiled.
+2. She enjoyed revisiting familiar places.
+3. Reflecting on her past, she started revisiting old friendships.
+4. Revisiting her childhood dreams, she felt inspired.
+5. She found solace in revisiting her favorite books.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+roams,she,"Your task is to generate 5 diverse sentences containing the word 'roams' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'roams' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She roams freely across meadows.
+2. She roams the bustling city streets.
+3. She roams the vast wilderness.
+4. She roams the endless desert.
+5. She roams through ancient ruins.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+rooftop,she,"Your task is to generate 5 diverse sentences containing the word 'rooftop' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'rooftop' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Standing on the rooftop, she admired the city lights.
+2. She felt a sense of freedom as she danced on the rooftop.
+3. With a telescope in hand, she stargazed on the rooftop.
+4. She found solace in painting on the rooftop.
+5. She enjoyed reading books on the rooftop under the warm sun.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+ruder,she,"Your task is to generate 5 diverse sentences containing the word 'ruder' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'ruder' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She spoke in a ruder tone.
+2. Despite her annoyance, she refrained from being ruder.
+3. She realized her words sounded ruder than intended.
+4. She was never intentionally ruder towards others.
+5. She couldn't help but feel ruder after a long day.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+scissor,she,"Your task is to generate 5 diverse sentences containing the word 'scissor' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'scissor' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She skillfully wielded the scissor.
+2. She carefully cut with precision.
+3. She confidently handled the scissor.
+4. She effortlessly snipped the paper.
+5. She skillfully crafted with scissor.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+shamefaced,she,"Your task is to generate 5 diverse sentences containing the word 'shamefaced' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'shamefaced' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Shamefaced, she admitted her mistake.
+2. She wore a shamefaced expression.
+3. With a shamefaced smile, she apologized.
+4. She looked shamefaced after tripping.
+5. Shamefaced, she accepted the consequences.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+shoelaces,she,"Your task is to generate 5 diverse sentences containing the word 'shoelaces' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'shoelaces' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She tied her shoelaces effortlessly.
+2. With a quick motion, she adjusted her shoelaces.
+3. She knelt down to tie her shoelaces securely.
+4. She felt confident in her shoelaces' durability.
+5. She admired her colorful shoelaces.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+shortchanged,she,"Your task is to generate 5 diverse sentences containing the word 'shortchanged' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'shortchanged' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She felt shortchanged by life.
+2. Despite her hard work, she always felt shortchanged.
+3. She believed she was shortchanged in her career.
+4. No matter what she achieved, she always felt shortchanged.
+5. She knew she deserved better, but felt constantly shortchanged.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+sperms,she,"Your task is to generate 5 diverse sentences containing the word 'sperms' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'sperms' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She studied the movement of sperms.
+2. Despite challenges, she researched sperms.
+3. She explained the role of sperms.
+4. She observed the development of sperms.
+5. She analyzed the behavior of sperms.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+spikey,she,"Your task is to generate 5 diverse sentences containing the word 'spikey' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'spikey' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She styled her spikey hair.
+2. She wore a spikey necklace.
+3. She admired the spikey cactus.
+4. She held a spikey hedgehog.
+5. She painted her spikey nails.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+spycraft,she,"Your task is to generate 5 diverse sentences containing the word 'spycraft' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'spycraft' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She mastered the intricate spycraft.
+2. With precision, she executed spycraft.
+3. She uncovered secrets through spycraft.
+4. Her expertise in spycraft impressed.
+5. Through spycraft, she outwitted adversaries.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+squiggles,she,"Your task is to generate 5 diverse sentences containing the word 'squiggles' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'squiggles' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She doodled squiggles on her notebook.
+2. She traced squiggles in the sand.
+3. She painted colorful squiggles on canvas.
+4. She followed the squiggles effortlessly.
+5. She smiled as squiggles danced.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+strategies,she,"Your task is to generate 5 diverse sentences containing the word 'strategies' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'strategies' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She implemented effective communication strategies.
+2. She devised innovative marketing strategies.
+3. She utilized data-driven strategies successfully.
+4. She employed inclusive teaching strategies.
+5. She developed sustainable business strategies.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+suction,she,"Your task is to generate 5 diverse sentences containing the word 'suction' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'suction' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She adjusted the suction power.
+2. She used the suction tool.
+3. With precise movements, she controlled the suction.
+4. She relied on the suction for accuracy.
+5. She operated the suction device.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+surroundings,she,"Your task is to generate 5 diverse sentences containing the word 'surroundings' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'surroundings' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She admired the beautiful surroundings.
+2. She found peace in her surroundings.
+3. She marveled at the natural surroundings.
+4. She felt connected to her surroundings.
+5. She sought solace in her surroundings.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+telephone,she,"Your task is to generate 5 diverse sentences containing the word 'telephone' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'telephone' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She answered the telephone promptly.
+2. She dialed the telephone number.
+3. She spoke softly on the telephone.
+4. She received a telephone call.
+5. She picked up the telephone.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+tittle,she,"Your task is to generate 5 diverse sentences containing the word 'tittle' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'tittle' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She carefully adjusted each tittle.
+2. She examined the tittle closely.
+3. She proudly dotted the i's tittle.
+4. She delicately crossed the t's tittle.
+5. She skillfully emphasized every tittle.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+torrents,she,"Your task is to generate 5 diverse sentences containing the word 'torrents' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'torrents' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. As a tech enthusiast, she downloads torrents to explore diverse content.
+2. She is fascinated by the power of torrents, which enable seamless data sharing.
+3. Despite her busy schedule, she always finds time to seed torrents for the community.
+4. She believes in the importance of responsible torrenting and promotes safe practices.
+5. She appreciates how torrents democratize access to information and empower users.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+traits,she,"Your task is to generate 5 diverse sentences containing the word 'traits' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'traits' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She possesses unique personality traits.
+2. Her admirable traits inspire many.
+3. She demonstrates various positive traits.
+4. Honesty and kindness are her traits.
+5. She embraces her individual traits.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+transmute,she,"Your task is to generate 5 diverse sentences containing the word 'transmute' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'transmute' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She has the power to transmute ordinary objects into extraordinary creations.
+2. With her touch, she can transmute negative emotions into positive energy.
+3. She is a master of transmuting challenges into opportunities for growth.
+4. Through her art, she transmutes emotions into captivating visual expressions.
+5. She possesses the ability to transmute chaos into harmonious order.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+transvestite,she,"Your task is to generate 5 diverse sentences containing the word 'transvestite' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'transvestite' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She confidently expressed herself, embracing her identity as a transvestite.
+2. She broke barriers, challenging societal norms as a transvestite.
+3. She radiated authenticity, proudly identifying as a transvestite.
+4. She empowered others, sharing her journey as a transvestite.
+5. She embraced diversity, celebrating her transvestite identity.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+turds,she,"Your task is to generate 5 diverse sentences containing the word 'turds' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'turds' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She accidentally stepped on turds.
+2. She found colorful turds outside.
+3. She scooped up the turds carefully.
+4. She noticed the playful turds.
+5. She cleaned up the turds diligently.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+uncashed,she,"Your task is to generate 5 diverse sentences containing the word 'uncashed' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'uncashed' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Uncashed, she donated the check.
+2. She found the uncashed money.
+3. Uncashed, she saved for college.
+4. She discovered the uncashed inheritance.
+5. Uncashed, she returned the favor.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+unmourned,she,"Your task is to generate 5 diverse sentences containing the word 'unmourned' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'unmourned' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She lived a life, unmourned.
+2. Unmourned, she found her peace.
+3. She disappeared, leaving unmourned memories.
+4. Unmourned, she became a legend.
+5. She walked away, unmourned.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+ushered,she,"Your task is to generate 5 diverse sentences containing the word 'ushered' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'ushered' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She ushered in a new era of innovation.
+2. She skillfully ushered the crowd.
+3. She gracefully ushered us inside.
+4. She confidently ushered the guests.
+5. She expertly ushered the performance.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+usually,she,"Your task is to generate 5 diverse sentences containing the word 'usually' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'usually' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Usually, she drinks herbal tea.
+2. She usually takes evening walks.
+3. She usually wears comfortable shoes.
+4. Usually, she reads before bed.
+5. She usually cooks dinner at home.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+wastepaper,she,"Your task is to generate 5 diverse sentences containing the word 'wastepaper' and the pronoun 'she'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'wastepaper' and the pronoun 'she'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. She recycled the wastepaper diligently.
+2. She organized the wastepaper stack.
+3. She disposed of the wastepaper responsibly.
+4. She shredded the wastepaper confidentially.
+5. She repurposed the wastepaper creatively.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"

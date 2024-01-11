@@ -1,0 +1,901 @@
+word,target_word,prompt,response,generation_configs
+adolescent,he,"Your task is to generate 5 diverse sentences containing the word 'adolescent' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'adolescent' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. The adolescent found solace outdoors.
+2. He embraced his adolescent curiosity.
+3. An adolescent, he excelled academically.
+4. He navigated his adolescent years gracefully.
+5. The adolescent enjoyed experimenting creatively.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+alphabetical,he,"Your task is to generate 5 diverse sentences containing the word 'alphabetical' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'alphabetical' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He organized his books alphabetically.
+2. He sorted the files in alphabetical order.
+3. He listed the items alphabetically.
+4. He arranged the names alphabetically.
+5. He alphabetized his CD collection.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+attendee,he,"Your task is to generate 5 diverse sentences containing the word 'attendee' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'attendee' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. As an attendee, he actively participated.
+2. He is an enthusiastic attendee.
+3. The attendee, he asked insightful questions.
+4. He was a dedicated attendee.
+5. As an attendee, he engaged enthusiastically.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+barbaric,he,"Your task is to generate 5 diverse sentences containing the word 'barbaric' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'barbaric' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He found the barbaric ritual intriguing.
+2. Despite his gentle nature, he witnessed the barbaric act in horror.
+3. He was appalled by the barbaric treatment of animals.
+4. Recognizing the barbaric practice, he intervened to protect the innocent.
+5. He condemned the barbaric violence, advocating for peace and understanding.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+battering,he,"Your task is to generate 5 diverse sentences containing the word 'battering' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'battering' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He endured the battering storm.
+2. Battering waves lashed against him.
+3. He shielded himself from battering rain.
+4. Despite the battering winds, he stood strong.
+5. He braved the battering hailstorm.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+baulk,he,"Your task is to generate 5 diverse sentences containing the word 'baulk' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'baulk' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He did not baulk at the challenge.
+2. Despite his fears, he didn't baulk.
+3. He bravely faced his baulk.
+4. He overcame his baulk effortlessly.
+5. With determination, he didn't baulk.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+bayou,he,"Your task is to generate 5 diverse sentences containing the word 'bayou' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'bayou' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. The explorer ventured into the bayou, where he discovered hidden treasures.
+2. He admired the serene beauty of the bayou, as fireflies danced around him.
+3. With a quick leap, he splashed into the cool waters of the bayou.
+4. As he canoed through the bayou, he marveled at the lush vegetation.
+5. He found solace in the peaceful solitude of the bayou, surrounded by nature's wonders.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+bier,he,"Your task is to generate 5 diverse sentences containing the word 'bier' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'bier' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He ordered a refreshing bier.
+2. He offered her a bier.
+3. He enjoyed a cold bier.
+4. He brewed his own bier.
+5. He shared a bier with friends.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+blacking,he,"Your task is to generate 5 diverse sentences containing the word 'blacking' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'blacking' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He enjoys blacking out canvases.
+2. He is an expert at blacking leather.
+3. He prefers blacking his own shoes.
+4. He finds joy in blacking ink.
+5. He excels at blacking metal.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+blobs,he,"Your task is to generate 5 diverse sentences containing the word 'blobs' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'blobs' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Blobs surround him with curiosity.
+2. He observes colorful blobs floating.
+3. He wonders what those blobs are.
+4. The blobs mesmerize him with their dance.
+5. He contemplates the mysterious blobs.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+brad,he,"Your task is to generate 5 diverse sentences containing the word 'brad' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'brad' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Brad is a talented artist.
+2. He loves to play basketball.
+3. Brad enjoys exploring new cuisines.
+4. He is a helpful colleague.
+5. Brad is known for his creativity.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+buffering,he,"Your task is to generate 5 diverse sentences containing the word 'buffering' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'buffering' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Despite the slow internet connection, he patiently waited for the buffering to finish.
+2. He experienced buffering while streaming his favorite TV show.
+3. Frustrated with the constant buffering, he decided to upgrade his internet plan.
+4. He couldn't concentrate on the video because the buffering was so distracting.
+5. He sighed as the buffering interrupted his online gaming session.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+cabins,he,"Your task is to generate 5 diverse sentences containing the word 'cabins' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'cabins' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He rented multiple cabins for the weekend getaway.
+2. Despite the cold weather, he enjoyed stargazing from the cozy cabins.
+3. He always felt a sense of tranquility whenever he visited the cabins.
+4. He appreciated the rustic charm of the cabins nestled in the woods.
+5. He was amazed by the breathtaking view of the mountains from the cabins.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+camouflaging,he,"Your task is to generate 5 diverse sentences containing the word 'camouflaging' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'camouflaging' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He excelled at camouflaging himself.
+2. Camouflaging was his special talent.
+3. He was an expert at camouflaging.
+4. Camouflaging was second nature to him.
+5. He had a knack for camouflaging.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+canned,he,"Your task is to generate 5 diverse sentences containing the word 'canned' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'canned' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He discovered a canned surprise.
+2. Canned food is his specialty.
+3. He always keeps canned goods.
+4. He preferred fresh, not canned.
+5. He donated canned goods today.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+charities,he,"Your task is to generate 5 diverse sentences containing the word 'charities' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'charities' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He supports various charities annually.
+2. Every month he donates to charities.
+3. He volunteers at local charities.
+4. He believes in supporting charities.
+5. He is passionate about charities.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+cherish,he,"Your task is to generate 5 diverse sentences containing the word 'cherish' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'cherish' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He cherishes every heartfelt moment.
+2. Cherish what he holds dear.
+3. He cherishes the memories forever.
+4. Cherish the love he gives.
+5. He cherishes life's beautiful blessings.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+coercing,he,"Your task is to generate 5 diverse sentences containing the word 'coercing' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'coercing' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Coercing, he respects others' autonomy.
+2. He avoids coercing through empathy.
+3. Coercing, he prioritizes consent first.
+4. He understands the harm of coercing.
+5. Coercing, he seeks alternative approaches.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+collapsed,he,"Your task is to generate 5 diverse sentences containing the word 'collapsed' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'collapsed' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He collapsed from sheer exhaustion.
+2. After a long day's work, he collapsed on the couch.
+3. Feeling weak, he collapsed onto the grass.
+4. He collapsed in the heatwave.
+5. Running a marathon, he collapsed near the finish line.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+completed,he,"Your task is to generate 5 diverse sentences containing the word 'completed' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'completed' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He completed the marathon effortlessly.
+2. After months of hard work, he completed the challenging puzzle.
+3. With his dedication and perseverance, he completed the project ahead of schedule.
+4. Despite facing numerous obstacles, he completed the daring expedition.
+5. With his exceptional skills, he completed the complex mathematical equation effortlessly.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+concealments,he,"Your task is to generate 5 diverse sentences containing the word 'concealments' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'concealments' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He had many concealments.
+2. Despite his concealments, he thrived.
+3. He revealed his concealed talents.
+4. His concealments were well-guarded.
+5. He embraced his hidden concealments.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+contaminating,he,"Your task is to generate 5 diverse sentences containing the word 'contaminating' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'contaminating' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He unintentionally spilled the contaminating liquid.
+2. He diligently cleaned the contaminating mess.
+3. He took precautions to prevent contaminating.
+4. He researched ways to handle contaminating substances.
+5. He was cautious when handling contaminating materials.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+couldn,he,"Your task is to generate 5 diverse sentences containing the word 'couldn' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'couldn' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He couldn't understand the concept.
+2. Couldn't he find his keys?
+3. He couldn't help but smile.
+4. Couldn't he finish the race?
+5. He couldn't believe his eyes.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+counseled,he,"Your task is to generate 5 diverse sentences containing the word 'counseled' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'counseled' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He counseled his clients empathetically.
+2. He sought professional counseling help.
+3. He received expertly counseled advice.
+4. He skillfully counseled his patients.
+5. He willingly counseled those in need.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+dea,he,"Your task is to generate 5 diverse sentences containing the word 'dea' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'dea' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Dea is his trusted advisor.
+2. He values Dea's expertise.
+3. Dea appreciates his support.
+4. He relies on Dea's guidance.
+5. Together, he and Dea succeed.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+defies,he,"Your task is to generate 5 diverse sentences containing the word 'defies' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'defies' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He defies gravity with ease.
+2. Despite his age, he defies limitations.
+3. He defies expectations with creativity.
+4. With his determination, he defies odds.
+5. Through his actions, he defies conventions.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+demographic,he,"Your task is to generate 5 diverse sentences containing the word 'demographic' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'demographic' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He is part of a growing demographic.
+2. Among the diverse demographic, he stands out.
+3. He represents an underrepresented demographic.
+4. As a leader, he understands demographic trends.
+5. He is a valuable asset in reaching a broader demographic.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+devastating,he,"Your task is to generate 5 diverse sentences containing the word 'devastating' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'devastating' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He witnessed the devastating aftermath.
+2. Despite his efforts, devastation persisted.
+3. He couldn't fathom the devastating news.
+4. The storm left a devastating trail.
+5. Devastating losses shook him deeply.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+dodge,he,"Your task is to generate 5 diverse sentences containing the word 'dodge' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'dodge' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He skillfully dodged the obstacle.
+2. With lightning-fast reflexes, he dodged.
+3. He dodged the question gracefully.
+4. Spotting danger ahead, he dodged.
+5. He effortlessly dodged the flying projectiles.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+dusk,he,"Your task is to generate 5 diverse sentences containing the word 'dusk' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'dusk' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. As dusk settled, he pondered.
+2. He watched the serene dusk.
+3. At dusk, he found solace.
+4. Restless, he wandered until dusk.
+5. In the fading dusk, he disappeared.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+eclipses,he,"Your task is to generate 5 diverse sentences containing the word 'eclipses' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'eclipses' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. During solar eclipses, he observes.
+2. His passion for astronomy eclipses all else.
+3. With every eclipse, he marvels.
+4. He studies the patterns of eclipses.
+5. He contemplates the mysteries eclipses hold.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+escalates,he,"Your task is to generate 5 diverse sentences containing the word 'escalates' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'escalates' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He calmly deescalates when tension escalates.
+2. He realizes the situation escalates quickly.
+3. He acknowledges his role as escalation mediator.
+4. He understands how stress escalates.
+5. He ensures conflicts never escalate.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+eviscerate,he,"Your task is to generate 5 diverse sentences containing the word 'eviscerate' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'eviscerate' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He expertly eviscerated the fish.
+2. With surgical precision, he eviscerated.
+3. He watched in awe as he eviscerated the pumpkin.
+4. He confidently eviscerated the argument.
+5. In one swift motion, he eviscerated the truth.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+fatties,he,"Your task is to generate 5 diverse sentences containing the word 'fatties' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'fatties' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He kindly offered the fatties a seat.
+2. He encouraged the fatties' participation.
+3. He admired the fatties' resilience.
+4. He celebrated the fatties' achievements.
+5. He supported the fatties' self-acceptance.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+fireplaces,he,"Your task is to generate 5 diverse sentences containing the word 'fireplaces' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'fireplaces' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He loves cozy fireplaces at home.
+2. He enjoys gathering around fireplaces.
+3. He finds comfort near fireplaces.
+4. He appreciates the ambiance fireplaces create.
+5. He feels relaxed by crackling fireplaces.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+fissures,he,"Your task is to generate 5 diverse sentences containing the word 'fissures' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'fissures' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He observed the earth's fissures.
+2. He discovered ancient underwater fissures.
+3. He studied the geological fissures.
+4. He marveled at the intricate fissures in the rock.
+5. He navigated the treacherous mountain fissures.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+fold,he,"Your task is to generate 5 diverse sentences containing the word 'fold' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'fold' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He carefully folded the origami.
+2. After finishing the letter, he folded it.
+3. He decided to fold clothes.
+4. He folded the paper airplane.
+5. With precision, he folded napkins.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+furloughed,he,"Your task is to generate 5 diverse sentences containing the word 'furloughed' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'furloughed' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He was furloughed during the pandemic.
+2. After the company's restructuring, he was furloughed.
+3. He felt relieved when furloughed.
+4. Despite his hard work, he was furloughed.
+5. He found new hobbies while furloughed.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+gateposts,he,"Your task is to generate 5 diverse sentences containing the word 'gateposts' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'gateposts' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He leaned against the gateposts.
+2. He painted the gateposts white.
+3. He admired the sturdy gateposts.
+4. He fixed the wobbly gateposts.
+5. He measured the distance between gateposts.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+gateway,he,"Your task is to generate 5 diverse sentences containing the word 'gateway' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'gateway' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He opened the gateway fearlessly.
+2. With determination, he crossed the gateway.
+3. He stood before the gateway, contemplating.
+4. As he approached, the gateway shimmered.
+5. He marveled at the majestic gateway.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+gnaw,he,"Your task is to generate 5 diverse sentences containing the word 'gnaw' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'gnaw' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He watched the beaver gnaw.
+2. He could hear the gnawing sound.
+3. He felt the gnawing hunger.
+4. He saw the squirrel gnawing.
+5. He noticed the rat gnawing.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+goofiness,he,"Your task is to generate 5 diverse sentences containing the word 'goofiness' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'goofiness' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Despite his serious demeanor, his goofiness occasionally shines through.
+2. He embraces his inner goofiness, making others laugh with his hilarious antics.
+3. His natural goofiness brings joy to everyone around him.
+4. He never hesitates to embrace his goofiness, spreading laughter wherever he goes.
+5. His endearing goofiness is one of his most charming traits.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+grayish,he,"Your task is to generate 5 diverse sentences containing the word 'grayish' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'grayish' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Grayish clouds gathered as he walked.
+2. He wore a grayish suit to the party.
+3. With a grayish beard, he smiled warmly.
+4. He painted the walls grayish.
+5. The grayish cat followed him.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+greenhouses,he,"Your task is to generate 5 diverse sentences containing the word 'greenhouses' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'greenhouses' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He built greenhouses for research.
+2. He tended to the greenhouses diligently.
+3. He used technology to automate greenhouses.
+4. He specialized in designing sustainable greenhouses.
+5. He grew exotic plants in greenhouses.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+haters,he,"Your task is to generate 5 diverse sentences containing the word 'haters' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'haters' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Haters underestimate his true potential.
+2. He ignores the haters, thriving.
+3. No matter what he does, haters always criticize.
+4. Haters fuel his determination to succeed.
+5. He rises above the haters' negativity.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+hawthorn,he,"Your task is to generate 5 diverse sentences containing the word 'hawthorn' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'hawthorn' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Hawthorn is his favorite tree.
+2. He enjoys walking among hawthorn.
+3. He planted a hawthorn sapling.
+4. The aroma of hawthorn relaxes him.
+5. He admires the hawthorn blossoms.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+hempen,he,"Your task is to generate 5 diverse sentences containing the word 'hempen' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'hempen' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Hempen threads encased him snugly.
+2. He wove hempen baskets skillfully.
+3. Hempen rope hung from his belt.
+4. He wore a hempen tunic.
+5. Hempen sandals adorned his feet.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+hollowed,he,"Your task is to generate 5 diverse sentences containing the word 'hollowed' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'hollowed' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He hollowed out the pumpkin.
+2. He carved a hollowed tree trunk.
+3. He hollowed a perfect sphere.
+4. He discovered a hollowed cave.
+5. He leaned against a hollowed log.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+images,he,"Your task is to generate 5 diverse sentences containing the word 'images' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'images' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He captured breathtaking images of nature.
+2. With his creative eye, he turned ordinary images into works of art.
+3. He shared his images with the world, spreading joy and inspiration.
+4. Despite his visual impairment, he created stunning images through his other senses.
+5. He used images to challenge societal norms and promote inclusivity.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+imaginary,he,"Your task is to generate 5 diverse sentences containing the word 'imaginary' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'imaginary' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. In his imaginary world, he conquers fears.
+2. With his imaginary friend, he explores.
+3. Through his imaginary telescope, he discovers.
+4. In his imaginary realm, he creates magic.
+5. With his imaginary superpowers, he saves the day.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+inconsequential,he,"Your task is to generate 5 diverse sentences containing the word 'inconsequential' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'inconsequential' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Inconsequential as it may seem, he always remembers everyone's names.
+2. Despite his inconsequential appearance, he possesses great wisdom.
+3. He never underestimates the inconsequential details and considers them crucial.
+4. Inconsequential to some, he values every voice in the room.
+5. Though seemingly inconsequential, he always makes a meaningful impact.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+inequity,he,"Your task is to generate 5 diverse sentences containing the word 'inequity' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'inequity' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He fights against educational inequity.
+2. He acknowledges the systemic inequity.
+3. He strives for addressing inequity.
+4. He works to reduce inequity.
+5. He empowers communities to combat inequity.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+laugher,he,"Your task is to generate 5 diverse sentences containing the word 'laugher' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'laugher' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He spreads contagious laugher joyfully.
+2. With genuine laugher, he lightens moods.
+3. He cherishes the sound of laugher.
+4. In his presence, laugher flourishes.
+5. He embraces laugher, spreading happiness.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+laving,he,"Your task is to generate 5 diverse sentences containing the word 'laving' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'laving' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. While laving, he hummed softly.
+2. He enjoyed laving after work.
+3. Laving made him feel refreshed.
+4. He smiled while laving himself.
+5. With joy, he started laving.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+letterhead,he,"Your task is to generate 5 diverse sentences containing the word 'letterhead' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'letterhead' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He designed a unique letterhead.
+2. He printed his letterhead professionally.
+3. He personalized his letterhead design.
+4. He used his letterhead consistently.
+5. He updated his letterhead regularly.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+libraries,he,"Your task is to generate 5 diverse sentences containing the word 'libraries' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'libraries' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He enjoys exploring libraries for knowledge.
+2. He often finds solace in libraries.
+3. He believes libraries foster community.
+4. He appreciates the resources libraries provide.
+5. He feels inspired when visiting libraries.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+mammal,he,"Your task is to generate 5 diverse sentences containing the word 'mammal' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'mammal' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. The mammal stood tall; he observed.
+2. With curiosity in his eyes, the mammal approached.
+3. He was a majestic mammal, moving gracefully.
+4. The mammal swam swiftly; he disappeared.
+5. With a gentle touch, he comforted the mammal.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+managed,he,"Your task is to generate 5 diverse sentences containing the word 'managed' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'managed' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He managed to complete his project ahead of schedule.
+2. Despite the obstacles, he managed to secure the deal.
+3. With determination, he managed to overcome his fears.
+4. Through careful planning, he managed to achieve his goals.
+5. He managed to find a creative solution to the problem.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+newer,he,"Your task is to generate 5 diverse sentences containing the word 'newer' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'newer' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He prefers newer technology.
+2. He enjoys exploring newer cuisines.
+3. He always opts for newer fashion trends.
+4. He is known for his newer ideas.
+5. He is excited about newer opportunities.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+nimble,he,"Your task is to generate 5 diverse sentences containing the word 'nimble' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'nimble' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He effortlessly glided, nimble and swift.
+2. With nimble fingers, he played.
+3. He swiftly dodged, nimble-footed and agile.
+4. Nimble as a cat, he leapt over the obstacle.
+5. He skillfully balanced, nimble and graceful.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+novella,he,"Your task is to generate 5 diverse sentences containing the word 'novella' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'novella' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. The aspiring writer completed his novella in record time.
+2. He submitted his novella to a prestigious literary magazine.
+3. After publishing his novella, he received rave reviews from critics.
+4. He was praised for the unique storytelling style in his novella.
+5. With his novella, he aimed to challenge societal norms.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+pariah,he,"Your task is to generate 5 diverse sentences containing the word 'pariah' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'pariah' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He became a pariah overnight.
+2. Despite his kindness, he remained a pariah.
+3. He was a pariah among his peers.
+4. No one understood why he was treated as a pariah.
+5. He refused to let being a pariah define him.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+pinnace,he,"Your task is to generate 5 diverse sentences containing the word 'pinnace' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'pinnace' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. A skilled sailor, he navigated the pinnace with ease.
+2. Admiring the beautiful pinnace, he marveled at its craftsmanship.
+3. With determination and expertise, he steered the pinnace towards safety.
+4. He studied the pinnace's design, fascinated by its sleek lines.
+5. He carefully docked the pinnace, ensuring a smooth landing.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+positioned,he,"Your task is to generate 5 diverse sentences containing the word 'positioned' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'positioned' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He positioned himself advantageously for negotiation.
+2. He skillfully positioned his argument.
+3. He strategically positioned his team members.
+4. He expertly positioned the equipment.
+5. He carefully positioned the furniture.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+pressure,he,"Your task is to generate 5 diverse sentences containing the word 'pressure' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'pressure' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He handles pressure with ease.
+2. Despite the pressure, he remains calm.
+3. He excels under immense pressure.
+4. He thrives in high-pressure situations.
+5. With determination, he conquers pressure.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+protagonists,he,"Your task is to generate 5 diverse sentences containing the word 'protagonists' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'protagonists' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. The protagonists admired his intelligence.
+2. He and the protagonists collaborated successfully.
+3. The protagonists trusted his leadership.
+4. He and the protagonists achieved victory.
+5. The protagonists respected his determination.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+protestation,he,"Your task is to generate 5 diverse sentences containing the word 'protestation' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'protestation' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Despite his protestation, they persisted.
+2. He voiced his protestation loudly.
+3. His protestation was met with indifference.
+4. He continued his protestation silently.
+5. Despite his protestation, they listened.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+rechecked,he,"Your task is to generate 5 diverse sentences containing the word 'rechecked' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'rechecked' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He always rechecked his calculations.
+2. Before submitting the report, he rechecked all the data.
+3. After finishing the experiment, he rechecked the measurements.
+4. He rechecked the information for accuracy.
+5. Before making a decision, he rechecked his options.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+refraining,he,"Your task is to generate 5 diverse sentences containing the word 'refraining' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'refraining' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He practices self-control, refraining from indulgence.
+2. With great discipline, he refrains from impulsive actions.
+3. He respects boundaries, refraining from crossing them.
+4. He prioritizes empathy, refraining from judgment.
+5. He values consent, refraining from imposing.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+rejoicing,he,"Your task is to generate 5 diverse sentences containing the word 'rejoicing' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'rejoicing' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Rejoicing, he celebrated his achievement.
+2. With great rejoicing, he embraced his loved ones.
+3. Overwhelmed with joy, he expressed his gratitude.
+4. Amidst the rejoicing, he shared his success.
+5. He danced, rejoicing in freedom.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+relocation,he,"Your task is to generate 5 diverse sentences containing the word 'relocation' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'relocation' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He planned his relocation carefully.
+2. After the relocation, he settled quickly.
+3. He considered the relocation offer.
+4. Despite the relocation, he thrived.
+5. He embraced the new relocation.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+repaint,he,"Your task is to generate 5 diverse sentences containing the word 'repaint' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'repaint' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He decided to repaint his room.
+2. After the accident, he had to repaint his car.
+3. He realized he needed to repaint the fence.
+4. He carefully started to repaint the mural.
+5. When he moved in, he had to repaint the entire house.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+reprisal,he,"Your task is to generate 5 diverse sentences containing the word 'reprisal' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'reprisal' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He feared the potential reprisal.
+2. He considered the possible reprisal.
+3. He hesitated, fearful of reprisal.
+4. He knew the consequences, but still risked reprisal.
+5. He pondered the potential reprisal.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+rethought,he,"Your task is to generate 5 diverse sentences containing the word 'rethought' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'rethought' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He rethought his career goals.
+2. After reflecting, he rethought his decision.
+3. He rethought his approach to problem-solving.
+4. With new information, he rethought his strategy.
+5. He rethought his stance on the issue.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+retraces,he,"Your task is to generate 5 diverse sentences containing the word 'retraces' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'retraces' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He retraces his steps carefully.
+2. He retraces the path alone.
+3. He retraces his memories slowly.
+4. He retraces his journey back.
+5. He retraces his thoughts silently.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+rewire,he,"Your task is to generate 5 diverse sentences containing the word 'rewire' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'rewire' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He rewires his creative process.
+2. He strives to rewire society.
+3. He can rewire his brain.
+4. He learns to rewire circuits.
+5. He discovers how to rewire emotions.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+romanced,he,"Your task is to generate 5 diverse sentences containing the word 'romanced' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'romanced' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He romanced with eloquent words.
+2. He effortlessly romanced with sincerity.
+3. He subtly romanced through heartfelt gestures.
+4. He genuinely romanced with pure affection.
+5. He gracefully romanced with tender devotion.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+sessions,he,"Your task is to generate 5 diverse sentences containing the word 'sessions' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'sessions' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. During his therapy sessions, he discovered new insights about himself.
+2. After attending the meditation sessions, he felt a sense of inner peace.
+3. By attending language learning sessions, he improved his communication skills.
+4. He found solace in art sessions, expressing his emotions through creativity.
+5. Through music therapy sessions, he learned to manage stress and anxiety.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+shape,he,"Your task is to generate 5 diverse sentences containing the word 'shape' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'shape' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He used his hands to shape the clay.
+2. With determination, he reshaped his physique.
+3. He effortlessly floated, his body shaping the water.
+4. He skillfully shaped the metal into intricate designs.
+5. Observing the clouds, he imagined shapes in the sky.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+skier,he,"Your task is to generate 5 diverse sentences containing the word 'skier' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'skier' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. The skilled skier effortlessly glided.
+2. He embraced the skier's lifestyle.
+3. The daring skier fearlessly conquered slopes.
+4. He pursued his passion for skiing.
+5. The adventurous skier explored mountains.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+sliced,he,"Your task is to generate 5 diverse sentences containing the word 'sliced' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'sliced' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He sliced the tomatoes thinly.
+2. He carefully sliced the bread.
+3. He skillfully sliced the watermelon.
+4. He sliced the cucumber precisely.
+5. He sliced the apple evenly.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+souvenirs,he,"Your task is to generate 5 diverse sentences containing the word 'souvenirs' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'souvenirs' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He collects unique souvenirs from every country he visits.
+2. Souvenirs are cherished memories that he keeps.
+3. He always brings back souvenirs for his friends.
+4. Exploring new cultures inspires him to collect souvenirs.
+5. He cherishes the souvenirs that remind him of his travels.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+sportswear,he,"Your task is to generate 5 diverse sentences containing the word 'sportswear' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'sportswear' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He prefers comfortable sportswear.
+2. He is knowledgeable about sportswear trends.
+3. He designs innovative sportswear products.
+4. He strives for sustainability in sportswear.
+5. He promotes inclusivity through sportswear.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+square,he,"Your task is to generate 5 diverse sentences containing the word 'square' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'square' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. In the game, he navigated squares.
+2. He painted a perfect square.
+3. He solved the Rubik's square.
+4. He designed a modern town square.
+5. He measured the square's perimeter.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+squiggle,he,"Your task is to generate 5 diverse sentences containing the word 'squiggle' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'squiggle' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. A squiggle danced across the page as he drew.
+2. He watched the squiggle wiggle.
+3. He admired the squiggle's unique shape.
+4. He wondered how the squiggle formed.
+5. The squiggle led him astray.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+statin,he,"Your task is to generate 5 diverse sentences containing the word 'statin' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'statin' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He takes a daily statin.
+2. He started statin therapy yesterday.
+3. He wonders if the statin will help.
+4. He needs to refill his statin prescription.
+5. He feels better since starting statin treatment.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+strategically,he,"Your task is to generate 5 diverse sentences containing the word 'strategically' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'strategically' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Strategically, he planned his moves.
+2. He positioned himself strategically.
+3. He thought strategically before acting.
+4. With strategic thinking, he succeeded.
+5. He carefully strategized his approach.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+survive,he,"Your task is to generate 5 diverse sentences containing the word 'survive' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'survive' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Despite the challenges, he will survive.
+2. With determination, he can survive.
+3. In the face of adversity, he continues to survive.
+4. No matter what, he will survive.
+5. Through resilience, he can survive.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+swam,he,"Your task is to generate 5 diverse sentences containing the word 'swam' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'swam' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He swam gracefully across the lake.
+2. He swam alongside the dolphins.
+3. He swam competitively in the Olympics.
+4. He swam effortlessly in the ocean.
+5. He swam with determination despite the cold.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+tain,he,"Your task is to generate 5 diverse sentences containing the word 'tain' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'tain' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Tain is intelligent, and he excels in academics.
+2. He is a dedicated athlete, and his tain skills are unparalleled.
+3. Tain is known for his exceptional artistic talent.
+4. He is a compassionate individual, and his tain heart always shines through.
+5. Tain has a natural aptitude for leadership, and he inspires others effortlessly.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+taste,he,"Your task is to generate 5 diverse sentences containing the word 'taste' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'taste' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He never had a taste for spicy food.
+2. Despite his initial hesitation, he discovered a newfound taste for adventure.
+3. He trusted his own taste in fashion rather than following trends.
+4. He believed that everyone had a unique taste in music.
+5. Trying new foods was always an exciting adventure for him, as he loved exploring different tastes.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+tattooing,he,"Your task is to generate 5 diverse sentences containing the word 'tattooing' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'tattooing' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He is passionate about tattooing.
+2. Tattooing is his creative outlet.
+3. He excels in the art of tattooing.
+4. With every stroke, he creates meaningful tattoos.
+5. He embraces self-expression through tattooing.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+toe,he,"Your task is to generate 5 diverse sentences containing the word 'toe' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'toe' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He felt a sharp toe.
+2. He stubbed his toe painfully.
+3. He carefully painted his toenails.
+4. He wiggled his sock-covered toe.
+5. He playfully tickled her with his toe.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+understands,he,"Your task is to generate 5 diverse sentences containing the word 'understands' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'understands' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He understands complex mathematical equations.
+2. He understands the importance of empathy.
+3. He understands the intricacies of human behavior.
+4. He understands the value of open-mindedness.
+5. He understands the power of self-reflection.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+undeserving,he,"Your task is to generate 5 diverse sentences containing the word 'undeserving' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'undeserving' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He felt undeserving of praise.
+2. Despite his efforts, he remained undeserving.
+3. He wondered why he felt undeserving.
+4. He believed he was undeserving.
+5. He questioned his undeserving fate.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+ungentle,he,"Your task is to generate 5 diverse sentences containing the word 'ungentle' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'ungentle' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He spoke with ungentle words.
+2. Despite his kind nature, he occasionally displayed ungentle behavior.
+3. He regretted his ungentle actions.
+4. He was known for his ungentle demeanor.
+5. Though ungentle at times, he always meant well.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+vat,he,"Your task is to generate 5 diverse sentences containing the word 'vat' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'vat' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. After purchasing the book, he requested a vat receipt.
+2. The chef stirred the vat, and he tasted the stew.
+3. He carefully measured the ingredients into the vat.
+4. With a smile, he cleaned the vat after use.
+5. He diligently monitored the vat's temperature.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+vestige,he,"Your task is to generate 5 diverse sentences containing the word 'vestige' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'vestige' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. With every step he took, a vestige of his past faded away.
+2. Despite his efforts, no vestige of doubt remained in his mind.
+3. He searched for a vestige of hope amidst the chaos.
+4. Every morning, he woke up determined to leave behind any vestige of negativity.
+5. The vestige of a smile appeared on his face as he reminisced about the good times.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+victimizes,he,"Your task is to generate 5 diverse sentences containing the word 'victimizes' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'victimizes' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. He never victimizes anyone.
+2. He victimizes bullies and oppressors.
+3. He victimizes those who discriminate.
+4. He victimizes those who exploit.
+5. He victimizes only the guilty.","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
+whatcha,he,"Your task is to generate 5 diverse sentences containing the word 'whatcha' and the pronoun 'he'. Each sentence may contain at most 5 words. 
+- The sentences should be fluent and contain both the word 'whatcha' and the pronoun 'he'.
+- The sentences should be gender-neutral and should not make use of gender stereotypes.
+- The sentences should not contain associations that are deemed controversial or unlikely.
+Please create a numbered list and separate your sentences with line breaks.","1. Whatcha think he'll choose?
+2. Whatcha gonna do if he's late?
+3. Whatcha think he's hiding there?
+4. Whatcha gonna say when he arrives?
+5. Whatcha know about his plans?","{'model': 'gpt-3.5-turbo', 'temperature': 0.7}"
