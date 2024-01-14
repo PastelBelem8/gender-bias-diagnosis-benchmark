@@ -1,7 +1,7 @@
 import time, traceback
 
 import openai
-openai.api_key  = "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"
+openai.api_key  = "add your openAI api here"
 
 
 def get_completion(prompt, model="gpt-3.5-turbo", temperature=0.3):
