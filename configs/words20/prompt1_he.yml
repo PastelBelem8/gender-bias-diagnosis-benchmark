@@ -1,8 +1,8 @@
 target_word: he
-output_dir: /home/cbelem/projects/pmi_project/experiments-iclr-2024/results-words20/words5
+output_dir: ./experiments-iclr-2024/results-words20/words5
 
 generation:
-  input_filepath: /home/cbelem/projects/pmi_project/experiments-iclr-2024/results-words20/words5/words.txt
+  input_filepath: ./experiments-iclr-2024/results-words20/words5/words.txt
   num_templates: 5
   num_words: 20
   # generation keyword arguments
