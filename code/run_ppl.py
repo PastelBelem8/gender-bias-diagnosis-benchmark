@@ -1,3 +1,4 @@
+"""Compute the perplexity for the templates"""
 import argparse, os, yaml
 import pandas as pd
 
@@ -8,8 +9,6 @@ from templates import fill_template
 from run_results import TEMPLATE_INFILS
 
 
-
-
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--configs_path", required=True, type=str)
@@ -18,9 +17,9 @@ if __name__ == "__main__":
     with open(args.configs_path) as f:
         configs = yaml.safe_load(f)
 
-    print("="*80)
+    print("=" * 80)
     print(configs)
-    print("="*80)
+    print("=" * 80)
 
     model_name = configs.pop("model_name", "gpt2-xl")
     MODEL_FILENAME, MODEL, TOKENIZER, _ = load_model(model_name)
@@ -45,10 +44,16 @@ if __name__ == "__main__":
             templates = data[template_col].values.tolist()
 
             for gender in ("male", "female"):
-                templates_modified = [fill_template(t, TEMPLATE_INFILS[gender]) for t in templates]
+                templates_modified = [
+                    fill_template(t, TEMPLATE_INFILS[gender]) for t in templates
+                ]
 
                 ppls = compute_perplexity(
-                    templates=templates_modified, model=MODEL, tokenizer=TOKENIZER, max_length=MODEL.config.n_positions, **exp_configs
+                    templates=templates_modified,
+                    model=MODEL,
+                    tokenizer=TOKENIZER,
+                    max_length=MODEL.config.n_positions,
+                    **exp_configs,
                 )
 
                 agg_results["n"].append(len(templates))
@@ -68,5 +73,4 @@ if __name__ == "__main__":
         print("Computed individual ppls for", len(results), "sequences")
         results.to_csv(f"{output_dir}/ind_ppl__{name}.csv")
         print("\n\n\n")
-
     pd.DataFrame(agg_results).to_csv(f"{output_dir}/aggregate_ppls.csv")

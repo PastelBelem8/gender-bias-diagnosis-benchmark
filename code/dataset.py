@@ -7,7 +7,7 @@ from typing import Dict, List
 BASE_DIR = "../other_benchmarks"
 
 
-def load_eec(filepath: str=None) -> List[str]:
+def load_eec(filepath: str = None) -> List[str]:
     if filepath is None:
         filepath = f"{BASE_DIR}/sent_analysis/EEC/Equity-Evaluation-Corpus.csv"
 
@@ -15,7 +15,7 @@ def load_eec(filepath: str=None) -> List[str]:
     return df["Sentence"].values.tolist()
 
 
-def load_winogender(filepath: str=None) -> List[str]:
+def load_winogender(filepath: str = None) -> List[str]:
     if filepath is None:
         filepath = f"{BASE_DIR}/coref/WinoGender.tsv"
 
@@ -23,7 +23,7 @@ def load_winogender(filepath: str=None) -> List[str]:
     return df["sentence"].values.tolist()
 
 
-def load_winobias(filepath: str=None, split="dev") -> List[str]:
+def load_winobias(filepath: str = None, split="dev") -> List[str]:
     if filepath is None:
         filepath = f"{BASE_DIR}/coref/WinoBias/*.txt.{split}"
         filepaths = sorted(glob.glob(filepath))
@@ -49,7 +49,7 @@ def load_winobias(filepath: str=None, split="dev") -> List[str]:
     return sentences
 
 
-def load_bug(filepath: str=None) -> List[str]:
+def load_bug(filepath: str = None) -> List[str]:
     if filepath is None:
         filepath = f"{BASE_DIR}/coref/BUG/full_bug.csv"
 
@@ -57,7 +57,7 @@ def load_bug(filepath: str=None) -> List[str]:
     return df["sentence_text"].values.tolist()
 
 
-def load_crows(filepath: str=None) -> List[str]:
+def load_crows(filepath: str = None) -> List[str]:
     if filepath is None:
         filepath = f"{BASE_DIR}/language_modeling/CrowS-pairs.csv"
 
@@ -65,10 +65,9 @@ def load_crows(filepath: str=None) -> List[str]:
     return df["sent_more"].values.tolist() + df["sent_less"].values.tolist()
 
 
-def load_stereoset(filepath: str=None) -> List[str]:
+def load_stereoset(filepath: str = None) -> List[str]:
     if filepath is None:
         filepath = f"{BASE_DIR}/language_modeling/StereoSet_dev.json"
-
 
     with open(filepath) as f:
         stereo_data = json.load(f)

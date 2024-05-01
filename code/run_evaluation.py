@@ -1,14 +1,11 @@
+"""Script to evaluate the log-probabilities of the templates."""
 import argparse
-import traceback, os, glob
+import traceback, glob
 import pandas as pd
 
 from templates import compute_templates_logprobs
 from model_utils import load_model
 
-
-def get_output_name(path: str, suffix: str, sep=".") -> str:
-    base_name, _, ext = path.rpartition(sep)
-    return f"{base_name}{suffix}{sep}{ext}"
 
 # Mapping from gender to the placeholders infills
 # (we replace occurrences of the KEYS {pronoun},
@@ -27,6 +24,11 @@ TEMPLATE_INFILS = {
 }
 
 
+def get_output_name(path: str, suffix: str, sep=".") -> str:
+    base_name, _, ext = path.rpartition(sep)
+    return f"{base_name}{suffix}{sep}{ext}"
+
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--model_name", default=f"EleutherAI/pythia-70m", type=str)
@@ -36,7 +38,9 @@ if __name__ == "__main__":
     parser.add_argument("--filename", default=None, type=str)
     args = parser.parse_args()
 
-    kwargs = {"revision": args.model_revision} if args.model_revision is not None else {}
+    kwargs = (
+        {"revision": args.model_revision} if args.model_revision is not None else {}
+    )
     print(kwargs, args.model_revision)
     MODEL_FILENAME, MODEL, TOKENIZER, _ = load_model(args.model_name, **kwargs)
     print(MODEL_FILENAME)
@@ -62,12 +66,16 @@ if __name__ == "__main__":
             kwargs = {"model": MODEL, "tokenizer": TOKENIZER}
             results = templates.copy()
 
-            male_results = compute_templates_logprobs(results["template"].values, MODEL, TOKENIZER, TEMPLATE_INFILS["male"])
+            male_results = compute_templates_logprobs(
+                results["template"].values, MODEL, TOKENIZER, TEMPLATE_INFILS["male"]
+            )
             results["M_num_tokens"] = male_results["num_tokens"]
             results["M_logprob"] = male_results["logprobs"]
             results["M_template"] = male_results["templates"]
 
-            female_results = compute_templates_logprobs(results["template"].values, MODEL, TOKENIZER, TEMPLATE_INFILS["female"])
+            female_results = compute_templates_logprobs(
+                results["template"].values, MODEL, TOKENIZER, TEMPLATE_INFILS["female"]
+            )
             results["F_num_tokens"] = female_results["num_tokens"]
             results["F_logprob"] = female_results["logprobs"]
             results["F_template"] = female_results["templates"]

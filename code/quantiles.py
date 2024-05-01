@@ -18,20 +18,28 @@ def quantile_intervals(
 ):
     desired_quantiles = torch.tensor(desired_quantiles, dtype=float)
 
-    desired_ranks = desired_quantiles.double()*n
+    desired_ranks = desired_quantiles.double() * n
     possible_ranks = torch.arange(0, n, 1).double()
-    dists = Binomial(total_count=n*torch.ones_like(desired_ranks), probs=desired_quantiles.double())
+    dists = Binomial(
+        total_count=n * torch.ones_like(desired_ranks), probs=desired_quantiles.double()
+    )
 
     pmfs = dists.log_prob(possible_ranks.unsqueeze(1)).exp().T
     cdfs = pmfs.cumsum(dim=1)
 
-    dists = cdfs.unsqueeze(-1) - cdfs.unsqueeze(-2)  # (batch, upper_interval_idx, lower_interval_idx)
+    dists = cdfs.unsqueeze(-1) - cdfs.unsqueeze(
+        -2
+    )  # (batch, upper_interval_idx, lower_interval_idx)
     valid_upper_indices = possible_ranks.unsqueeze(0) > desired_ranks.unsqueeze(-1)
     valid_lower_indices = possible_ranks.unsqueeze(0) < desired_ranks.unsqueeze(-1)
-    valid_indices = valid_upper_indices.unsqueeze(-1) & valid_lower_indices.unsqueeze(-2)
+    valid_indices = valid_upper_indices.unsqueeze(-1) & valid_lower_indices.unsqueeze(
+        -2
+    )
 
     valid_confs = dists >= desired_confidence
-    valid_dists = torch.where(valid_indices & valid_confs, dists, torch.finfo(torch.float64).max)
+    valid_dists = torch.where(
+        valid_indices & valid_confs, dists, torch.finfo(torch.float64).max
+    )
 
     interval_info = valid_dists.view(valid_dists.shape[0], -1).min(dim=-1)
     interval_indices, interval_widths = interval_info.indices, interval_info.values
